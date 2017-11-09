@@ -5,7 +5,7 @@ class USMap {
      * Initializes the svg elements required for this chart;
      */
     constructor(){
-	    // this.margin = {top: 30, right: 20, bottom: 30, left: 50};
+	    this.margin = {top: 30, right: 20, bottom: 30, left: 50};
 	    // self.usmapDiv = d3.select("#usmapdiv").classed("content", true);
       // //fetch the svg bounds
 	    // this.svgBounds = self.usmapDiv.node().getBoundingClientRect();
@@ -20,7 +20,7 @@ class USMap {
     }
 
     drawMap(data){
-      console.log(data);
+      // console.log(data);
       this.svgWidth = 800;
       this.svgHeight = 600;
       let projection = d3.geoAlbersUsa()  // a USA-specific projection (that deals with Hawaii / Alaska)
@@ -29,15 +29,16 @@ class USMap {
 
       let path = d3.geoPath().projection(projection);
       let geodata = topojson.feature(data, data.objects.states);
-      console.log(geodata);
-      console.log("hello1")
+
+
       var paths = d3.select("#usmap").selectAll("path")
         .data(geodata.features)
         .enter()
         .append("path")
-        .attr("d", path);
 
-    }
+        .attr("d", path).style("stroke", "green")
+	       .style("stroke-width", "1");
 
 
+}
 }
