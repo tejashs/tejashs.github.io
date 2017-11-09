@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="public/css/style.css"/>
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
 </head>
 
 <body>
@@ -20,34 +21,12 @@
 
 
 
-<div id = "shiftChart" class = "view">
-    <h3>Brush selection is: </h3>
-    <span id="stateList">
-  </span>
+<div id="usmapdiv" class = "view">
+  <svg width="800" height="600  ">
+      <g id="usmap"></g>
+  </svg>
 </div>
 
-<div id = "electoral-vote" class = "view">
-</div>
-
-
-<div id = "votes-percentage" class = "view">
-</div>
-
-<div id = "tileChart" class = "view">
-    <div id="legend" class = "view"></div>
-    <div id = "tiles" class = "view"></div>
-</div>
-
-<div id = "voterShiftChartDiv" class = "view">
-  <h3>Voter Shift Chart</h3>
-  <h4>Year Brush selection is: </h4>
-  <span id="voterShiftChartList">
-</span>
-</div>
-
-<div id = "totalVoterShiftChartDiv" class = "view">
-  <h4 id="percentageShiftHeader"></h4>
-</div>
 
 <script type="application/javascript" src="public/js/worldmap.js"></script>
 <script type="application/javascript" src="public/js/usmap.js"></script>
