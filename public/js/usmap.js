@@ -30,11 +30,13 @@ class USMap {
       let path = d3.geoPath().projection(projection);
       let geodata = topojson.feature(data, data.objects.states);
       console.log(geodata);
+      console.log("hello1")
       var paths = d3.select("#usmap").selectAll("path")
         .data(geodata.features)
         .enter()
         .append("path")
         .attr("d", path);
+
     }
 
 
