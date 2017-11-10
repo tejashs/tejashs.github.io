@@ -35,7 +35,19 @@ class USMap {
                 .append("path")
                 // here we use the familiar d attribute again to define the path
                 .attr("d", path);
->>>>>>> master
+       // var cord=[40.610069,-73.947971]
+        var cord=[-74,40]
+        // con
+
+        console.log(projection(cord))
+        console.log(projection([1,5]))
+        let mark2=d3.select("#usmap")
+            .append("circle")
+            .classed("silver",true)
+            .attr("cx", projection(cord[0]))
+            .attr("cy", projection(cord[1]))
+            .attr("r", 6);
+
 
   }
 }
