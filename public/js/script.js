@@ -1,4 +1,7 @@
 let usMap = new USMap();
+let yearchart = new YearChart(usMap);
+
+let summary = new Summary();
 
 let barChart = null;
 
@@ -18,3 +21,10 @@ function changeData() {
     barChart.updateBarChart(metric)
 
 }
+
+d3.csv("data/united_states_gtd.csv", function(error, us) {
+  if (error) throw error;
+  usMap.setEntireData(us);
+  usMap.plotStates(us);
+  yearchart.update(us)
+});

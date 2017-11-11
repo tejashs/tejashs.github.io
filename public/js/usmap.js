@@ -5,35 +5,109 @@ class USMap {
      * Initializes the svg elements required for this chart;
      */
     constructor(){
-	    this.margin = {top: 30, right: 20, bottom: 30, left: 50};
+      this.margin = {top: 30, right: 20, bottom: 30, left: 50};
+      let width = 1200;
+      let height = 800;
+
+      this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height / 2]).scale([1200]);
+      this.path = d3.geoPath().projection(this.projection);
+    }
+
+    tooltip_render(tooltip_data) {
+      let text = "<h2>" + tooltip_data.state + " - " + tooltip_data.city + "</h2>";
+      text += "<ul>"
+      text += "<li>"
+      text += "Year - "
+      text += tooltip_data.year
+      text += "</li>"
+      text += "<li>"
+      text += "Target - "
+      text += tooltip_data.target
+      text += "</li>"
+      text += "<li>"
+      text += "Fatalities - "
+      text += tooltip_data.fatalities
+      text += "</li>"
+      text += "<li>"
+      text += "Injuries - "
+      text += tooltip_data.injuries
+      text += "</li>"
+      text += "</ul>";
+      return text;
+    }
+
+    setEntireData(fullData){
+      this.allYearsData = fullData;
     }
 
     drawMap(data){
-      console.log(data);
-      // var svg = d3.select("svg");
-      // var path = d3.geoPath();
-      // svg.append("g")
-      // .attr("class", "states")
-      // .selectAll("path")
-      // .data(topojson.feature(data, data.objects.states).features)
-      // .enter().append("path")
-      // .attr("d", path).style("stroke", "green")
-      // .style("stroke-width", "1")
-      // .style("fill", function(d){
-      //   console.log(d);
-      //   return "steelblue";
-      // });
-
-      let width = 800;
-      let height = 600;
-      let projection = d3.geoAlbersUsa().translate([width / 2, height / 2]).scale([700]);
-      let path = d3.geoPath().projection(projection);
+      let self = this;
       d3.select("#usmap").selectAll("path")
-                .data(data.features)
-                .enter()
-                .append("path")
-                // here we use the familiar d attribute again to define the path
-                .attr("d", path);
+      .data(data.features)
+      .enter()
+      .append("path")
+      .attr("d", self.path);
+    }
 
-  }
+    plotStates(data){
+      let self = this;
+      let crapGps = [];
+      var circles = d3.select("#circleGroup").selectAll("circle").data(data);
+      let circlesEnter = circles.enter().append("circle");
+      circles.exit().remove();
+      circles = circlesEnter.merge(circles);
+      circles.attr("r", 5)
+      .attr("cx", function(d){
+        let proj = self.projection([d.longitude, d.latitude]);
+        if(proj){
+          return proj[0];
+        }
+        else {
+          if(!crapGps.includes(d.state)){
+              crapGps.push(d.state);
+          }
+          return 0;
+        }
+      })
+      .attr("cy", function(d){
+        let proj = self.projection([d.longitude, d.latitude]);
+        if(proj){
+          return proj[1];
+        }
+        else {
+          if(!crapGps.includes(d.state)){
+              crapGps.push(d.state);
+          }
+          return 0;
+        }
+      })
+      .style("fill", "green");
+      //for reference:https://github.com/Caged/d3-tip
+      //Use this tool tip element to handle any hover over the chart
+          let tip = d3.tip().attr('class', 'd3-tip')
+              .direction('se')
+              .offset(function() {
+                  return [-100,0];
+              })
+              .html((d)=>{
+                  return self.tooltip_render(d);
+              });
+
+              circles.call(tip);
+              circles.on('mouseover', tip.show).on('mouseout', tip.hide);
+    }
+
+    plotFilteredData(years){
+      let allData = this.allYearsData.slice(0);
+      let fData = this.filterDataByYear(years, allData);
+      this.plotStates(fData);
+    }
+
+    filterDataByYear(years, data){
+      let yearData = data.filter(function(d){
+        return years.includes(d.year);
+      });
+      return yearData;
+    }
+
 }

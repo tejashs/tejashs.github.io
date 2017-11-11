@@ -3,3 +3,39 @@ path {
     stroke-width: 1px;
     stroke: #222;
 }
+
+.lineChart{
+    stroke:#000;
+    stroke-dasharray:4;
+}
+
+.yeartext{
+    text-anchor:start;
+    font-size: 12px;
+    fill: #565656;
+    stroke-width: 0.1px;
+    /*stroke: #e5e5e5;*/
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+.sideBar {
+    display: inline-block;
+    width: 30%;
+    float:right;
+}
+
+.content {
+    display: inline-block;
+    width: 70%;
+}
+
+.brush .selection {
+    fill-opacity: .5;
+}
