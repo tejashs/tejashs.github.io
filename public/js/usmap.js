@@ -36,6 +36,9 @@ class USMap {
       return text;
     }
 
+    setEntireData(fullData){
+      this.allYearsData = fullData;
+    }
 
     drawMap(data){
       let self = this;
@@ -48,7 +51,6 @@ class USMap {
 
     plotStates(data){
       let self = this;
-      self.allYearsData = data;
       let crapGps = [];
       var circles = d3.select("#circleGroup").selectAll("circle").data(data);
       let circlesEnter = circles.enter().append("circle");
@@ -96,7 +98,6 @@ class USMap {
     }
 
     plotFilteredData(years){
-        console.log("im here")
       let allData = this.allYearsData.slice(0);
       let fData = this.filterDataByYear(years, allData);
       this.plotStates(fData);

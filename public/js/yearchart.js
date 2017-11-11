@@ -19,7 +19,6 @@ class YearChart {
             .attr("height", this.svgHeight)
     };
     update (data) {
-        console.log(data)
         let year=[]
         for (let i=1970; i<=2016; i++){
             year.push(i)
@@ -91,7 +90,7 @@ class YearChart {
 
             for (let i=0;i<year.length;i++){
                 if (yearScale(year[i])<=d3.event.selection[1] &&  yearScale(year[i]) >=d3.event.selection[0])
-                {years.push(year[i])}
+                {years.push(year[i].toString())}
             }
             that.usMap.plotFilteredData(years)
             // console.log(years)
