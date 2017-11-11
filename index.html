@@ -8,6 +8,7 @@
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="http://d3js.org/queue.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 </head>
 
 <body>
@@ -22,16 +23,35 @@
 
 
 <div id="usmapdiv" class = "view">
-  <svg width="800" height="600  ">
+  <svg width="800" height="600">
       <g id="usmap"></g>
   </svg>
 </div>
 
+<span>
+    <label>Metric:</label>
+    <select id="metric" onchange="changeData(this);">
+        <option value="num_attacks">Number of Attacks</option>
+        <option selected value="fatalities">Number of Fatalities</option>
+        <option value="injuries">Number of Injuries</option>
+    </select>
+</span>
 
+<div id="barchart" class = "view">
+  <svg width="800" height="600">
+  	  <g id="xAxis"></g>
+      <g id="yAxis"></g>
+      <g id="bars"></g>
+  </svg>
+</div>
+
+
+<script type="application/javascript" src="public/js/barchart.js"></script>
 <script type="application/javascript" src="public/js/worldmap.js"></script>
 <script type="application/javascript" src="public/js/usmap.js"></script>
 <script type="application/javascript" src="public/js/yearchart.js"></script>
 <script type="application/javascript" src="public/js/script.js">
+
 
 </script>
 </body>
