@@ -1,11 +1,6 @@
-/** Class implementing the votePercentageChart. */
 class USMap {
 
-    /**
-     * Initializes the svg elements required for this chart;
-     */
     constructor(summary){
-      this.margin = {top: 30, right: 20, bottom: 30, left: 50};
       this.summary = summary;
       let width = 1200;
       let height = 800;

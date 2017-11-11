@@ -29,7 +29,7 @@ class BarChart {
         var svg = d3.select("#barchart")
 
         let margin = {top: 50, right: 20, bottom: 70, left: 60}
-        
+
         let width = 800 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
 
@@ -48,13 +48,13 @@ class BarChart {
 
         var xAxis = svg.select("#xAxis")
         .attr("transform", "translate(" + margin.left + "," + (600 - margin.bottom) + ")")
-        
+
         var yAxis = svg.select("#yAxis")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        
+
         var bars = svg.select("#bars")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        
+
         xAxis.call(d3.axisBottom(xScale))
         .selectAll("text")
         .attr("dy", "-0.7em")
@@ -72,18 +72,33 @@ class BarChart {
         var mergedBar = bar.enter().append("rect").merge(bar)
         mergedBar
         .transition().duration(1000)
-        .attr("x", function(d) { 
-            return xScale(d.country); 
+        .attr("x", function(d) {
+            return xScale(d.country);
         })
-        .attr("y", function(d) { 
-            return yScale(d[selectedDimension]); 
+        .attr("y", function(d) {
+            return yScale(d[selectedDimension]);
         })
         .attr("width", xScale.bandwidth())
-        .attr("height", function(d) { 
-            return height - yScale(d[selectedDimension]); 
+        .attr("height", function(d) {
+            return height - yScale(d[selectedDimension]);
         })
         .attr("fill", function(d){
             return c20b[regions.indexOf(d.region)];
-        }) 
+        });
+
+        let self = this;
+        let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
+                    return [-100,0];
+                }).html((d)=>{
+                    return self.getToolTipText(d, selectedDimension);
+                });
+        mergedBar.call(tip);
+        mergedBar.on('mouseover', tip.show).on('mouseout', tip.hide);
+
+    }
+
+    getToolTipText(data, selectedDimension){
+        let val = getStringForKey(selectedDimension) + " : " + data[selectedDimension];
+        return val;
     }
 }
