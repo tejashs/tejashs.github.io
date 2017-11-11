@@ -1,8 +1,8 @@
-let usMap = new USMap();
+let summary = new Summary();
+let usMap = new USMap(summary);
 let yearchart = new YearChart(usMap);
 
-let summary = new Summary();
-
+let barChart = null;
 
 // d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
 d3.json("data/ustopo.json", function(error, us) {
@@ -10,6 +10,16 @@ d3.json("data/ustopo.json", function(error, us) {
   usMap.drawMap(us);
 });
 
+d3.csv("data/gtd_by_countries.csv", function(error, data) {
+	if (error) throw error;
+  	barChart = new BarChart(data);
+});
+
+function changeData() {
+    let metric = document.getElementById('metric').value;
+    barChart.updateBarChart(metric)
+
+}
 
 d3.csv("data/united_states_gtd.csv", function(error, us) {
   if (error) throw error;

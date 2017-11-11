@@ -4,7 +4,6 @@ path {
     stroke: #222;
 }
 
-
 .lineChart{
     stroke:#000;
     stroke-dasharray:4;
@@ -41,7 +40,14 @@ path {
     fill-opacity: .5;
 }
 
+
 .yearCircle {
     fill: #000080;
 
 }
+
+.selected {
+    stroke: #be2714;
+    stroke-width: 4px;
+}
+
