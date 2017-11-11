@@ -89,6 +89,10 @@ class YearChart {
             let years=[]
 
             for (let i=0;i<year.length;i++){
+              if(!d3.event.selection){
+                  that.usMap.plotFilteredData([]);
+                  return;
+              }
                 if (yearScale(year[i])<=d3.event.selection[1] &&  yearScale(year[i]) >=d3.event.selection[0])
                 {years.push(year[i].toString())}
             }
