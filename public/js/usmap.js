@@ -98,7 +98,7 @@ class USMap {
     plotFilteredData(years){
       let allData = this.allYearsData.slice(0);
       let fData = this.filterDataByYear(years, allData);
-      plotStates(fData);
+      this.plotStates(fData);
     }
 
     filterDataByYear(years, data){
