@@ -26,3 +26,14 @@ path {
   border-radius: 2px;
 }
 
+.sideBar {
+    display: inline-block;
+    width: 30%;
+    float:right;
+}
+
+.content {
+    display: inline-block;
+    width: 70%;
+}
+
