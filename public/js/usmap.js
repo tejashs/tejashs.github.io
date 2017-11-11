@@ -24,7 +24,7 @@ class USMap {
     }
 
     plotStates(data){
-      console.log(data);
+      // console.log(data);
       let self = this;
       d3.select("#circleGroup").selectAll("circle")
       .data(data)
