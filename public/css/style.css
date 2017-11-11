@@ -4,6 +4,7 @@ path {
     stroke: #222;
 }
 
+
 .lineChart{
     stroke:#000;
     stroke-dasharray:4;
@@ -16,3 +17,12 @@ path {
     stroke-width: 0.1px;
     /*stroke: #e5e5e5;*/
 }
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
