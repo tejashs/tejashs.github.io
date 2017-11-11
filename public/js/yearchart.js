@@ -32,7 +32,7 @@ class YearChart {
             .attr("x2",this.svgWidth)
             .attr("y2",yh)
             .classed("lineChart",true)
-        let radius=6
+        let radius=9
         let yearScale = d3
             .scaleLinear()
             .domain([year[0],year[year.length -1]])
@@ -74,7 +74,7 @@ class YearChart {
                 // })
                 // .style("text-anchor", "middle").attr("dx", "-.6em")
                 // .attr("dy", "-.20em").attr("transform", "rotate(-90)");
-                .classed('yearText',true);
+                .classed('yeartext',true);
         }
 
     // t.selectAll("text")

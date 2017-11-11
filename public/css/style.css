@@ -11,9 +11,11 @@ path {
 
 .yeartext{
     text-anchor:start;
-    font-size: 12px;
-    fill: #565656;
-    stroke-width: 0.1px;
+    font-size: 22px;
+    fill: #404040;
+    stroke-width: 4.8px;
+    font-weight:bold;
+    /*font-size:4.9em*/
     /*stroke: #e5e5e5;*/
 }
 .d3-tip {
@@ -42,7 +44,8 @@ path {
 
 
 .yearCircle {
-    fill: #000080;
+    fill: #4747d1;
+
 
 }
 
