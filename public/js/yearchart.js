@@ -35,7 +35,7 @@ class YearChart {
         let yearScale = d3
             .scaleLinear()
             .domain([year[0],year[year.length -1]])
-            .range([radius*4,this.svgWidth-4*radius]);
+            .range([radius*4,this.svgWidth-5*radius]);
 
         let t=    year_chart.append("g");
         for (let i of year) {
@@ -54,6 +54,7 @@ class YearChart {
             // });
             let rot=45
             t.append("text")
+                // .attr("transform", "rotate(45)")
                 .attr("x",function () {
                     return yearScale(i)})
                 .attr("y",50)
@@ -61,12 +62,15 @@ class YearChart {
                 // .attr("dy",".30em")
                 // .attr("dx",".10em")
                 .text(function() { return i; })
-                .attr("transform", "rotate(45,"+yearScale(i)-20+",90)")
-                .attr("transform",function(d,i){
-                    if (i==1){
-                        return "rotate(-90)";
-                    }
-                })
+                .attr("transform", function(){
+                    let lx=yearScale(i)+10
+                    return "rotate(60,"+lx+",42)"})
+                // .attr("transform", "rotate(45,350,50)")
+                // .attr("transform",function(d,i){
+                //     if (i==1){
+                //         return "rotate(-90)";
+                //     }
+                // })
                 // .style("text-anchor", "middle").attr("dx", "-.6em")
                 // .attr("dy", "-.20em").attr("transform", "rotate(-90)");
                 .classed('yearText',true);
@@ -77,5 +81,6 @@ class YearChart {
     //         // .attr("dx", "-.8em")
     //         // .attr("dy", ".15em")
     //         .attr("transform", "rotate(45)");
+
     }
 }
