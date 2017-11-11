@@ -1,7 +1,6 @@
-let usMap = new USMap();
-let yearchart = new YearChart(usMap);
-
 let summary = new Summary();
+let usMap = new USMap(summary);
+let yearchart = new YearChart(usMap);
 
 let barChart = null;
 

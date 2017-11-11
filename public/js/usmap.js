@@ -4,12 +4,13 @@ class USMap {
     /**
      * Initializes the svg elements required for this chart;
      */
-    constructor(){
+    constructor(summary){
       this.margin = {top: 30, right: 20, bottom: 30, left: 50};
+      this.summary = summary;
       let width = 1200;
       let height = 800;
 
-      this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height / 2]).scale([1200]);
+      this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height /3]).scale([1200]);
       this.path = d3.geoPath().projection(this.projection);
     }
 
@@ -83,18 +84,23 @@ class USMap {
       })
       .style("fill", "green");
       //for reference:https://github.com/Caged/d3-tip
-      //Use this tool tip element to handle any hover over the chart
-          let tip = d3.tip().attr('class', 'd3-tip')
-              .direction('se')
-              .offset(function() {
+      let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
                   return [-100,0];
-              })
-              .html((d)=>{
+              }).html((d)=>{
                   return self.tooltip_render(d);
               });
+      circles.call(tip);
+      circles.on('mouseover', tip.show).on('mouseout', tip.hide);
 
-              circles.call(tip);
-              circles.on('mouseover', tip.show).on('mouseout', tip.hide);
+      circles.on('click', function(d){
+        self.showSummary(d);
+      });
+
+
+    }
+
+    showSummary(data){
+        this.summary.updateText(data.summary);
     }
 
     plotFilteredData(years){
