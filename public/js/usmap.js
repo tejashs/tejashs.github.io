@@ -82,7 +82,7 @@ class USMap {
           return 0;
         }
       })
-      .style("fill", "green");
+      .style("fill", "#D22727");
       //for reference:https://github.com/Caged/d3-tip
       let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
                   return [-100,0];
@@ -105,8 +105,13 @@ class USMap {
 
     plotFilteredData(years){
       let allData = this.allYearsData.slice(0);
-      let fData = this.filterDataByYear(years, allData);
-      this.plotStates(fData);
+      if(years.length > 0){
+        let fData = this.filterDataByYear(years, allData);
+        this.plotStates(fData);
+      }
+      else{
+        this.plotStates(allData);
+      }
     }
 
     filterDataByYear(years, data){
