@@ -83,7 +83,8 @@ class YearChart {
     //         // .attr("dy", ".15em")
     //         .attr("transform", "rotate(45)");
 
-        var brush = d3.brushX().extent([[0,0],[this.svgWidth,this.svgHeight-40]]).on("end", brushed);
+        var brush = d3.brushX().extent([[0,30],[this.svgWidth,this.svgHeight-20]]).on("end", brushed);
+        this.brush = brush;
         year_chart.append("g").attr("class", "brush").call(brush);
         function brushed(){
             let years=[]
@@ -100,6 +101,15 @@ class YearChart {
             // console.log(years)
 
         }
+
+        d3.select("#year-chart").selectAll("circle").on("mouseover", function(d,i){
+          d3.select(this).classed("yearSelected", true);
+        }).on("mouseout", function(d,i){
+          d3.select(this).classed("yearSelected", false);
+        }).on("click", function(d,i){
+          let val = [year[i].toString()];
+          that.usMap.plotFilteredData(val);
+        })
 
     }
 }

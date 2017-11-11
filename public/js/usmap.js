@@ -79,13 +79,24 @@ class USMap {
       })
       .style("fill", "#D22727");
       //for reference:https://github.com/Caged/d3-tip
-      let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
-                  return [-100,0];
+      self.tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
+                  return [20,30];
               }).html((d)=>{
-                  return self.tooltip_render(d);
+                let val = self.tooltip_render(d);
+                if(!val){
+                  return "";
+                }
+                  return val;
               });
-      circles.call(tip);
-      circles.on('mouseover', tip.show).on('mouseout', tip.hide);
+      circles.call(self.tip);
+      circles.on('mouseover', function(d,i){
+        d3.select(this).classed("attackSelected", true);
+        self.tip.show(d);
+        self.showSummary(d);
+      }).on('mouseout', function(d,i){
+        d3.select(this).classed("attackSelected", false);
+        self.tip.hide(d);
+      });
 
       circles.on('click', function(d){
         self.showSummary(d);
@@ -95,7 +106,12 @@ class USMap {
     }
 
     showSummary(data){
+      if(!data || data.length == 0){
+        this.summary.updateText("");
+      }
+      else {
         this.summary.updateText(data.summary);
+      }
     }
 
     plotFilteredData(years){
