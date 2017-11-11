@@ -93,8 +93,8 @@ class YearChart {
                 if (yearScale(year[i])<=d3.event.selection[1] &&  yearScale(year[i]) >=d3.event.selection[0])
                 {years.push(year[i])}
             }
-            that.usMap.
-            console.log(years)
+            that.usMap.plotFilteredData(years)
+            // console.log(years)
 
         }
 
