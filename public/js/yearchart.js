@@ -82,5 +82,8 @@ class YearChart {
     //         // .attr("dy", ".15em")
     //         .attr("transform", "rotate(45)");
 
+        var brush = d3.brushX().extent([[0,50],[this.svgWidth,this.svgHeight]]).on("end", brushed);
+        year_chart.append("g").attr("class", "brush").call(brush);
+
     }
 }

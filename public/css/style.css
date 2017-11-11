@@ -11,7 +11,7 @@ path {
 }
 
 .yeartext{
-    text-anchor:end;
+    text-anchor:start;
     font-size: 12px;
     fill: #565656;
     stroke-width: 0.1px;
@@ -35,5 +35,9 @@ path {
 .content {
     display: inline-block;
     width: 70%;
+}
+
+.brush .selection {
+    fill-opacity: .5;
 }
 
