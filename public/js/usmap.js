@@ -9,7 +9,7 @@ class USMap {
       let width = 1200;
       let height = 800;
 
-      this.projection = d3.geoAlbersUsa().translate([width/ 2, height / 2]).scale([1200]);
+      this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height / 2]).scale([1200]);
       this.path = d3.geoPath().projection(this.projection);
     }
 
