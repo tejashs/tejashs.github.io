@@ -47,6 +47,7 @@ class USMap {
     }
 
     plotStates(data){
+
       let self = this;
       let crapGps = [];
       var circles = d3.select("#circleGroup").selectAll("circle")

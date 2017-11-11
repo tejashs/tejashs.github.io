@@ -4,6 +4,19 @@ path {
     stroke: #222;
 }
 
+
+.lineChart{
+    stroke:#000;
+    stroke-dasharray:4;
+}
+
+.yeartext{
+    text-anchor:middle;
+    font-size: 4px;
+    fill: #565656;
+    stroke-width: 0.1px;
+    /*stroke: #e5e5e5;*/
+}
 .d3-tip {
   line-height: 1;
   font-weight: bold;
@@ -23,3 +36,4 @@ path {
     display: inline-block;
     width: 70%;
 }
+
