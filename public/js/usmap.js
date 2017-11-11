@@ -47,14 +47,14 @@ class USMap {
     }
 
     plotStates(data){
-
       let self = this;
+      self.allYearsData = data;
       let crapGps = [];
-      var circles = d3.select("#circleGroup").selectAll("circle")
-      .data(data)
-      .enter()
-      .append("circle")
-      .attr("r", 5)
+      var circles = d3.select("#circleGroup").selectAll("circle").data(data);
+      let circlesEnter = circles.enter().append("circle");
+      circles.exit().remove();
+      circles = circlesEnter.merge(circles);
+      circles.attr("r", 5)
       .attr("cx", function(d){
         let proj = self.projection([d.longitude, d.latitude]);
         if(proj){
@@ -80,8 +80,6 @@ class USMap {
         }
       })
       .style("fill", "green");
-
-
       //for reference:https://github.com/Caged/d3-tip
       //Use this tool tip element to handle any hover over the chart
           let tip = d3.tip().attr('class', 'd3-tip')
@@ -95,7 +93,19 @@ class USMap {
 
               circles.call(tip);
               circles.on('mouseover', tip.show).on('mouseout', tip.hide);
-
-
     }
+
+    plotFilteredData(years){
+      let allData = this.allYearsData.slice(0);
+      let fData = this.filterDataByYear(years, allData);
+      plotStates(fData);
+    }
+
+    filterDataByYear(years, data){
+      let yearData = data.filter(function(d){
+        return years.includes(d.year);
+      });
+      return yearData;
+    }
+
 }
