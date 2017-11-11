@@ -1,5 +1,5 @@
 let usMap = new USMap();
-let yearchart = new YearChart();
+let yearchart = new YearChart(usMap);
 
 let summary = new Summary();
 

@@ -1,6 +1,8 @@
 class YearChart {
 
-    constructor () {
+    constructor (usMap) {
+
+        this.usMap=usMap
 
         // Initializes the svg elements required for this chart
         this.margin = {top: 10, right: 20, bottom: 30, left: 50};
@@ -82,8 +84,19 @@ class YearChart {
     //         // .attr("dy", ".15em")
     //         .attr("transform", "rotate(45)");
 
-        var brush = d3.brushX().extent([[0,50],[this.svgWidth,this.svgHeight]]).on("end", brushed);
+        var brush = d3.brushX().extent([[0,0],[this.svgWidth,this.svgHeight-40]]).on("end", brushed);
         year_chart.append("g").attr("class", "brush").call(brush);
+        function brushed(){
+            let years=[]
+
+            for (let i=0;i<year.length;i++){
+                if (yearScale(year[i])<=d3.event.selection[1] &&  yearScale(year[i]) >=d3.event.selection[0])
+                {years.push(year[i])}
+            }
+            that.usMap.
+            console.log(years)
+
+        }
 
     }
 }
