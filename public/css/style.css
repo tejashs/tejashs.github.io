@@ -41,3 +41,7 @@ path {
     fill-opacity: .5;
 }
 
+.selected {
+    stroke: #be2714;
+    stroke-width: 4px;
+}
