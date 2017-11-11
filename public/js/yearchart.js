@@ -32,7 +32,7 @@ class YearChart {
             .attr("x2",this.svgWidth)
             .attr("y2",yh)
             .classed("lineChart",true)
-        let radius=5
+        let radius=6
         let yearScale = d3
             .scaleLinear()
             .domain([year[0],year[year.length -1]])
@@ -48,8 +48,8 @@ class YearChart {
                     return yearScale(i)
                 })
                 .attr("cy", yh)
-                .attr("r", radius);
-            // .classed("yearChart",true)
+                .attr("r", radius)
+            .classed("yearCircle",true);
             // .attr("class", function () {
             //     return that.chooseClass(i["PARTY"]);
             // });
