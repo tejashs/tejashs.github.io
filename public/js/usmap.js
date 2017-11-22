@@ -1,11 +1,6 @@
-/** Class implementing the votePercentageChart. */
 class USMap {
 
-    /**
-     * Initializes the svg elements required for this chart;
-     */
     constructor(summary){
-      this.margin = {top: 30, right: 20, bottom: 30, left: 50};
       this.summary = summary;
       let width = 1200;
       let height = 800;
@@ -82,15 +77,26 @@ class USMap {
           return 0;
         }
       })
-      .style("fill", "green");
+      .style("fill", "#D22727");
       //for reference:https://github.com/Caged/d3-tip
-      let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
-                  return [-100,0];
+      self.tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
+                  return [20,30];
               }).html((d)=>{
-                  return self.tooltip_render(d);
+                let val = self.tooltip_render(d);
+                if(!val){
+                  return "";
+                }
+                  return val;
               });
-      circles.call(tip);
-      circles.on('mouseover', tip.show).on('mouseout', tip.hide);
+      circles.call(self.tip);
+      circles.on('mouseover', function(d,i){
+        d3.select(this).classed("attackSelected", true);
+        self.tip.show(d);
+        self.showSummary(d);
+      }).on('mouseout', function(d,i){
+        d3.select(this).classed("attackSelected", false);
+        self.tip.hide(d);
+      });
 
       circles.on('click', function(d){
         self.showSummary(d);
@@ -100,13 +106,23 @@ class USMap {
     }
 
     showSummary(data){
+      if(!data || data.length == 0){
+        this.summary.updateText("");
+      }
+      else {
         this.summary.updateText(data.summary);
+      }
     }
 
     plotFilteredData(years){
       let allData = this.allYearsData.slice(0);
-      let fData = this.filterDataByYear(years, allData);
-      this.plotStates(fData);
+      if(years.length > 0){
+        let fData = this.filterDataByYear(years, allData);
+        this.plotStates(fData);
+      }
+      else{
+        this.plotStates(allData);
+      }
     }
 
     filterDataByYear(years, data){

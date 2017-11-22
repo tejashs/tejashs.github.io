@@ -32,7 +32,7 @@ class YearChart {
             .attr("x2",this.svgWidth)
             .attr("y2",yh)
             .classed("lineChart",true)
-        let radius=5
+        let radius=9
         let yearScale = d3
             .scaleLinear()
             .domain([year[0],year[year.length -1]])
@@ -48,8 +48,8 @@ class YearChart {
                     return yearScale(i)
                 })
                 .attr("cy", yh)
-                .attr("r", radius);
-            // .classed("yearChart",true)
+                .attr("r", radius)
+            .classed("yearCircle",true);
             // .attr("class", function () {
             //     return that.chooseClass(i["PARTY"]);
             // });
@@ -74,7 +74,7 @@ class YearChart {
                 // })
                 // .style("text-anchor", "middle").attr("dx", "-.6em")
                 // .attr("dy", "-.20em").attr("transform", "rotate(-90)");
-                .classed('yearText',true);
+                .classed('yeartext',true);
         }
 
     // t.selectAll("text")
@@ -83,12 +83,17 @@ class YearChart {
     //         // .attr("dy", ".15em")
     //         .attr("transform", "rotate(45)");
 
-        var brush = d3.brushX().extent([[0,0],[this.svgWidth,this.svgHeight-40]]).on("end", brushed);
+        var brush = d3.brushX().extent([[0,30],[this.svgWidth,this.svgHeight-20]]).on("end", brushed);
+        this.brush = brush;
         year_chart.append("g").attr("class", "brush").call(brush);
         function brushed(){
             let years=[]
 
             for (let i=0;i<year.length;i++){
+              if(!d3.event.selection){
+                  that.usMap.plotFilteredData([]);
+                  return;
+              }
                 if (yearScale(year[i])<=d3.event.selection[1] &&  yearScale(year[i]) >=d3.event.selection[0])
                 {years.push(year[i].toString())}
             }
@@ -96,6 +101,15 @@ class YearChart {
             // console.log(years)
 
         }
+
+        d3.select("#year-chart").selectAll("circle").on("mouseover", function(d,i){
+          d3.select(this).classed("yearSelected", true);
+        }).on("mouseout", function(d,i){
+          d3.select(this).classed("yearSelected", false);
+        }).on("click", function(d,i){
+          let val = [year[i].toString()];
+          that.usMap.plotFilteredData(val);
+        })
 
     }
 }

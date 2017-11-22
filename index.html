@@ -14,7 +14,7 @@
 <body>
 
 <h1>Global Terrorism Visualization</h1>
-<p class="info">Name: Akshay Khatwani; E-Mail: ; UID: </p>
+<p class="info">Name: Akshay Khatwani; E-Mail: akshay.khatwani@utah.edu ; UID:u1071619 </p>
 <p class="info">Name: Giorgi Kvernadze; E-Mail: ; UID:</p>
 <p class="info">Name: Tejas Hirekatur Sreedhar; E-Mail: tejashs@cs.utah.edu; UID: U1077667</p>
 
@@ -22,21 +22,25 @@
 <div id="year-chart" class="view">
 </div>
 
-
-<div id="usmapdiv" class = "view">
-  <svg width="800" height="600">
-<div id="usmapdiv" width="1000" height="800" class="content">
-  <svg id="usmapsvg" width="1000" height="800">
+<div id="usmapdiv" width="1000" height="600" class="content">
+  <svg id="usmapsvg" width="1000" height="600">
       <g id="usmap"></g>
       <g id="circleGroup"></g>
   </svg>
 </div>
 
+<div id="summaryDiv" width="400" height="400">
+    <h3>Attack Summary: </h3>
+    <span id="summarytext">
+  </span>
+</div>
+
+<h2>Countries with highest number of terrorist attacks</h2>
 <span>
     <label>Metric:</label>
     <select id="metric" onchange="changeData(this);">
         <option value="num_attacks">Number of Attacks</option>
-        <option selected value="fatalities">Number of Fatalities</option>
+        <option value="fatalities">Number of Fatalities</option>
         <option value="injuries">Number of Injuries</option>
     </select>
 </span>
@@ -50,12 +54,8 @@
 </div>
 
 
-<div id="summaryDiv" width="400" height="400">
-    <h3>Attack Summary: </h3>
-    <span id="summarytext">
-  </span>
-</div>
 
+<script type="application/javascript" src="public/js/util.js"></script>
 <script type="application/javascript" src="public/js/summary.js"></script>
 <script type="application/javascript" src="public/js/barchart.js"></script>
 <script type="application/javascript" src="public/js/worldmap.js"></script>
