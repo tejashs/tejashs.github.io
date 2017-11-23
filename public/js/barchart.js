@@ -20,9 +20,6 @@ class BarChart {
         'Sub-Saharan Africa','Middle East & North Africa','Australasia & Oceania',
         'South Asia','Central Asia']
 
-
-        
-
         this.data.sort(function(a, b) {
             return parseInt(b[selectedDimension]) - parseInt(a[selectedDimension]);
         });
