@@ -1,0 +1,35 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+58134,199501050003,1995,1,5,Haiti,Central America & Caribbean,,Nazon,18.5391667,-72.335,,Police,Unknown,Unknown,1,0
+58158,199501090006,1995,1,9,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Private Citizens & Property,Attaches,Firearms,0,0
+58226,199501180008,1995,1,18,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Telecommunication,Unknown,Firearms,0,0
+58240,199501200004,1995,1,20,Haiti,Central America & Caribbean,,Leogane,18.5108333,-72.6338889,,Military,Unknown,Firearms,0,0
+58331,199502030002,1995,2,3,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Military,Unknown,Firearms,1,0
+58340,199502040007,1995,2,4,Haiti,Central America & Caribbean,,Jeremie,,,,Police,Unknown,Firearms,0,1
+58393,199502110007,1995,2,11,Haiti,Central America & Caribbean,,Limbe,19.70594,-72.402489,,Police,Unknown,Melee,1,1
+58436,199502150006,1995,2,15,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Police,Unknown,Firearms,0,1
+58596,199503030006,1995,3,3,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Government (General),Unknown,Firearms,1,0
+58652,199503100006,1995,3,10,Haiti,Central America & Caribbean,,Saint-Marc,19.108931,-72.697548,,Transportation,Unknown,Firearms,1,14
+58726,199503160010,1995,3,16,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Private Citizens & Property,Unknown,Firearms,0,0
+58775,199503220004,1995,3,22,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Military,Unknown,Firearms,1,0
+58829,199503290023,1995,3,29,Haiti,Central America & Caribbean,,Jacmel,18.238072,-72.53405,,Religious Figures/Institutions,Unknown,Firearms,0,2
+58954,199504160007,1995,4,16,Haiti,Central America & Caribbean,,Cap-Haitien,19.757777800000003,-72.2041667,,Private Citizens & Property,Political Activists,Melee,0,10
+58957,199504160012,1995,4,16,Haiti,Central America & Caribbean,,Cap-Haitien,19.757777800000003,-72.2041667,,Private Citizens & Property,Political Activists,Melee,0,0
+59258,199505220107,1995,5,22,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Private Citizens & Property,Unknown,Firearms,1,0
+59280,199505240005,1995,5,24,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Military,Unknown,Firearms,1,0
+59586,199506240004,1995,6,24,Haiti,Central America & Caribbean,,Limbe,19.70594,-72.402489,,Government (General),Unknown,Incendiary,0,0
+59604,199506270008,1995,6,27,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Military,Unknown,Firearms,1,0
+59695,199507060007,1995,7,6,Haiti,Central America & Caribbean,,Cap-Haitien,19.757777800000003,-72.2041667,,Private Citizens & Property,Unknown,Unknown,1,1
+59856,199507250015,1995,7,25,Haiti,Central America & Caribbean,,Turgeau,18.531992000000002,-72.329604,,Business,Unknown,Firearms,0,1
+60169,199508310005,1995,8,31,Haiti,Central America & Caribbean,,Petit Goave,18.431388899999998,-72.86694440000001,,Government (Diplomatic),Unknown,Firearms,0,1
+60213,199509030029,1995,9,3,Haiti,Central America & Caribbean,,Plaine du Nord,19.677355,-72.269785,,Private Citizens & Property,Lavalas Supporters,Melee,2,0
+60495,199510030008,1995,10,3,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Military,Gunmen,Firearms,1,1
+60603,199510150013,1995,10,15,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Government (General),Slum Dwellers,Melee,0,1
+60865,199511150007,1995,11,15,Haiti,Central America & Caribbean,,Cap-Haitien,19.757777800000003,-72.2041667,,Journalists & Media,Supporters of President J-B Aristide,Incendiary,0,0
+60873,199511170002,1995,11,17,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Government (General),Unknown,Firearms,0,0
+60989,199512070006,1995,12,7,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Government (General),Charlot Jacquelin Militant Front,Firearms,0,0
+61005,199512090011,1995,12,9,Haiti,Central America & Caribbean,,Les Cayes,18.2,-73.75,,Business,Unknown,Incendiary,0,0
+61014,199512100024,1995,12,10,Haiti,Central America & Caribbean,,Les Cayes,18.2,-73.75,,Government (General),Unknown,Unknown,1,0
+61038,199512120016,1995,12,12,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Government (General),Unknown,Firearms,0,0
+61085,199512170007,1995,12,17,Haiti,Central America & Caribbean,,Petit Goave,18.431388899999998,-72.86694440000001,,Government (Diplomatic),Unknown,Firearms,0,0
+61127,199512240009,1995,12,24,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,18.495701999999998,-72.473153,,Government (General),Unknown,Firearms,2,2
+61128,199512240010,1995,12,24,Haiti,Central America & Caribbean,,Port-au-Prince,18.5391667,-72.335,,Private Citizens & Property,Unknown,Firearms,0,4

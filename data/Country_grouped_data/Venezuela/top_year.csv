@@ -1,0 +1,42 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+64630,199702120006,1997,2,12,Venezuela,South America,Aragua,La Victoria,10.227716000000001,-67.333485,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+64639,199702140002,1997,2,14,Venezuela,South America,Apure,Unknown,6.926947999999999,-68.524715,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64774,199703070003,1997,3,7,Venezuela,South America,Apure,Carabobo,6.1666669999999995,-69.266667,,Business,Unknown,Firearms,0,0
+64901,199703210137,1997,3,21,Venezuela,South America,Apure,Cutufi,7.14266,-71.971627,,Unknown,Colombian Guerrillas,Unknown,0,0
+64902,199703210138,1997,3,21,Venezuela,South America,Apure,Cutufi,7.14266,-71.971627,,Unknown,Colombian Guerrillas,Unknown,0,0
+64952,199703250010,1997,3,25,Venezuela,South America,Zulia,South Lake Maracaibo district,9.147639999999999,-71.830646,,Business,Unknown,Firearms,0,0
+64978,199703290003,1997,3,29,Venezuela,South America,Cojedes,Sucre,8.974091,-68.392815,,Business,Colombian Guerrillas,Unknown,0,0
+64992,199703310002,1997,3,31,Venezuela,South America,Cojedes,Sucre,8.974091,-68.392815,,Business,National Liberation Army of Colombia (ELN),Firearms,0,0
+65006,199704010009,1997,4,1,Venezuela,South America,Apure,Unknown,6.926947999999999,-68.524715,,Military,National Liberation Army of Colombia (ELN),Firearms,2,0
+65063,199704090013,1997,4,9,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65064,199704090014,1997,4,9,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65256,199705050005,1997,5,5,Venezuela,South America,Tachira,Mesa de Tigre,7.602222,-72.315,,Private Citizens & Property,Unknown,Firearms,0,0
+65318,199705160006,1997,5,16,Venezuela,South America,Tachira,Urena,7.919217999999999,-72.442861,,Private Citizens & Property,Unknown,Firearms,1,0
+65520,199706120008,1997,6,12,Venezuela,South America,Miranda,Paez district,10.233172999999999,-65.927414,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,0,0
+65649,199706230002,1997,6,23,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+65856,199707090003,1997,7,9,Venezuela,South America,Miranda,Paez district,10.233172999999999,-65.927414,,Military,National Liberation Army of Colombia (ELN),Firearms,0,1
+66040,199707290003,1997,7,29,Venezuela,South America,Zulia,South Lake Maracaibo district,9.147639999999999,-71.830646,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66220,199708150010,1997,8,15,Venezuela,South America,Barinas,Chorroquito,8.366667,-69.266667,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66375,199708280004,1997,8,28,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Che Guevara Guerrillas,Explosives/Bombs/Dynamite,0,0
+66376,199708280005,1997,8,28,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Che Guevara Guerrillas,Explosives/Bombs/Dynamite,0,0
+66377,199708280006,1997,8,28,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Che Guevara Guerrillas,Explosives/Bombs/Dynamite,0,0
+66378,199708280007,1997,8,28,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Che Guevara Guerrillas,Explosives/Bombs/Dynamite,0,0
+66379,199708280008,1997,8,28,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Che Guevara Guerrillas,Explosives/Bombs/Dynamite,0,0
+66551,199709150004,1997,9,15,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+66588,199709200005,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+66589,199709200006,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+66590,199709200007,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66591,199709200008,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66592,199709200009,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66593,199709200010,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66594,199709200011,1997,9,20,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66673,199710010004,1997,10,1,Venezuela,South America,Apure,Guasdilito,7.246772,-70.729167,,Unknown,M-19 (Movement of April 19),Explosives/Bombs/Dynamite,0,0
+66674,199710010005,1997,10,1,Venezuela,South America,Apure,Guasdilito,7.246772,-70.729167,,Unknown,M-19 (Movement of April 19),Explosives/Bombs/Dynamite,0,0
+66675,199710010006,1997,10,1,Venezuela,South America,Apure,Guasdilito,7.246772,-70.729167,,Unknown,M-19 (Movement of April 19),Explosives/Bombs/Dynamite,0,0
+66676,199710010007,1997,10,1,Venezuela,South America,Apure,Guasdilito,7.246772,-70.729167,,Unknown,M-19 (Movement of April 19),Explosives/Bombs/Dynamite,0,0
+66719,199710060004,1997,10,6,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66724,199710070001,1997,10,7,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66732,199710080005,1997,10,8,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+67008,199711090004,1997,11,9,Venezuela,South America,Bolivar,La Paragua district,6.832279,-63.33292900000001,,Airports & Aircraft,Unknown,Firearms,0,0
+67120,199711230005,1997,11,23,Venezuela,South America,Caracas,Caracas,10.502961,-66.917253,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+67227,199712060008,1997,12,6,Venezuela,South America,Barinas,Chorroquito,8.366667,-69.266667,,Business,Unknown,Unknown,0,0

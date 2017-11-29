@@ -1,0 +1,12 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+41262,199001300001,1991,1,30,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Incendiary,0,0
+45090,199101170006,1991,1,17,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Business,Unknown,Firearms,0,0
+45176,199101230006,1991,1,23,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Incendiary,0,0
+45240,199101280014,1991,1,28,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,1
+45289,199102010005,1991,2,1,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+45336,199102050002,1991,2,5,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Incendiary,0,0
+45429,199102080006,1991,2,8,Jordan,Middle East & North Africa,Unknown,Unknown,,,,Military,Unknown,Explosives/Bombs/Dynamite,0,4
+45468,199102130006,1991,2,13,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Private Citizens & Property,Avenge the Arab Nation,Melee,0,1
+45611,199102270012,1991,2,27,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Firearms,0,0
+45866,199103290003,1991,3,29,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+47588,199108110003,1991,8,11,Jordan,Middle East & North Africa,Amman,Amman,31.950001,35.933331,,Government (Diplomatic),Unknown,Firearms,1,2

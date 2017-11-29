@@ -1,0 +1,52 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+7184,197901010001,1979,1,1,Rhodesia,Sub-Saharan Africa,Gwelo,Selukwe,-19.671019,30.007127,,Religious Figures/Institutions,Black Nationalists,Unknown,1,0
+7214,197901050003,1979,1,5,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Unknown,Zimbabwe African People's Union,Firearms,19,13
+7247,197901100008,1979,1,10,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Transportation,Zimbabwe Patriotic Front,Unknown,0,0
+7251,197901110003,1979,1,11,Rhodesia,Sub-Saharan Africa,Matabeleland South,Bulawayo,-20.128481,28.624771000000003,,Utilities,Black Nationalists,Explosives/Bombs/Dynamite,0,0
+7252,197901110004,1979,1,11,Rhodesia,Sub-Saharan Africa,Matabeleland South,Bulawayo,-20.128481,28.624771000000003,,Transportation,Black Nationalists,Explosives/Bombs/Dynamite,0,0
+7260,197901130001,1979,1,13,Rhodesia,Sub-Saharan Africa,Umtali,Nyanyadzi,-19.780034,32.445833,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+7266,197901130007,1979,1,13,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Private Citizens & Property,Rhodesian guerillas,Firearms,1,0
+7348,197901220007,1979,1,22,Rhodesia,Sub-Saharan Africa,Bulawayo,Hwange district,-17.931804999999997,25.845748999999998,,Transportation,Black Nationalists,Firearms,1,0
+7496,197902080002,1979,2,8,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Black Nationalists,Firearms,1,0
+7528,197902120002,1979,2,12,Rhodesia,Sub-Saharan Africa,Mashonland,Kariba,-16.788805,28.853973999999997,,Airports & Aircraft,Zimbabwe African People's Union,Explosives/Bombs/Dynamite,54,0
+7542,197902130012,1979,2,13,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Utilities,Zimbabwe African People's Union,Explosives/Bombs/Dynamite,1,0
+7552,197902140009,1979,2,14,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Business,Zimbabwe African Nationalist Union (ZANU),Firearms,0,0
+7577,197902170005,1979,2,17,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Transportation,Unknown,Unknown,0,0
+7622,197902200006,1979,2,20,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Airports & Aircraft,Black Nationalists,Explosives/Bombs/Dynamite,0,0
+7647,197902240003,1979,2,24,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Government (General),Zimbabwe African Nationalist Union (ZANU),Unknown,0,0
+7900,197903270012,1979,3,27,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+7918,197903300008,1979,3,30,Rhodesia,Sub-Saharan Africa,Matabeleland South,Plumtree,-20.488398999999998,27.801834000000003,,Transportation,Zimbabwe African Nationalist Union (ZANU),Explosives/Bombs/Dynamite,0,0
+7927,197904010002,1979,4,1,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Military,Zimbabwe African Nationalist Union (ZANU),Explosives/Bombs/Dynamite,0,0
+7941,197904020013,1979,4,2,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,NGO,Unknown,Firearms,0,0
+7967,197904060008,1979,4,6,Rhodesia,Sub-Saharan Africa,Matabeleland South,Bulawayo,-20.128481,28.624771000000003,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+8019,197904160006,1979,4,16,Rhodesia,Sub-Saharan Africa,Victoria,Fort Victoria,-20.07506,30.830971,,Government (General),Zimbabwe African Nationalist Union (ZANU),Incendiary,0,0
+8020,197904160007,1979,4,16,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+8021,197904160008,1979,4,16,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Government (General),Unknown,Firearms,2,0
+8032,197904180002,1979,4,18,Rhodesia,Sub-Saharan Africa,Matabeleland,Makai,-17.843131,28.060154999999998,,Government (General),Zimbabwe African Nationalist Union (ZANU),Unknown,1,0
+8081,197904240008,1979,4,24,Rhodesia,Sub-Saharan Africa,Lusaka,Lusaka,-15.414854,28.282262,,Government (General),Zimbabwe African People's Union,Firearms,1,0
+8086,197904250002,1979,4,25,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Business,Unknown,Explosives/Bombs/Dynamite,1,1
+8134,197904300028,1979,4,30,Rhodesia,Sub-Saharan Africa,Victoria,Southwestern Bikita District,-20.119889999999998,31.770106,,Private Citizens & Property,Guerrillas,Firearms,1,1
+8343,197905160003,1979,5,16,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+8354,197905160014,1979,5,16,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Business,Guerrillas,Incendiary,0,0
+8439,197905260005,1979,5,26,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Guerrillas,Incendiary,0,0
+8535,197906040001,1979,6,4,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Transportation,Guerrillas,Explosives/Bombs/Dynamite,0,18
+8540,197906040006,1979,6,4,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Business,Guerrillas,Firearms,5,4
+8618,197906150005,1979,6,15,Rhodesia,Sub-Saharan Africa,Mashonaland East,Goromonzi district,-17.809143,31.353935999999997,,Private Citizens & Property,Zimbabwe African Nationalist Union (ZANU),Unknown,0,0
+8722,197906280008,1979,6,28,Rhodesia,Sub-Saharan Africa,Matabeleland South,Bulawayo,-20.128481,28.624771000000003,,Private Citizens & Property,Guerrillas,Unknown,1,0
+8746,197907000001,1979,7,0,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,3,0
+8747,197907000002,1979,7,0,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Business,Guerrillas,Explosives/Bombs/Dynamite,2,0
+8748,197907000003,1979,7,0,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Unknown,Unknown,2,0
+8749,197907000004,1979,7,0,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Guerrillas,Melee,3,0
+8778,197907040009,1979,7,4,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Religious Figures/Institutions,Zimbabwe African Nationalist Union (ZANU),Explosives/Bombs/Dynamite,0,0
+8837,197907140002,1979,7,14,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Guerrillas,Unknown,3,0
+8840,197907140005,1979,7,14,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Private Citizens & Property,Zimbabwe Patriotic Front,Firearms,4,1
+8920,197908020005,1979,8,2,Rhodesia,Sub-Saharan Africa,Victoria,Fort Victoria,-20.07506,30.830971,,Private Citizens & Property,Zimbabwe African Nationalist Union (ZANU),Explosives/Bombs/Dynamite,0,0
+8966,197908060004,1979,8,6,Rhodesia,Sub-Saharan Africa,Unknown,Unknown,,,,Business,Zimbabwe African People's Union,Firearms,2,0
+9057,197908220007,1979,8,22,Rhodesia,Sub-Saharan Africa,Unknown,Bruton,,,,Business,Zimbabwe Patriotic Front,Firearms,7,0
+9196,197909170008,1979,9,17,Rhodesia,Sub-Saharan Africa,Unknown,Chiwesi Tribal Trustland,,,,Government (General),Zimbabwe Patriotic Front,Melee,1,0
+9222,197909200006,1979,9,20,Rhodesia,Sub-Saharan Africa,Victoria,Nuanetsi,-21.578484,30.61378,,Government (General),Zimbabwe Patriotic Front,Explosives/Bombs/Dynamite,1,0
+9257,197909250008,1979,9,25,Rhodesia,Sub-Saharan Africa,Manicaland,Rusape,-18.537029,32.125422,,Business,Zimbabwe Patriotic Front,Firearms,0,2
+9454,197910200002,1979,10,20,Rhodesia,Sub-Saharan Africa,Manicaland,Umtali,-18.966075,32.635359,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+9520,197911020001,1979,11,2,Rhodesia,Sub-Saharan Africa,Manicaland,Umtali,-18.966075,32.635359,,Business,Unknown,Explosives/Bombs/Dynamite,0,12
+9547,197911080001,1979,11,8,Rhodesia,Sub-Saharan Africa,Manicaland,Umtali,-18.966075,32.635359,,Business,Zimbabwe Patriotic Front,Explosives/Bombs/Dynamite,2,0
+9774,197912180001,1979,12,18,Rhodesia,Sub-Saharan Africa,Mashonaland South,Salisbury,-17.828394,31.052985999999997,,Transportation,Zimbabwe People's Army (ZIPA),Explosives/Bombs/Dynamite,0,0

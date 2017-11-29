@@ -1,0 +1,32 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+7265,197901130006,1979,1,13,Namibia,Sub-Saharan Africa,Unknown,Unknown,,,,Police,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,2,0
+7362,197901250001,1979,1,25,Namibia,Sub-Saharan Africa,Northern,Unknown,-17.620422,12.653642999999999,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,2,1
+7502,197902090003,1979,2,9,Namibia,Sub-Saharan Africa,Ohangwena,Onengali,-17.408763,15.938798,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Firearms,1,0
+7662,197902270007,1979,2,27,Namibia,Sub-Saharan Africa,Omusati,Elandu,-17.715473,15.01685,,Military,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,0
+7687,197903060006,1979,3,6,Namibia,Sub-Saharan Africa,Khomas,Windhoek,-22.567335,17.083271,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Unknown,0,0
+7770,197903140006,1979,3,14,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,1,5
+7800,197903190003,1979,3,19,Namibia,Sub-Saharan Africa,Unknown,Tsaudi,,,,Government (General),South-West Africa People's Organization (SWAPO),Firearms,2,0
+7879,197903250005,1979,3,25,Namibia,Sub-Saharan Africa,Otjozondjupa,Otavi,-19.635032,17.335906,,Private Citizens & Property,Zimbabwe African Nationalist Union (ZANU),Unknown,1,0
+7883,197903250009,1979,3,25,Namibia,Sub-Saharan Africa,Unknown,Unknown,,,,Police,Zimbabwe African Nationalist Union (ZANU),Unknown,1,2
+7888,197903260005,1979,3,26,Namibia,Sub-Saharan Africa,Unknown,unknown,,,,Educational Institution,Zimbabwe African Nationalist Union (ZANU),Unknown,0,0
+7931,197904020003,1979,4,2,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Government (General),South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,1
+7935,197904020007,1979,4,2,Namibia,Sub-Saharan Africa,Khomas,Windhoek,-22.567335,17.083271,,Government (General),South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,1
+7947,197904040003,1979,4,4,Namibia,Sub-Saharan Africa,Oshana,Ondangua,-17.905095000000003,15.975806,,Military,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,0
+7998,197904120010,1979,4,12,Namibia,Sub-Saharan Africa,Omusati,Ruacana,-17.436154000000002,14.391604000000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+8012,197904150004,1979,4,15,Namibia,Sub-Saharan Africa,Oshana,Ondangua,-17.905095000000003,15.975806,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,4
+8055,197904210005,1979,4,21,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Educational Institution,Unknown,Unknown,0,0
+8056,197904210006,1979,4,21,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Government (General),South-West Africa People's Organization (SWAPO),Firearms,0,0
+8071,197904230003,1979,4,23,Namibia,Sub-Saharan Africa,Oshana,Oshakati,-17.789997,15.706292000000001,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+8073,197904230005,1979,4,23,Namibia,Sub-Saharan Africa,Unknown,Uthala,,,,Government (General),South-West Africa People's Organization (SWAPO),Unknown,0,0
+8266,197905090004,1979,5,9,Namibia,Sub-Saharan Africa,Oshikoto,Tsumeb,-19.248525,17.701463,,Business,South-West Africa People's Organization (SWAPO),Melee,3,0
+8267,197905090005,1979,5,9,Namibia,Sub-Saharan Africa,Oshikoto,Tsumeb,-19.248525,17.701463,,Business,South-West Africa People's Organization (SWAPO),Firearms,1,0
+8681,197906230003,1979,6,23,Namibia,Sub-Saharan Africa,Oshana,Ondangua,-17.905095000000003,15.975806,,Transportation,South-West Africa People's Organization (SWAPO),Firearms,0,8
+8701,197906260003,1979,6,26,Namibia,Sub-Saharan Africa,Khomas,Windhoek,-22.567335,17.083271,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,1,5
+8725,197906280011,1979,6,28,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Transportation,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,5,8
+8758,197907010009,1979,7,1,Namibia,Sub-Saharan Africa,Unknown,Unknown,,,,Military,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,0
+8804,197907090002,1979,7,9,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Telecommunication,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,0
+8806,197907090004,1979,7,9,Namibia,Sub-Saharan Africa,Oshana,Ondangua,-17.905095000000003,15.975806,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Firearms,4,0
+9056,197908220006,1979,8,22,Namibia,Sub-Saharan Africa,Oshikoto,Oshigambo,-17.782873000000002,16.066568,,Police,South-West Africa People's Organization (SWAPO),Unknown,4,0
+9116,197909000001,1979,9,0,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Government (General),South-West Africa People's Organization (SWAPO),Unknown,0,0
+9181,197909150006,1979,9,15,Namibia,Sub-Saharan Africa,Khomas,Windhoek,-22.567335,17.083271,,Business,South-West Africa People's Organization (SWAPO),Explosives/Bombs/Dynamite,0,0
+9240,197909220009,1979,9,22,Namibia,Sub-Saharan Africa,Oshikoto,Owamboland,-18.623616000000002,17.516841,,Private Citizens & Property,South-West Africa People's Organization (SWAPO),Firearms,4,0

@@ -1,0 +1,54 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+23997,198501000001,1985,1,0,West Germany (FRG),Western Europe,Hesse,Wiesbaden,50.084284000000004,8.238717,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+24024,198501020004,1985,1,2,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Government (Diplomatic),Red Army Faction (RAF),Incendiary,0,0
+24044,198501030004,1985,1,3,West Germany (FRG),Western Europe,Baden-Wurttemberg,Heidelberg,49.4019,8.680285000000001,,Military,Red Army Faction (RAF),Incendiary,0,0
+24045,198501030005,1985,1,3,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Government (Diplomatic),Red Army Faction (RAF),Incendiary,0,0
+24046,198501030006,1985,1,3,West Germany (FRG),Western Europe,Baden-Wurttemberg,Heidelberg,49.4019,8.680285000000001,,Educational Institution,Red Army Faction (RAF),Incendiary,0,0
+24064,198501070001,1985,1,7,West Germany (FRG),Western Europe,North Rhine-Westphalia,Hohenhaus,50.989041,7.0308660000000005,,Utilities,Red Army Faction (RAF),Unknown,0,0
+24160,198501190002,1985,1,19,West Germany (FRG),Western Europe,Baden-Wurttemberg,Stuttgart,48.777105999999996,9.180769,,Business,Red Army Faction (RAF),Explosives/Bombs/Dynamite,1,1
+24161,198501190003,1985,1,19,West Germany (FRG),Western Europe,Baden-Wurttemberg,Karlsruhe,49.008084999999994,8.403756,,Business,Unknown,Incendiary,0,0
+24185,198501250001,1985,1,25,West Germany (FRG),Western Europe,Schleswig-Holstein,Geesthacht,53.430252,10.374086,,Utilities,Gruppe Haw Weg Den Scheiss,Explosives/Bombs/Dynamite,0,0
+24215,198501290002,1985,1,29,West Germany (FRG),Western Europe,Lower Saxony,Bad Harzburg,51.881458,10.562539,,Business,Unknown,Incendiary,0,0
+24233,198502010003,1985,2,1,West Germany (FRG),Western Europe,Bavaria,Gauting,48.066495,11.380158,,Business,Red Army Faction (RAF),Firearms,1,0
+24244,198502030004,1985,2,3,West Germany (FRG),Western Europe,Saxony-Anhalt,Groningen,51.93744,11.21601,,Police,Northern Terror Front,Incendiary,0,0
+24262,198502060001,1985,2,6,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Business,Unknown,Incendiary,0,4
+24405,198502270003,1985,2,27,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Airports & Aircraft,Syrians,Melee,0,0
+24442,198503070001,1985,3,7,West Germany (FRG),Western Europe,North Rhine-Westphalia,Dortmund,51.512054,7.463572999999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,9
+24448,198503080001,1985,3,8,West Germany (FRG),Western Europe,North Rhine-Westphalia,Bochum,51.482917,7.211808,,Private Citizens & Property,Red Army Faction (RAF),Unknown,0,0
+24452,198503080005,1985,3,8,West Germany (FRG),Western Europe,North Rhine-Westphalia,Essen,51.457935,7.014828,,Private Citizens & Property,Red Army Faction (RAF),Unknown,0,0
+24453,198503080006,1985,3,8,West Germany (FRG),Western Europe,Hamburg,Hamburg,53.553813,9.991586,,Private Citizens & Property,Red Army Faction (RAF),Unknown,0,0
+24457,198503090004,1985,3,9,West Germany (FRG),Western Europe,North Rhine-Westphalia,Monchengladbach,51.191261,6.4420660000000005,,Military,Red Army Faction (RAF),Firearms,0,0
+24472,198503120001,1985,3,12,West Germany (FRG),Western Europe,Baden-Wurttemberg,Boblingen,48.685645,9.015264,,Military,Red Army Faction (RAF),Explosives/Bombs/Dynamite,0,0
+24660,198504080001,1985,4,8,West Germany (FRG),Western Europe,Baden-Wurttemberg,Iggingen,48.831294,9.878578,,Utilities,Red Army Faction (RAF),Explosives/Bombs/Dynamite,0,0
+24661,198504080002,1985,4,8,West Germany (FRG),Western Europe,Hamburg,Hamburg,53.553813,9.991586,,Maritime,Action Struggle Against the World,Explosives/Bombs/Dynamite,0,0
+24778,198504290001,1985,4,29,West Germany (FRG),Western Europe,Berlin,West Berlin,52.505803,13.331741000000001,,Military,Unknown,Explosives/Bombs/Dynamite,0,1
+24779,198504290002,1985,4,29,West Germany (FRG),Western Europe,Rhineland-Palatinate,Koblenz,50.356696,7.599616999999999,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+24781,198504290004,1985,4,29,West Germany (FRG),Western Europe,North Rhine-Westphalia,Cologne,50.940664,6.959911999999999,,Business,Revolutionary Cells,Explosives/Bombs/Dynamite,0,0
+24805,198505010009,1985,5,1,West Germany (FRG),Western Europe,North Rhine-Westphalia,Bonn,50.732673999999996,7.096299,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+24857,198505030034,1985,5,3,West Germany (FRG),Western Europe,North Rhine-Westphalia,Cologne,50.940664,6.959911999999999,,Business,Proletarian Action Group,Explosives/Bombs/Dynamite,0,0
+24932,198505090002,1985,5,9,West Germany (FRG),Western Europe,Bremen,Badbergen,52.633168999999995,7.9805589999999995,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+25217,198506010001,1985,6,1,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+25230,198506020002,1985,6,2,West Germany (FRG),Western Europe,Lower Saxony,Hanover,52.372068,9.735686,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+25400,198506190002,1985,6,19,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite,3,42
+25838,198508080001,1985,8,8,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Military,Red Army Faction (RAF),Explosives/Bombs/Dynamite,2,20
+25842,198508080005,1985,8,8,West Germany (FRG),Western Europe,Hesse,Wiesbaden,50.084284000000004,8.238717,,Military,Red Army Faction (RAF),Firearms,1,0
+25850,198508090008,1985,8,9,West Germany (FRG),Western Europe,North Rhine-Westphalia,Bonn,50.732673999999996,7.096299,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,1
+25872,198508120002,1985,8,12,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Military,Red Army Faction (RAF),Incendiary,0,0
+25912,198508150002,1985,8,15,West Germany (FRG),Western Europe,North Rhine-Westphalia,Monchengladbach,51.191261,6.4420660000000005,,Military,Unknown,Incendiary,0,0
+25913,198508150003,1985,8,15,West Germany (FRG),Western Europe,North Rhine-Westphalia,Monchengladbach,51.191261,6.4420660000000005,,Telecommunication,Red Army Faction (RAF),Explosives/Bombs/Dynamite,0,0
+26048,198509020001,1985,9,2,West Germany (FRG),Western Europe,Hamburg,Hamburg,53.553813,9.991586,,Business,Revolutionary Cells,Explosives/Bombs/Dynamite,0,0
+26049,198509020002,1985,9,2,West Germany (FRG),Western Europe,North Rhine-Westphalia,Dortmund,51.512054,7.463572999999999,,Business,Revolutionary Cells,Explosives/Bombs/Dynamite,0,0
+26077,198509060001,1985,9,6,West Germany (FRG),Western Europe,Saarland,Freisen,49.552402,7.248794999999999,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+26078,198509060002,1985,9,6,West Germany (FRG),Western Europe,Saarland,Nohfelden,49.586341,7.141407000000001,,Military,Red Army Faction (RAF),Explosives/Bombs/Dynamite,0,0
+26079,198509060003,1985,9,6,West Germany (FRG),Western Europe,Baden-Wurttemberg,Bad Cannstatt,48.804978000000006,9.215456,,Military,Unknown,Incendiary,0,0
+26190,198509230001,1985,9,23,West Germany (FRG),Western Europe,Hesse,Limburg,50.386627000000004,8.059515,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+26207,198509250003,1985,9,25,West Germany (FRG),Western Europe,Hesse,Baunatal,51.251761,9.407764,,Police,Unknown,Explosives/Bombs/Dynamite,0,2
+26278,198510060001,1985,10,6,West Germany (FRG),Western Europe,North Rhine-Westphalia,Cologne,50.940664,6.959911999999999,,Educational Institution,Revolutionary Cells,Explosives/Bombs/Dynamite,0,0
+26279,198510060002,1985,10,6,West Germany (FRG),Western Europe,North Rhine-Westphalia,Cologne,50.940664,6.959911999999999,,Business,Revolutionary Cells,Explosives/Bombs/Dynamite,0,0
+26347,198510140003,1985,10,14,West Germany (FRG),Western Europe,Baden-Wurttemberg,Schwabisch Gmund,48.802294,9.802725,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+26348,198510140004,1985,10,14,West Germany (FRG),Western Europe,Baden-Wurttemberg,Schwabisch Gmund,48.802294,9.802725,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+26532,198511080001,1985,11,8,West Germany (FRG),Western Europe,North Rhine-Westphalia,Baal,51.033068,6.283317,,Utilities,Red Army Faction (RAF),Explosives/Bombs/Dynamite,0,0
+26544,198511100001,1985,11,10,West Germany (FRG),Western Europe,Baden-Wurttemberg,Karlsruhe,49.008084999999994,8.403756,,Utilities,Proletarian Initiative and Offensive for W. Europe,Explosives/Bombs/Dynamite,0,0
+26562,198511120001,1985,11,12,West Germany (FRG),Western Europe,Rhineland-Palatinate,Neustadt an der Weinstrasse,49.35027,8.137919,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+26627,198511240003,1985,11,24,West Germany (FRG),Western Europe,Hesse,Frankfurt,50.111445,8.680615,,Military,Unknown,Explosives/Bombs/Dynamite,0,34
+26790,198512130002,1985,12,13,West Germany (FRG),Western Europe,Baden-Wurttemberg,Stuttgart,48.777105999999996,9.180769,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0

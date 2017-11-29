@@ -1,0 +1,659 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+44897,199101010009,1991,1,1,Peru,South America,Arequipa,Acari,-15.433660999999999,-74.617006,,Private Citizens & Property,Shining Path (SL),Firearms,2,0
+44985,199101070003,1991,1,7,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,5
+44986,199101070004,1991,1,7,Peru,South America,La Libertad,Trujillo,-8.111825,-79.02866,,Airports & Aircraft,Tupac Amaru Revolutionary Movement (MRTA),Firearms,1,2
+44992,199101080003,1991,1,8,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+45047,199101120005,1991,1,12,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+45052,199101130003,1991,1,13,Peru,South America,Lima,Ayaviri,-12.383939999999999,-76.136119,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,1,2
+45058,199101140002,1991,1,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,1,100
+45083,199101160011,1991,1,16,Peru,South America,Unknown,Jarhuahuran,,,,Private Citizens & Property,Shining Path (SL),Firearms,23,5
+45084,199101160012,1991,1,16,Peru,South America,Huanuco,Huanuco,-9.929478,-76.239738,,Police,Shining Path (SL),Firearms,1,1
+45163,199101220016,1991,1,22,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,11,0
+45178,199101230008,1991,1,23,Peru,South America,Lambayeque,Chiclayo,-6.779131,-79.83941999999999,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+45200,199101250010,1991,1,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Airports & Aircraft,Shining Path (SL),Explosives/Bombs/Dynamite,1,4
+45201,199101250011,1991,1,25,Peru,South America,La Libertad,Trujillo,-8.111825,-79.02866,,Police,Shining Path (SL),Firearms,2,0
+45203,199101250013,1991,1,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+45265,199101300006,1991,1,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+45266,199101300007,1991,1,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+45267,199101300008,1991,1,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+45268,199101300009,1991,1,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+45277,199101310007,1991,1,31,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+45304,199102020005,1991,2,2,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,8
+45305,199102020006,1991,2,2,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+45313,199102020014,1991,2,2,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Firearms,1,0
+45314,199102020015,1991,2,2,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Firearms,0,0
+45317,199102020018,1991,2,2,Peru,South America,Unknown,Unknown,,,,Business,Unknown,Firearms,0,0
+45338,199102050004,1991,2,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,2,7
+45342,199102050008,1991,2,5,Peru,South America,Huanuco,Puerto Inca district,-9.377634,-74.964804,,Military,Shining Path (SL),Firearms,5,0
+45343,199102050009,1991,2,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+45414,199102070013,1991,2,7,Peru,South America,Unknown,Sinachayo,,,,Business,Shining Path (SL),Firearms,2,0
+45420,199102070019,1991,2,7,Peru,South America,Unknown,Las Palmas,,,,Military,Shining Path (SL),Firearms,7,0
+45426,199102080003,1991,2,8,Peru,South America,Arequipa,Chavin,-16.419747,-71.530536,,Police,Shining Path (SL),Firearms,1,0
+45427,199102080004,1991,2,8,Peru,South America,Huancavelica,Churcampa,-12.738612,-74.38698199999999,,Military,Shining Path (SL),Firearms,6,0
+45431,199102080008,1991,2,8,Peru,South America,Ancash,Chincay,-9.538853999999999,-77.582718,,Business,Shining Path (SL),Firearms,2,2
+45439,199102090007,1991,2,9,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+45483,199102140008,1991,2,14,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Government (Diplomatic),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+45484,199102140009,1991,2,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Incendiary,0,0
+45485,199102140010,1991,2,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+45497,199102150009,1991,2,15,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+45505,199102160003,1991,2,16,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,6
+45520,199102180007,1991,2,18,Peru,South America,Puno,Taipuma,-16.466667,-69.916667,,Private Citizens & Property,Shining Path (SL),Firearms,6,0
+45532,199102190006,1991,2,19,Peru,South America,Lambayeque,Santa Rosa district,-6.875967999999999,-79.922097,,Business,Shining Path (SL),Firearms,1,0
+45554,199102210003,1991,2,21,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+45570,199102230007,1991,2,23,Peru,South America,Apurimac,Ccana,-13.7325,-72.35055600000001,,Military,Shining Path (SL),Firearms,23,2
+45585,199102250006,1991,2,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+45699,199103150005,1991,3,15,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,1
+45704,199103150011,1991,3,15,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,1
+45824,199103260001,1991,3,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45860,199103280019,1991,3,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Journalists & Media,Unknown,Firearms,1,0
+45873,199103290010,1991,3,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Journalists & Media,Unknown,Firearms,1,0
+45912,199104020008,1991,4,2,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,1,0
+45913,199104020009,1991,4,2,Peru,South America,Ayacucho,San Pedro de Cachi,-13.085123,-74.39292900000001,,Government (General),Shining Path (SL),Firearms,3,0
+45927,199104030010,1991,4,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Airports & Aircraft,Unknown,Incendiary,0,0
+45950,199104050004,1991,4,5,Peru,South America,Lima,Chaclacayo,-11.975814,-76.7699,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45951,199104050005,1991,4,5,Peru,South America,Lima,Chaclacayo,-11.975814,-76.7699,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45952,199104050006,1991,4,5,Peru,South America,Lima,Chaclacayo,-11.975814,-76.7699,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45953,199104050007,1991,4,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45954,199104050008,1991,4,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45955,199104050009,1991,4,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45956,199104050010,1991,4,5,Peru,South America,Arequipa,Arequipa,-16.409501000000002,-71.537384,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+45964,199104050018,1991,4,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+45992,199104080002,1991,4,8,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+46002,199104080012,1991,4,8,Peru,South America,Junin,Riachuelo,-12.042274,-75.359905,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,11,0
+46015,199104090010,1991,4,9,Peru,South America,Huancavelica,Huancavelica,-12.787149000000001,-74.97320699999999,,Government (General),Unknown,Unknown,0,1
+46017,199104090013,1991,4,9,Peru,South America,La Libertad,Urpay,-8.347819,-77.389501,,Private Citizens & Property,Shining Path (SL),Firearms,20,8
+46022,199104100002,1991,4,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46026,199104100006,1991,4,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46027,199104100007,1991,4,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+46034,199104110006,1991,4,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,1,0
+46041,199104120006,1991,4,12,Peru,South America,San Martin,Tarapoto,-6.488123000000001,-76.3599,,Police,Unknown,Firearms,2,0
+46051,199104140003,1991,4,14,Peru,South America,Unknown,Riachon,,,,Government (General),Unknown,Explosives/Bombs/Dynamite,2,0
+46112,199104220006,1991,4,22,Peru,South America,Ayacucho,Pampa Cangallo,-13.557452,-74.195661,,Educational Institution,Shining Path (SL),Firearms,1,0
+46115,199104230002,1991,4,23,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,2,0
+46132,199104250006,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46133,199104250007,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46134,199104250008,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46135,199104250009,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46136,199104250010,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46137,199104250011,1991,4,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46149,199104260005,1991,4,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Educational Institution,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46150,199104260006,1991,4,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,4
+46154,199104260010,1991,4,26,Peru,South America,Ayacucho,Ccanobamba,-13.605363,-73.967191,,Private Citizens & Property,Shining Path (SL),Firearms,16,0
+46198,199104290008,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Educational Institution,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46199,199104290009,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46200,199104290010,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46201,199104290011,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46202,199104290012,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46203,199104290013,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46209,199104290020,1991,4,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46212,199104300001,1991,4,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46220,199104300010,1991,4,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Journalists & Media,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46221,199104300011,1991,4,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Journalists & Media,Shining Path (SL),Firearms,0,0
+46225,199105010002,1991,5,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+46226,199105010003,1991,5,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+46227,199105010004,1991,5,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46251,199105040007,1991,5,4,Peru,South America,Lima,Huaura district,-11.069745,-77.599063,,Business,Shining Path (SL),Firearms,6,0
+46261,199105060001,1991,5,6,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46262,199105060002,1991,5,6,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+46265,199105060005,1991,5,6,Peru,South America,Ayacucho,Vinchos,-13.242054999999999,-74.35445,,Government (General),Shining Path (SL),Firearms,1,0
+46266,199105060006,1991,5,6,Peru,South America,Ayacucho,Quinua,-13.049167,-74.138611,,Private Citizens & Property,Shining Path (SL),Melee,5,0
+46267,199105060007,1991,5,6,Peru,South America,Ayacucho,Janobamba,-12.784386,-74.205779,,Private Citizens & Property,Shining Path (SL),Melee,4,0
+46268,199105060008,1991,5,6,Peru,South America,Ayacucho,Pacaycasa,-13.056944,-74.213611,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,1,0
+46301,199105090003,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,6
+46302,199105090004,1991,5,9,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,1,6
+46303,199105090005,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46304,199105090006,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46305,199105090007,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46306,199105090008,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46307,199105090009,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46308,199105090010,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46319,199105090021,1991,5,9,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,4
+46324,199105100004,1991,5,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Firearms,1,0
+46330,199105100010,1991,5,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,1,1
+46335,199105110002,1991,5,11,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46343,199105110010,1991,5,11,Peru,South America,San Martin,Saposoa,-6.936433999999999,-76.771772,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46344,199105110011,1991,5,11,Peru,South America,San Martin,Tarapoto,-6.488123000000001,-76.3599,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46345,199105110012,1991,5,11,Peru,South America,San Martin,Rioja,-6.062538,-77.16793100000001,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46346,199105110013,1991,5,11,Peru,South America,San Martin,Moyobamba,-6.034766,-76.973892,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46347,199105110014,1991,5,11,Peru,South America,Junin,San Martin de Pangoa,-11.431789,-74.4848,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46357,199105120005,1991,5,12,Peru,South America,Ayacucho,Ayacucho district,-14.31884,-74.378173,,Government (General),Shining Path (SL),Firearms,2,0
+46367,199105130005,1991,5,13,Peru,South America,Ayacucho,Vilcashuaman,-13.65311,-73.95396,,Government (General),Shining Path (SL),Melee,2,0
+46368,199105130006,1991,5,13,Peru,South America,Puno,Juliaca,-15.493295999999999,-70.135574,,NGO,Shining Path (SL),Firearms,1,0
+46378,199105160003,1991,5,16,Peru,South America,Ayacucho,Vilcashuaman,-13.65311,-73.95396,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+46387,199105170003,1991,5,17,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46388,199105170004,1991,5,17,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46389,199105170005,1991,5,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,2
+46397,199105170014,1991,5,17,Peru,South America,Junin,Ahuac district,-12.081389,-75.351389,,Religious Figures/Institutions,Shining Path (SL),Firearms,1,0
+46398,199105170015,1991,5,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,NGO,Shining Path (SL),Firearms,1,1
+46400,199105170017,1991,5,17,Peru,South America,Ancash,Concuchos,-8.268446,-77.852426,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+46401,199105170018,1991,5,17,Peru,South America,Unknown,Huascaura,,,,Food or Water Supply,Shining Path (SL),Firearms,0,0
+46402,199105170019,1991,5,17,Peru,South America,San Martin,Tocache,-8.18885,-76.510838,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,14,0
+46431,199105210007,1991,5,21,Peru,South America,Lima,Oyon,-10.668181,-76.773232,,Private Citizens & Property,Shining Path (SL),Firearms,5,0
+46432,199105210008,1991,5,21,Peru,South America,Junin,Huasahuasi,-11.264834,-75.649153,,Religious Figures/Institutions,Shining Path (SL),Firearms,5,0
+46448,199105230003,1991,5,23,Peru,South America,Lima,Pachacamac,-12.229805,-76.859574,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,1,0
+46457,199105240001,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46458,199105240002,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+46459,199105240003,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46460,199105240004,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46461,199105240005,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46462,199105240006,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46463,199105240007,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46464,199105240008,1991,5,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46487,199105270006,1991,5,27,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46488,199105270007,1991,5,27,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46489,199105270008,1991,5,27,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46490,199105270009,1991,5,27,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46491,199105270010,1991,5,27,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46492,199105270011,1991,5,27,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46494,199105270013,1991,5,27,Peru,South America,Lima,Lurigancho,-12.003378999999999,-76.918423,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,1
+46497,199105270016,1991,5,27,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46504,199105280007,1991,5,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46505,199105280009,1991,5,28,Peru,South America,La Libertad,Santa Clara,-8.960278,-78.630278,,Transportation,Shining Path (SL),Incendiary,0,0
+46506,199105280010,1991,5,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+46522,199105290010,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46523,199105290011,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46524,199105290012,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46525,199105290013,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46526,199105290014,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46527,199105290015,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46528,199105290016,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46529,199105290017,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46530,199105290018,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46531,199105290019,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46532,199105290020,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46533,199105290021,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46534,199105290022,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46535,199105290023,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46536,199105290024,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Incendiary,0,0
+46544,199105290032,1991,5,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,1,2
+46545,199105290033,1991,5,29,Peru,South America,Huanuco,Tingo Maria,-9.297478,-75.996312,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,4,18
+46572,199106010002,1991,6,1,Peru,South America,Cusco,Ichubamba,-13.483332999999998,-72.31666700000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46573,199106010003,1991,6,1,Peru,South America,Cusco,Ichubamba,-13.483332999999998,-72.31666700000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46574,199106010004,1991,6,1,Peru,South America,Cusco,Ichubamba,-13.483332999999998,-72.31666700000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46576,199106010006,1991,6,1,Peru,South America,Cusco,Ichubamba,-13.483332999999998,-72.31666700000001,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,1,0
+46579,199106010010,1991,6,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Firearms,0,0
+46580,199106010011,1991,6,1,Peru,South America,Ayacucho,Huanta,-12.939782000000001,-74.247478,,Private Citizens & Property,Shining Path (SL),Firearms,0,0
+46586,199106020006,1991,6,2,Peru,South America,Junin,Concepcion,-11.918478,-75.312889,,Police,Shining Path (SL),Firearms,3,0
+46591,199106030001,1991,6,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite,0,0
+46594,199106030004,1991,6,3,Peru,South America,Unknown,Aito Chavini,,,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,10,0
+46595,199106030005,1991,6,3,Peru,South America,Junin,Ulcumayo,-10.9675,-75.87944399999999,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,5,0
+46608,199106040008,1991,6,4,Peru,South America,Cusco,Espinar,-14.789584,-71.412125,,Government (General),Shining Path (SL),Firearms,2,0
+46610,199106050002,1991,6,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Firearms,1,0
+46633,199106060014,1991,6,6,Peru,South America,Junin,La Merced,-11.056033,-75.328236,,Private Citizens & Property,Shining Path (SL),Firearms,9,0
+46634,199106060015,1991,6,6,Peru,South America,La Libertad,Sayapullo,-7.596152,-78.46570200000001,,Police,Shining Path (SL),Firearms,11,0
+46649,199106070013,1991,6,7,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+46662,199106090002,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46663,199106090003,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46664,199106090004,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46665,199106090005,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46666,199106090006,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46667,199106090007,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46668,199106090008,1991,6,9,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46685,199106100005,1991,6,10,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Business,Shining Path (SL),Firearms,1,0
+46689,199106100009,1991,6,10,Peru,South America,Junin,Santa Ana,-10.954129,-75.228945,,Police,Unknown,Firearms,2,0
+46697,199106110004,1991,6,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46698,199106110005,1991,6,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46699,199106110006,1991,6,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46700,199106110007,1991,6,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+46706,199106120002,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46707,199106120003,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46708,199106120004,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46709,199106120005,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46710,199106120006,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46711,199106120007,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46712,199106120008,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46713,199106120009,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46714,199106120010,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46715,199106120011,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46716,199106120012,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46717,199106120013,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46718,199106120014,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46719,199106120015,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46720,199106120016,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46721,199106120017,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46722,199106120018,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46723,199106120019,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46724,199106120020,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46725,199106120021,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46728,199106120024,1991,6,12,Peru,South America,Ancash,Huaraz,-9.529924000000001,-77.5288,,Business,Shining Path (SL),Firearms,1,0
+46732,199106120028,1991,6,12,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,1,4
+46737,199106130001,1991,6,13,Peru,South America,Callao,Callao,-12.050934,-77.126044,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46746,199106130010,1991,6,13,Peru,South America,Apurimac,Lorenzayoc,-13.439945000000002,-73.600043,,Private Citizens & Property,Shining Path (SL),Firearms,8,0
+46751,199106140004,1991,6,14,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Police,Shining Path (SL),Firearms,2,0
+46752,199106140006,1991,6,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Firearms,0,0
+46769,199106160003,1991,6,16,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Educational Institution,Unknown,Firearms,1,0
+46770,199106160004,1991,6,16,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Educational Institution,Unknown,Firearms,1,0
+46771,199106160005,1991,6,16,Peru,South America,Puno,Santa Lucia,-15.699017999999999,-70.60638399999999,,Government (General),Shining Path (SL),Firearms,0,0
+46772,199106160006,1991,6,16,Peru,South America,Arequipa,La Pampilla,-17.149442999999998,-71.785811,,Business,Shining Path (SL),Firearms,0,0
+46773,199106170001,1991,6,17,Peru,South America,Callao,Callao,-12.050934,-77.126044,,Military,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46774,199106170002,1991,6,17,Peru,South America,Callao,Callao,-12.050934,-77.126044,,Military,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46775,199106170003,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46776,199106170004,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46777,199106170005,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46778,199106170006,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46779,199106170007,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46780,199106170008,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46781,199106170009,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46782,199106170010,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46783,199106170011,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46784,199106170012,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46785,199106170013,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46789,199106170017,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Firearms,1,0
+46791,199106170019,1991,6,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,0,0
+46813,199106180021,1991,6,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Firearms,1,0
+46816,199106180024,1991,6,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46817,199106180025,1991,6,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,0,0
+46818,199106180026,1991,6,18,Peru,South America,Ica,San Jose de Los Molinos,-13.9329,-75.6709,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,7,0
+46820,199106190001,1991,6,19,Peru,South America,Unknown,Unknown,,,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+46830,199106190011,1991,6,19,Peru,South America,Piura,Punta Arenas,-4.589628,-81.285074,,Military,Shining Path (SL),Firearms,1,8
+46831,199106190012,1991,6,19,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,3,0
+46832,199106190013,1991,6,19,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,7,2
+46841,199106200008,1991,6,20,Peru,South America,Unknown,El Puente,,,,Police,Unknown,Firearms,1,0
+46848,199106210001,1991,6,21,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,4,6
+46849,199106210002,1991,6,21,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+46852,199106210005,1991,6,21,Peru,South America,Cajamarca,San Pablo,-7.114922,-78.821689,,Military,Shining Path (SL),Firearms,6,0
+46853,199106210006,1991,6,21,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,2,4
+46856,199106220002,1991,6,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,1,1
+46857,199106220003,1991,6,22,Peru,South America,Callao,Callao,-12.050894,-77.126074,,Military,Unknown,Firearms,1,2
+46858,199106220004,1991,6,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Firearms,1,0
+46863,199106230004,1991,6,23,Peru,South America,Puno,Unknown,-15.84065,-70.027891,,Police,Shining Path (SL),Firearms,4,0
+46864,199106230005,1991,6,23,Peru,South America,Ayacucho,San Miguel,-13.012617,-73.980897,,Private Citizens & Property,Shining Path (SL),Firearms,13,6
+46878,199106250008,1991,6,25,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Military,Shining Path (SL),Firearms,67,0
+46896,199106260015,1991,6,26,Peru,South America,Huanuco,Huanuco district,-9.929478,-76.239738,,Military,Tupac Amaru Revolutionary Movement (MRTA),Firearms,77,0
+46907,199106280006,1991,6,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,0,1
+46910,199106290001,1991,6,29,Peru,South America,Lima,Lurigancho,-12.003378999999999,-76.918423,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46917,199106290008,1991,6,29,Peru,South America,Lima,La Quebrada,-13.040386,-76.394114,,Police,Unknown,Firearms,2,0
+46920,199106300003,1991,6,30,Peru,South America,Cusco,Lares,-13.105250999999999,-72.04464899999999,,Police,Tupac Amaru Revolutionary Movement (MRTA),Firearms,6,0
+46923,199107000003,1991,7,0,Peru,South America,Unknown,Unknown,,,,Business,Shining Path (SL),Firearms,8,0
+46924,199107010001,1991,7,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,3
+46951,199107030006,1991,7,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+46952,199107030007,1991,7,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+46953,199107030008,1991,7,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,2
+46966,199107040004,1991,7,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46967,199107040005,1991,7,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Food or Water Supply,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46968,199107040006,1991,7,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Food or Water Supply,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46969,199107040007,1991,7,4,Peru,South America,Callao,Callao,-12.050934,-77.126044,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+46974,199107040012,1991,7,4,Peru,South America,Pasco,Villa Rica,-10.737186999999999,-75.271626,,Private Citizens & Property,Shining Path (SL),Firearms,6,0
+46978,199107040016,1991,7,4,Peru,South America,Puno,Moho,-15.360764000000001,-69.499844,,Private Citizens & Property,Shining Path (SL),Firearms,8,0
+47004,199107060019,1991,7,6,Peru,South America,Ancash,San Juan,-9.120146,-78.194114,,Government (General),Unknown,Firearms,1,0
+47047,199107080008,1991,7,8,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Telecommunication,Unknown,Explosives/Bombs/Dynamite,0,0
+47061,199107090006,1991,7,9,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+47062,199107090007,1991,7,9,Peru,South America,Piura,Chulucanas district,-5.096507,-80.16083,,Religious Figures/Institutions,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47064,199107090009,1991,7,9,Peru,South America,Junin,Huancayo district,-12.068306,-75.210163,,Government (General),Shining Path (SL),Firearms,1,0
+47089,199107100020,1991,7,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,1
+47103,199107110012,1991,7,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Tupac Amaru Revolutionary Movement (MRTA),Firearms,2,0
+47108,199107120002,1991,7,12,Peru,South America,Lima,Lima,-12.018604,-76.835625,,Transportation,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47111,199107120005,1991,7,12,Peru,South America,Pasco,Unknown,-10.683594,-76.25621,,Government (General),Shining Path (SL),Firearms,1,0
+47112,199107120006,1991,7,12,Peru,South America,Lima,Huaral,-11.495531,-77.207192,,Business,Shining Path (SL),Firearms,3,0
+47113,199107120007,1991,7,12,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Educational Institution,Shining Path (SL),Firearms,1,0
+47120,199107120015,1991,7,12,Peru,South America,Lima,Huaral,-11.495531,-77.207192,,Business,Shining Path (SL),Firearms,0,0
+47121,199107120016,1991,7,12,Peru,South America,Lima,Lima,-12.018604,-76.835625,,Transportation,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47131,199107130008,1991,7,13,Peru,South America,Cajamarca,Cajamarca,-7.162225,-78.51209399999999,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47132,199107130009,1991,7,13,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47133,199107130010,1991,7,13,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47135,199107130012,1991,7,13,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Journalists & Media,Rodrigo Franco Command,Firearms,1,0
+47143,199107130020,1991,7,13,Peru,South America,Ayacucho,Ajomachay,-13.257778,-74.39694399999999,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,1,0
+47148,199107140005,1991,7,14,Peru,South America,Junin,Huancayo district,-12.068306,-75.210163,,Military,Shining Path (SL),Firearms,1,0
+47169,199107150017,1991,7,15,Peru,South America,Junin,Chupaca,-12.061647,-75.287826,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,1,0
+47170,199107150018,1991,7,15,Peru,South America,Lima,Huaral,-11.495531,-77.207192,,Business,Tupac Amaru Revolutionary Movement (MRTA),Firearms,1,0
+47197,199107170003,1991,7,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,1
+47198,199107170004,1991,7,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+47199,199107170005,1991,7,17,Peru,South America,Callao,Callao,-12.050894,-77.126074,,Utilities,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+47200,199107170006,1991,7,17,Peru,South America,Callao,Callao,-12.050894,-77.126074,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+47210,199107180005,1991,7,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,3
+47211,199107180006,1991,7,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,3
+47212,199107180007,1991,7,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,4
+47217,199107180012,1991,7,18,Peru,South America,Ayacucho,Ayacucho,-13.163939000000001,-74.223474,,Educational Institution,Unknown,Firearms,1,0
+47230,199107190011,1991,7,19,Peru,South America,Puno,Puno,-15.84065,-70.027891,,Government (General),Shining Path (SL),Firearms,1,0
+47232,199107190013,1991,7,19,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Journalists & Media,Shining Path (SL),Firearms,0,0
+47233,199107190014,1991,7,19,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Journalists & Media,Shining Path (SL),Firearms,0,0
+47241,199107200005,1991,7,20,Peru,South America,Callao,Callao,-12.050894,-77.126074,,Police,Unknown,Firearms,1,0
+47253,199107220002,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47254,199107220003,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47255,199107220004,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47256,199107220005,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47257,199107220006,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47258,199107220007,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47259,199107220008,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47260,199107220009,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47261,199107220010,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47262,199107220011,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47263,199107220012,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47264,199107220013,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47265,199107220014,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47266,199107220015,1991,7,22,Peru,South America,Lima,Lima,-12.043241,-77.04295400000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47267,199107220016,1991,7,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47268,199107220017,1991,7,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47279,199107220028,1991,7,22,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Tourists,Unknown,Firearms,0,0
+47290,199107230009,1991,7,23,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Firearms,1,1
+47291,199107230010,1991,7,23,Peru,South America,Ayacucho,Tambo,-12.948146000000001,-74.020842,,Police,Shining Path (SL),Firearms,2,0
+47292,199107230011,1991,7,23,Peru,South America,Ayacucho,Tambo,-12.948146000000001,-74.020842,,Private Citizens & Property,Shining Path (SL),Firearms,1,0
+47302,199107230022,1991,7,23,Peru,South America,Apurimac,Apurimac district,-14.054639000000002,-73.088412,,Government (General),Shining Path (SL),Firearms,8,0
+47303,199107230023,1991,7,23,Peru,South America,La Libertad,Pataz,-7.785833,-77.593333,,Military,Shining Path (SL),Firearms,21,0
+47304,199107230024,1991,7,23,Peru,South America,La Libertad,Buldibuyo,-8.127068,-77.395273,,Private Citizens & Property,Shining Path (SL),Firearms,0,0
+47305,199107240001,1991,7,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47306,199107240002,1991,7,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47307,199107240003,1991,7,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+47308,199107240004,1991,7,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+47318,199107250003,1991,7,25,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Telecommunication,Unknown,Explosives/Bombs/Dynamite,0,0
+47319,199107250004,1991,7,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47320,199107250005,1991,7,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47321,199107250006,1991,7,25,Peru,South America,Puno,Puno,-15.84065,-70.027891,,NGO,Shining Path (SL),Explosives/Bombs/Dynamite,1,2
+47322,199107250007,1991,7,25,Peru,South America,Puno,Puno,-15.84065,-70.027891,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47341,199107260005,1991,7,26,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47342,199107260006,1991,7,26,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47343,199107260007,1991,7,26,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47344,199107260008,1991,7,26,Peru,South America,Pasco,Cerro de Pasco,-10.680652,-76.259918,,Transportation,Shining Path (SL),Incendiary,0,0
+47345,199107260009,1991,7,26,Peru,South America,Pasco,Cerro de Pasco,-10.680652,-76.259918,,Transportation,Shining Path (SL),Incendiary,0,0
+47349,199107260013,1991,7,26,Peru,South America,Pasco,Cerro de Pasco,-10.680652,-76.259918,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+47357,199107260021,1991,7,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Unknown,Firearms,4,4
+47358,199107260022,1991,7,26,Peru,South America,Puno,Puno,-15.84065,-70.027891,,Government (General),Shining Path (SL),Firearms,1,2
+47359,199107260023,1991,7,26,Peru,South America,Huancavelica,Tocto,-12.8425,-74.471944,,Military,Shining Path (SL),Firearms,4,0
+47360,199107260024,1991,7,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,3,1
+47447,199108010011,1991,8,1,Peru,South America,Huanuco,Quivilla,-9.539543,-76.68571899999999,,Government (General),Shining Path (SL),Firearms,2,0
+47471,199108030013,1991,8,3,Peru,South America,Huancavelica,Huancavelica district,-12.787148,-74.97320699999999,,Business,Unknown,Firearms,2,0
+47490,199108040005,1991,8,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Incendiary,0,0
+47502,199108050008,1991,8,5,Peru,South America,Cusco,Mosoc Llacta,-14.120122,-71.472977,,Private Citizens & Property,Shining Path (SL),Chemical,3,0
+47506,199108050012,1991,8,5,Peru,South America,Ayacucho,Huanta district,-12.939782000000001,-74.247478,,Military,Shining Path (SL),Firearms,0,0
+47516,199108070006,1991,8,7,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,4
+47523,199108070013,1991,8,7,Peru,South America,San Martin,San Jose de Sisa,-6.613881,-76.695042,,Police,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,2
+47524,199108070014,1991,8,7,Peru,South America,Junin,cachiyacu,-11.253812,-75.58006800000001,,Military,Tupac Amaru Revolutionary Movement (MRTA),Firearms,8,0
+47525,199108070015,1991,8,7,Peru,South America,San Martin,Cunumbuque,-6.511111,-76.48,,Police,Tupac Amaru Revolutionary Movement (MRTA),Firearms,9,0
+47526,199108070016,1991,8,7,Peru,South America,San Martin,San Jose de Sisa,-6.613881,-76.695042,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,1,1
+47539,199108080014,1991,8,8,Peru,South America,San Martin,Cunumbuque,-6.511111,-76.48,,Police,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,7,0
+47540,199108080015,1991,8,8,Peru,South America,San Martin,Unknown,-7.2444880000000005,-76.825965,,Military,Tupac Amaru Revolutionary Movement (MRTA),Firearms,20,0
+47569,199108100006,1991,8,10,Peru,South America,Ancash,Pariacoto,-9.55916,-77.890553,,Government (General),Shining Path (SL),Firearms,1,0
+47570,199108100007,1991,8,10,Peru,South America,Lima,Huaura,-11.069745,-77.599063,,Government (General),Shining Path (SL),Firearms,1,0
+47571,199108100008,1991,8,10,Peru,South America,Ancash,Pariacoto,-9.55916,-77.890553,,Religious Figures/Institutions,Shining Path (SL),Firearms,2,0
+47572,199108100009,1991,8,10,Peru,South America,Cajamarca,Cochabamba,-6.475011,-78.885677,,Government (General),Shining Path (SL),Firearms,1,0
+47580,199108100017,1991,8,10,Peru,South America,Cajamarca,Cochabamba,-6.475011,-78.885677,,Private Citizens & Property,Shining Path (SL),Firearms,0,0
+47585,199108100023,1991,8,10,Peru,South America,Ancash,Pariacoto,-9.55916,-77.890553,,Religious Figures/Institutions,Shining Path (SL),Firearms,0,0
+47589,199108110004,1991,8,11,Peru,South America,Lima,Pativilca,-10.696382,-77.77976,,Government (General),Shining Path (SL),Firearms,1,0
+47622,199108130017,1991,8,13,Peru,South America,Unknown,Cochocollpa,,,,Private Citizens & Property,Shining Path (SL),Firearms,50,0
+47623,199108130018,1991,8,13,Peru,South America,Lima,Cerro Boqueron,-11.95,-77.033333,,Military,Narco-Terrorists,Firearms,16,0
+47636,199108140007,1991,8,14,Peru,South America,Junin,San Pedro de Cajas,-11.249536,-75.862728,,Government (General),Shining Path (SL),Firearms,1,0
+47637,199108140008,1991,8,14,Peru,South America,Junin,San Pedro de Cajas,-11.249536,-75.862728,,Government (General),Shining Path (SL),Firearms,1,0
+47638,199108140009,1991,8,14,Peru,South America,Junin,San Pedro de Cajas,-11.249536,-75.862728,,Government (General),Shining Path (SL),Firearms,1,0
+47643,199108140015,1991,8,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+47644,199108140016,1991,8,14,Peru,South America,Ucayali,Unknown,-9.825118,-73.087749,,Military,Narco-Terrorists,Firearms,16,0
+47702,199108180005,1991,8,18,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,4,12
+47710,199108180014,1991,8,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,5
+47734,199108200008,1991,8,20,Peru,South America,Cusco,Paucartambo,-13.317035999999998,-71.59617800000001,,Police,Shining Path (SL),Firearms,5,0
+47737,199108210002,1991,8,21,Peru,South America,Lambayeque,Unknown,-6.704125,-79.906227,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47743,199108210008,1991,8,21,Peru,South America,Huanuco,Huanuco district,-9.929478,-76.239738,,Business,Shining Path (SL),Firearms,0,0
+47748,199108220004,1991,8,22,Peru,South America,Lambayeque,Olmos district,-5.987342,-79.74559599999999,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+47749,199108220005,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,9,0
+47750,199108220006,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,1
+47751,199108220011,1991,8,22,Peru,South America,Huancavelica,Huando,-12.564389,-74.947322,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47752,199108220012,1991,8,22,Peru,South America,Huancavelica,Huando,-12.564389,-74.947322,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47753,199108220013,1991,8,22,Peru,South America,Huancavelica,Huando,-12.564389,-74.947322,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47754,199108220014,1991,8,22,Peru,South America,Huancavelica,Huando,-12.564389,-74.947322,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47755,199108220015,1991,8,22,Peru,South America,Huancavelica,Huando,-12.564389,-74.947322,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47756,199108220016,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47757,199108220017,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47758,199108220018,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Shining Path (SL),Incendiary,0,0
+47762,199108220022,1991,8,22,Peru,South America,Unknown,Puerto Reina,,,,Military,Unknown,Firearms,6,0
+47767,199108220027,1991,8,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47780,199108250002,1991,8,25,Peru,South America,Huanuco,Tingo Maria,-9.297478,-75.996312,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+47782,199108250004,1991,8,25,Peru,South America,Ancash,Chimbote,-9.05621,-78.578613,,Religious Figures/Institutions,Shining Path (SL),Firearms,1,0
+47796,199108260010,1991,8,26,Peru,South America,Cajamarca,Encanada,-7.084898,-78.342752,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+47802,199108270004,1991,8,27,Peru,South America,San Martin,Tocache district,-8.18885,-76.510838,,Private Citizens & Property,Shining Path (SL),Firearms,9,0
+47809,199108270011,1991,8,27,Peru,South America,Lima,Carhuapampa,-12.038779,-76.119874,,Private Citizens & Property,Shining Path (SL),Firearms,2,1
+47821,199108290002,1991,8,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+47822,199108290003,1991,8,29,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Religious Figures/Institutions,Shining Path (SL),Explosives/Bombs/Dynamite,1,7
+47833,199108290014,1991,8,29,Peru,South America,Lima,San Juan de Lurigancho,-11.968907000000002,-76.994029,,Police,Unknown,Firearms,2,0
+47834,199108290015,1991,8,29,Peru,South America,Huanuco,Tingo Maria,-9.297478,-75.996312,,Military,Unknown,Firearms,13,0
+47840,199108300005,1991,8,30,Peru,South America,Puno,Puno,-15.84065,-70.027891,,Government (General),Shining Path (SL),Firearms,1,0
+47852,199108310008,1991,8,31,Peru,South America,Callao,Callao,-12.050934,-77.126044,,Private Citizens & Property,Shining Path (SL),Firearms,1,0
+47870,199109010008,1991,9,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Firearms,1,0
+47878,199109020005,1991,9,2,Peru,South America,San Martin,Madre Mia,-8.748752,-76.22388199999999,,Military,Shining Path (SL),Firearms,61,0
+47895,199109030015,1991,9,3,Peru,South America,La Libertad,Trujillo,-8.081077,-79.000737,,Military,Shining Path (SL),Firearms,9,0
+47896,199109030016,1991,9,3,Peru,South America,Lima,Barranca,-10.754073,-77.760992,,Police,Unknown,Firearms,2,1
+47909,199109040011,1991,9,4,Peru,South America,Lima,Lurigancho,-12.003378999999999,-76.918423,,Educational Institution,Shining Path (SL),Firearms,1,0
+47912,199109040014,1991,9,4,Peru,South America,Ayacucho,Calicanto,-13.601973999999998,-74.00108399999999,,Private Citizens & Property,Shining Path (SL),Firearms,4,0
+47915,199109040017,1991,9,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Firearms,0,0
+47978,199109100006,1991,9,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Explosives/Bombs/Dynamite,1,1
+47979,199109100007,1991,9,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+47985,199109100015,1991,9,10,Peru,South America,Callao,Callao,-12.050894,-77.126074,,Police,Shining Path (SL),Firearms,1,1
+47988,199109100018,1991,9,10,Peru,South America,Puno,Unknown,-15.84065,-70.027891,,Military,Shining Path (SL),Firearms,0,0
+47989,199109100019,1991,9,10,Peru,South America,Cusco,Cusco,-13.531688,-71.966924,,Tourists,Unknown,Firearms,0,0
+47990,199109100020,1991,9,10,Peru,South America,Puno,Melgar district,-14.665339000000001,-70.702547,,Military,Shining Path (SL),Firearms,10,0
+48006,199109110013,1991,9,11,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Unknown,Unknown,1,0
+48008,199109120001,1991,9,12,Peru,South America,Lima,Mazo,-11.025016,-77.605638,,Government (General),Shining Path (SL),Incendiary,0,0
+48024,199109140003,1991,9,14,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Firearms,2,0
+48027,199109140006,1991,9,14,Peru,South America,Junin,Junin district,-11.161067,-75.99309000000001,,Maritime,Shining Path (SL),Firearms,12,0
+48028,199109140007,1991,9,14,Peru,South America,Puno,Unknown,-15.84065,-70.027891,,Business,Shining Path (SL),Firearms,1,0
+48052,199109160007,1991,9,16,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48058,199109160013,1991,9,16,Peru,South America,Lambayeque,Santa Rosa,-6.875967999999999,-79.922097,,Private Citizens & Property,Shining Path (SL),Firearms,1,0
+48060,199109160016,1991,9,16,Peru,South America,Unknown,La Tapuna,,,,Police,Shining Path (SL),Firearms,25,0
+48061,199109160017,1991,9,16,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Firearms,0,0
+48067,199109170004,1991,9,17,Peru,South America,Ayacucho,Minascucho,-13.416551,-74.20437,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,7,1
+48071,199109180002,1991,9,18,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Food or Water Supply,Unknown,Firearms,0,0
+48085,199109190009,1991,9,19,Peru,South America,Ayacucho,Ayacucho district,-14.31884,-74.378173,,Private Citizens & Property,Shining Path (SL),Firearms,13,0
+48086,199109190010,1991,9,19,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Melee,1,0
+48089,199109190013,1991,9,19,Peru,South America,Ayacucho,San Miguel,-13.012617,-73.980897,,Private Citizens & Property,Shining Path (SL),Firearms,14,0
+48090,199109190014,1991,9,19,Peru,South America,Unknown,Cotomiyo,,,,Military,Shining Path (SL),Firearms,35,1
+48101,199109200004,1991,9,20,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,6,4
+48104,199109200007,1991,9,20,Peru,South America,Ancash,Yanas,-9.15986,-76.799288,,Private Citizens & Property,Shining Path (SL),Firearms,11,0
+48108,199109200011,1991,9,20,Peru,South America,Unknown,Cutibereni,,,,Private Citizens & Property,Shining Path (SL),Firearms,10,3
+48118,199109220006,1991,9,22,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+48120,199109220008,1991,9,22,Peru,South America,Cajamarca,Lluchubamba,-7.519400999999999,-77.969314,,Private Citizens & Property,Shining Path (SL),Firearms,4,0
+48123,199109220011,1991,9,22,Peru,South America,Junin,La Oroya,-11.520494,-75.899782,,Private Citizens & Property,Unknown,Firearms,0,0
+48124,199109220012,1991,9,22,Peru,South America,Puno,Quilla Cocha,-14.337222,-69.791944,,Military,Shining Path (SL),Firearms,1,0
+48125,199109220013,1991,9,22,Peru,South America,Huanuco,Caymito,-8.718889,-76.12916700000001,,Police,Shining Path (SL),Firearms,0,0
+48138,199109230013,1991,9,23,Peru,South America,Apurimac,Tambobamba,-13.945695,-72.175696,,Religious Figures/Institutions,Unknown,Firearms,0,0
+48139,199109240001,1991,9,24,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48140,199109240002,1991,9,24,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48141,199109240003,1991,9,24,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48142,199109240004,1991,9,24,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48144,199109240006,1991,9,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,1,0
+48145,199109240007,1991,9,24,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Firearms,1,0
+48150,199109250001,1991,9,25,Peru,South America,Lima,lIMA,-12.046378,-77.04279100000001,,Educational Institution,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48151,199109250002,1991,9,25,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Firearms,1,0
+48166,199109260009,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48167,199109260010,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48168,199109260011,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48169,199109260012,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48170,199109260013,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48171,199109260014,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48172,199109260015,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48173,199109260016,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48174,199109260017,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48175,199109260018,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48176,199109260019,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48177,199109260020,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48178,199109260021,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48179,199109260022,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48180,199109260023,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48181,199109260024,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48182,199109260025,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48183,199109260026,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48184,199109260027,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48185,199109260028,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48186,199109260029,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48187,199109260030,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48188,199109260031,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48189,199109260032,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48190,199109260033,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48191,199109260034,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48192,199109260035,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48193,199109260036,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48194,199109260037,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48195,199109260038,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48196,199109260039,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48197,199109260040,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48198,199109260041,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48199,199109260042,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48200,199109260043,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48201,199109260044,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48202,199109260045,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48203,199109260046,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48204,199109260047,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48205,199109260048,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48206,199109260049,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48207,199109260050,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48208,199109260051,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48209,199109260052,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48210,199109260053,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48211,199109260054,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48212,199109260055,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48213,199109260056,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48214,199109260057,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48215,199109260058,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48216,199109260059,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48217,199109260060,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48218,199109260061,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48219,199109260062,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48220,199109260063,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48221,199109260064,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48222,199109260065,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48223,199109260066,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48224,199109260067,1991,9,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48230,199109260073,1991,9,26,Peru,South America,Junin,Satipo district,-11.254239,-74.63696,,Military,Shining Path (SL),Firearms,21,0
+48231,199109260074,1991,9,26,Peru,South America,Puno,Taipuma,-16.466667,-69.916667,,Military,Shining Path (SL),Firearms,2,0
+48252,199109280007,1991,9,28,Peru,South America,San Martin,Uchiza,-8.459251,-76.461991,,Government (Diplomatic),Shining Path (SL),Firearms,4,0
+48266,199109300007,1991,9,30,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Firearms,0,0
+48267,199110010001,1991,10,1,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48270,199110010005,1991,10,1,Peru,South America,Ayacucho,Quinua,-13.049167,-74.138611,,Military,Shining Path (SL),Firearms,1,5
+48283,199110020003,1991,10,2,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Educational Institution,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48296,199110030005,1991,10,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,0,0
+48297,199110030006,1991,10,3,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Unknown,0,0
+48304,199110040004,1991,10,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Military,Shining Path (SL),Firearms,1,0
+48310,199110040010,1991,10,4,Peru,South America,Unknown,Unknown,,,,Journalists & Media,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+48311,199110040011,1991,10,4,Peru,South America,Unknown,Unknown,,,,Journalists & Media,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+48321,199110050010,1991,10,5,Peru,South America,Huancavelica,Huancavelica,-12.787148,-74.97320699999999,,Government (General),Right-Wing Group,Firearms,1,0
+48342,199110060014,1991,10,6,Peru,South America,Cusco,Cusco,-13.519439000000002,-71.940545,,Private Citizens & Property,Shining Path (SL),Firearms,9,0
+48349,199110070006,1991,10,7,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48362,199110080004,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48363,199110080005,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48364,199110080006,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48365,199110080007,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48366,199110080008,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48367,199110080009,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48368,199110080010,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48370,199110080012,1991,10,8,Peru,South America,Unknown,Ronguyocc Alto,,,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,8,0
+48405,199110100006,1991,10,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Journalists & Media,Death Squad,Explosives/Bombs/Dynamite,1,0
+48435,199110110017,1991,10,11,Peru,South America,Ayacucho,Ticllas,-13.1325,-74.332778,,Military,Shining Path (SL),Firearms,7,0
+48463,199110140002,1991,10,14,Peru,South America,Unknown,Unknown,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48464,199110140003,1991,10,14,Peru,South America,Unknown,Unknown,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48465,199110140004,1991,10,14,Peru,South America,Unknown,Unknown,,,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48498,199110160017,1991,10,16,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Journalists & Media,Shining Path (SL),Firearms,1,0
+48528,199110170024,1991,10,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Police,Shining Path (SL),Firearms,1,0
+48529,199110170025,1991,10,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+48530,199110170026,1991,10,17,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+48536,199110180001,1991,10,18,Peru,South America,Lima,Lima,-12.047606,-77.000266,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,1
+48552,199110190003,1991,10,19,Peru,South America,Arequipa,Patahuasi,-16.043745,-71.402286,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,5,0
+48553,199110190004,1991,10,19,Peru,South America,Apurimac,Chichucancha,-13.896667,-73.513889,,Terrorists/Non-State Militia,Shining Path (SL),Firearms,4,0
+48554,199110190005,1991,10,19,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Firearms,1,0
+48593,199110200034,1991,10,20,Peru,South America,San Martin,Huallaga district,-7.794691,-76.196402,,Terrorists/Non-State Militia,Tupac Amaru Revolutionary Movement (MRTA),Firearms,50,0
+48600,199110210004,1991,10,21,Peru,South America,Ancash,Catac,-9.802222,-77.431111,,Government (General),Shining Path (SL),Firearms,2,0
+48610,199110220005,1991,10,22,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Government (General),Shining Path (SL),Firearms,1,0
+48634,199110230006,1991,10,23,Peru,South America,Cajamarca,Cajamarca,-7.162225,-78.51209399999999,,Educational Institution,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48635,199110230007,1991,10,23,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Transportation,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48636,199110230008,1991,10,23,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Private Citizens & Property,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48637,199110230009,1991,10,23,Peru,South America,Junin,hUANCAYO,-12.068306,-75.210163,,Educational Institution,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48640,199110230012,1991,10,23,Peru,South America,Junin,Huancayo,-12.068636,-75.210298,,Government (General),Shining Path (SL),Firearms,1,0
+48649,199110240004,1991,10,24,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48658,199110240013,1991,10,24,Peru,South America,Callao,Bellavista,-12.058285,-77.105378,,Military,Tupac Amaru Revolutionary Movement (MRTA),Firearms,52,32
+48659,199110240014,1991,10,24,Peru,South America,Huancavelica,Esmeralda,-12.6522,-74.621208,,Military,Shining Path (SL),Firearms,9,0
+48660,199110240015,1991,10,24,Peru,South America,Unknown,Mision Cutuvireni,,,,Military,Shining Path (SL),Firearms,29,0
+48718,199110260032,1991,10,26,Peru,South America,Junin,Ulcumayo,-10.9675,-75.87944399999999,,Private Citizens & Property,Shining Path (SL),Firearms,12,0
+48719,199110260033,1991,10,26,Peru,South America,Junin,Matahuasi,-11.892042,-75.34778,,Private Citizens & Property,Shining Path (SL),Firearms,2,0
+48727,199110270004,1991,10,27,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Journalists & Media,Shining Path (SL),Firearms,1,0
+48729,199110270006,1991,10,27,Peru,South America,La Libertad,Trujillo,-8.111825,-79.02866,,Airports & Aircraft,Narco-Terrorists,Firearms,0,0
+48801,199111010007,1991,11,1,Peru,South America,Lima,Huayhuash,-10.392209,-76.872105,,Military,Shining Path (SL),Firearms,2,0
+48802,199111010008,1991,11,1,Peru,South America,Lima,Huacho,-11.122722,-77.610568,,Government (General),Shining Path (SL),Firearms,0,1
+48809,199111010015,1991,11,1,Peru,South America,Lima,Lima,-12.151589999999999,-76.96358599999999,,Military,Shining Path (SL),Firearms,9,0
+48810,199111010016,1991,11,1,Peru,South America,Lima,Tanta,-12.12242,-76.013308,,Police,Shining Path (SL),Firearms,2,2
+48833,199111020022,1991,11,2,Peru,South America,Huancavelica,Santo Tomas de Pata,-13.11297,-74.41885500000001,,Private Citizens & Property,Shining Path (SL),Firearms,37,0
+48839,199111030003,1991,11,3,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48840,199111030004,1991,11,3,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48841,199111030005,1991,11,3,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48843,199111030007,1991,11,3,Peru,South America,Huancavelica,Santo Tomas de Pata,-13.11297,-74.41885500000001,,Military,Shining Path (SL),Firearms,37,0
+48846,199111030010,1991,11,3,Peru,South America,Huanuco,Antacolpa,-10.261828,-76.665648,,Private Citizens & Property,Shining Path (SL),Firearms,4,0
+48847,199111030011,1991,11,3,Peru,South America,Unknown,Unas,,,,Private Citizens & Property,Shining Path (SL),Firearms,2,0
+48848,199111030014,1991,11,3,Peru,South America,Ancash,Huaraz,-9.529924000000001,-77.5288,,Journalists & Media,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+48864,199111040013,1991,11,4,Peru,South America,Junin,Huancayo district,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48865,199111040014,1991,11,4,Peru,South America,Junin,Huancayo district,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+48866,199111040015,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48867,199111040016,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48868,199111040017,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48869,199111040018,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48870,199111040019,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Airports & Aircraft,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48871,199111040020,1991,11,4,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+48878,199111040027,1991,11,4,Peru,South America,Junin,Monobamba,-11.362639999999999,-75.323771,,Private Citizens & Property,Shining Path (SL),Firearms,6,0
+48879,199111040028,1991,11,4,Peru,South America,Lima,Yauyos,-12.460066000000001,-75.91801600000001,,Educational Institution,Shining Path (SL),Firearms,0,0
+48882,199111040031,1991,11,4,Peru,South America,San Martin,Moyobamba,-6.034766,-76.973892,,Business,Shining Path (SL),Firearms,0,0
+48883,199111040032,1991,11,4,Peru,South America,Unknown,Raucana,,,,Private Citizens & Property,Death Squad,Firearms,1,0
+48890,199111050008,1991,11,5,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,3
+48896,199111060005,1991,11,6,Peru,South America,Junin,Uchubamba,-11.450666,-75.25399999999999,,Private Citizens & Property,Shining Path (SL),Firearms,3,0
+48897,199111060006,1991,11,6,Peru,South America,Junin,Monobamba,-11.362639999999999,-75.323771,,Government (General),Shining Path (SL),Firearms,3,0
+48917,199111070010,1991,11,7,Peru,South America,San Martin,Tarapoto,-6.488123000000001,-76.3599,,Military,Shining Path (SL),Firearms,0,0
+48922,199111080005,1991,11,8,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+48923,199111080006,1991,11,8,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+48924,199111080007,1991,11,8,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+48925,199111080008,1991,11,8,Peru,South America,Unknown,El Caisao,,,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+48927,199111080010,1991,11,8,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Government (General),Shining Path (SL),Firearms,0,1
+48928,199111080011,1991,11,8,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Government (General),Shining Path (SL),Firearms,1,0
+48954,199111100013,1991,11,10,Peru,South America,Piura,Huacas,-5.035366000000001,-79.928039,,Private Citizens & Property,Shining Path (SL),Firearms,11,0
+49030,199111150032,1991,11,15,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+49031,199111150033,1991,11,15,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49032,199111150034,1991,11,15,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49033,199111150035,1991,11,15,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49037,199111150040,1991,11,15,Peru,South America,Junin,Huancayo,-12.068306,-75.210163,,Government (General),Shining Path (SL),Explosives/Bombs/Dynamite,1,0
+49038,199111150041,1991,11,15,Peru,South America,Junin,Pancan,-11.748889,-75.486111,,Government (General),Shining Path (SL),Firearms,1,0
+49043,199111150046,1991,11,15,Peru,South America,Puno,Pucara District,-15.042001,-70.36796600000001,,Police,Shining Path (SL),Firearms,2,3
+49060,199111160016,1991,11,16,Peru,South America,San Martin,Tarapoto,-6.488123000000001,-76.3599,,Police,Shining Path (SL),Firearms,1,0
+49061,199111160017,1991,11,16,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Police,Shining Path (SL),Explosives/Bombs/Dynamite,3,52
+49098,199111200003,1991,11,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Transportation,Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+49102,199111200008,1991,11,20,Peru,South America,Madre de Dios,Rio Colorado,-12.933333,-71.18333299999999,,Private Citizens & Property,Shining Path (SL),Firearms,6,0
+49103,199111200009,1991,11,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+49162,199111270001,1991,11,27,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Food or Water Supply,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49180,199111280003,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49181,199111280004,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49182,199111280005,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49183,199111280006,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49184,199111280007,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49185,199111280008,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49186,199111280009,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Utilities,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49187,199111280010,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49188,199111280011,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49189,199111280012,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49190,199111280013,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49191,199111280014,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49192,199111280015,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49193,199111280016,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49194,199111280017,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49195,199111280018,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49196,199111280019,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49197,199111280020,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49198,199111280021,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49199,199111280022,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49200,199111280023,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49201,199111280024,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49202,199111280025,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49203,199111280026,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49204,199111280027,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49205,199111280028,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49206,199111280029,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Shining Path (SL),Explosives/Bombs/Dynamite,0,0
+49207,199111280030,1991,11,28,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+49338,199112100005,1991,12,10,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (General),Tupac Amaru Revolutionary Movement (MRTA),Explosives/Bombs/Dynamite,0,0
+49383,199112150009,1991,12,15,Peru,South America,Cusco,Cusco district,-13.531688,-71.966924,,Military,Shining Path (SL),Firearms,3,0
+49391,199112160007,1991,12,16,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Military,Shining Path (SL),Unknown,2,0
+49392,199112160008,1991,12,16,Peru,South America,Lima,Huaura,-11.069745,-77.599063,,Military,Shining Path (SL),Firearms,3,0
+49441,199112200003,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+49442,199112200004,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+49443,199112200005,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+49444,199112200006,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+49445,199112200007,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+49446,199112200008,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+49447,199112200009,1991,12,20,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+49452,199112210003,1991,12,21,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Private Citizens & Property,Shining Path (SL),Firearms,0,3
+49453,199112210004,1991,12,21,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Educational Institution,Shining Path (SL),Firearms,1,0
+49454,199112210005,1991,12,21,Peru,South America,Lima,Huaral,-11.495531,-77.207192,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,1,0
+49470,199112220011,1991,12,22,Peru,South America,Tacna,Panti Usu,-16.970833,-70.12,,Government (General),Shining Path (SL),Firearms,10,0
+49476,199112230006,1991,12,23,Peru,South America,Ayacucho,Ayacucho,-13.163874,-74.223564,,Private Citizens & Property,Unknown,Firearms,1,1
+49480,199112230010,1991,12,23,Peru,South America,San Martin,Saposoa,-6.936433999999999,-76.771772,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,0,0
+49481,199112230011,1991,12,23,Peru,South America,San Martin,Juanjui,-7.180295,-76.726445,,Private Citizens & Property,Tupac Amaru Revolutionary Movement (MRTA),Firearms,10,0
+49482,199112230012,1991,12,23,Peru,South America,San Martin,Soritor,-6.139657,-77.101584,,Military,Tupac Amaru Revolutionary Movement (MRTA),Firearms,6,10
+49509,199112260009,1991,12,26,Peru,South America,Lima,Lima,-12.046378,-77.04279100000001,,Business,Unknown,Firearms,0,0

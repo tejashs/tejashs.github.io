@@ -1,0 +1,564 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+20540,198401020001,1984,1,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+20555,198401020016,1984,1,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+20556,198401020017,1984,1,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+20558,198401030002,1984,1,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20583,198401080001,1984,1,8,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+20608,198401100009,1984,1,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Marxists,Unknown,0,0
+20630,198401130001,1984,1,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Unknown,0,0
+20631,198401130002,1984,1,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Unknown,0,0
+20708,198401230002,1984,1,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+20735,198401260009,1984,1,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Firearms,0,0
+20741,198401270001,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20742,198401270002,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20743,198401270003,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20744,198401270004,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20745,198401270005,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20746,198401270006,1984,1,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20759,198401280001,1984,1,28,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20760,198401280002,1984,1,28,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+20761,198401280003,1984,1,28,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+20775,198401300003,1984,1,30,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Firearms,0,1
+20884,198402100001,1984,2,10,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+20885,198402100002,1984,2,10,Chile,South America,Arica and Parinacota,Arica,-18.477323000000002,-70.314534,,Religious Figures/Institutions,Defenders of the Fatherland,Incendiary,0,0
+20892,198402100009,1984,2,10,Chile,South America,Arica and Parinacota,Arica,-18.477323000000002,-70.314534,,Religious Figures/Institutions,Defenders of the Fatherland,Incendiary,0,0
+20897,198402110001,1984,2,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Incendiary,0,0
+20900,198402110004,1984,2,11,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Business,Right-Wing Group,Unknown,0,0
+20907,198402130001,1984,2,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+20912,198402130006,1984,2,13,Chile,South America,Santiago Metropolitan,Santiago,-33.410866,-70.835779,,Police,Movement of the Revolutionary Left (MIR) (Chile),Firearms,0,0
+21047,198402290002,1984,2,29,Chile,South America,Unknown,Zuelpue,,,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21048,198402290003,1984,2,29,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21049,198402290004,1984,2,29,Chile,South America,Unknown,Fifth Region,-35.675149,-71.542969,,Maritime,Unknown,Explosives/Bombs/Dynamite,0,0
+21050,198402290005,1984,2,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Educational Institution,Unknown,Unknown,0,0
+21051,198402290006,1984,2,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21052,198402290007,1984,2,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,NGO,Unknown,Explosives/Bombs/Dynamite,0,0
+21053,198402290008,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21054,198402290009,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21055,198402290010,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+21056,198402290011,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21057,198402290012,1984,2,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21058,198402290013,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21059,198402290014,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21060,198402290015,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21061,198402290016,1984,2,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,3
+21072,198403010001,1984,3,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21073,198403010002,1984,3,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21074,198403010003,1984,3,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21075,198403010004,1984,3,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21076,198403010005,1984,3,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21077,198403010006,1984,3,1,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21078,198403010007,1984,3,1,Chile,South America,Valparaiso,valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21079,198403010008,1984,3,1,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21080,198403010009,1984,3,1,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21081,198403010010,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21082,198403010011,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21083,198403010012,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21084,198403010013,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21085,198403010014,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21086,198403010015,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21087,198403010016,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,3
+21088,198403010017,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21089,198403010018,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21090,198403010019,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21091,198403010020,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21092,198403010021,1984,3,1,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21093,198403010022,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21094,198403010023,1984,3,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21119,198403030001,1984,3,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21125,198403040002,1984,3,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+21131,198403040008,1984,3,4,Chile,South America,Antofagasta,Antofagasta,-23.650192999999998,-70.400018,,Journalists & Media,Unknown,Unknown,0,0
+21151,198403060007,1984,3,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Movement of the Revolutionary Left (MIR) (Chile),Firearms,0,0
+21153,198403070001,1984,3,7,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+21174,198403070022,1984,3,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Firearms,0,0
+21179,198403090002,1984,3,9,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Unknown,Melee,0,0
+21180,198403090003,1984,3,9,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Unknown,Melee,0,0
+21181,198403090004,1984,3,9,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Unknown,Melee,0,0
+21182,198403090005,1984,3,9,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Unknown,Melee,0,0
+21215,198403120003,1984,3,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Movement of the Revolutionary Left (MIR) (Chile),Firearms,0,1
+21253,198403160003,1984,3,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21261,198403170001,1984,3,17,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Private Citizens & Property,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21262,198403170002,1984,3,17,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Educational Institution,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21263,198403170003,1984,3,17,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21264,198403170004,1984,3,17,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21265,198403170005,1984,3,17,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21266,198403170006,1984,3,17,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21267,198403170007,1984,3,17,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21274,198403170014,1984,3,17,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21275,198403170015,1984,3,17,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21276,198403180001,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21277,198403180002,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21278,198403180003,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21279,198403180004,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21280,198403180005,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21281,198403180006,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21282,198403180007,1984,3,18,Chile,South America,Valparaiso,Quilpue,-33.050334,-71.431714,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21283,198403180008,1984,3,18,Chile,South America,Valparaiso,Quilpue,-33.050334,-71.431714,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21284,198403180009,1984,3,18,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21285,198403180010,1984,3,18,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21286,198403180011,1984,3,18,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21287,198403180012,1984,3,18,Chile,South America,Valparaiso,Vina del mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21288,198403180013,1984,3,18,Chile,South America,Valparaiso,Vina del mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21289,198403180014,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21290,198403180015,1984,3,18,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21291,198403180016,1984,3,18,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21292,198403180017,1984,3,18,Chile,South America,Valparaiso,Quilpue,-33.050334,-71.431714,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21293,198403180018,1984,3,18,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21294,198403180019,1984,3,18,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21295,198403180020,1984,3,18,Chile,South America,Valparaiso,San Antonio,-33.583745,-71.613065,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21296,198403180021,1984,3,18,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21297,198403180022,1984,3,18,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21298,198403180023,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21299,198403180024,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21300,198403180025,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21301,198403180026,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21302,198403180027,1984,3,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21303,198403180028,1984,3,18,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21304,198403180029,1984,3,18,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,12
+21308,198403180033,1984,3,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Firearms,0,0
+21316,198403190001,1984,3,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21317,198403190002,1984,3,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21326,198403200002,1984,3,20,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,1
+21329,198403200005,1984,3,20,Chile,South America,Santiago Metropolitan,Santiago,-33.494536,-70.651421,,Journalists & Media,Commandos,Firearms,0,0
+21338,198403220002,1984,3,22,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21339,198403220003,1984,3,22,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21340,198403220004,1984,3,22,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21361,198403250001,1984,3,25,Chile,South America,Los Lagos,Puerto Montt,-41.472903,-72.9369,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Incendiary,0,0
+21371,198403260003,1984,3,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21372,198403260004,1984,3,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21373,198403260005,1984,3,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21420,198403290001,1984,3,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21421,198403290002,1984,3,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21422,198403290003,1984,3,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21431,198403290012,1984,3,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Unknown,1,1
+21438,198403300007,1984,3,30,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,12
+21449,198404010001,1984,4,1,Chile,South America,Santiago Metropolitan,Melipilla,-33.686068,-71.216633,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21450,198404010002,1984,4,1,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21451,198404010003,1984,4,1,Chile,South America,Bio Bio,Charrua,-37.101382,-72.325337,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21452,198404010004,1984,4,1,Chile,South America,Bio Bio,Charrua,-37.101382,-72.325337,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21453,198404010005,1984,4,1,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21475,198404010027,1984,4,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21476,198404010028,1984,4,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21477,198404010029,1984,4,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21478,198404010030,1984,4,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21479,198404010031,1984,4,1,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21508,198404050003,1984,4,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Unknown,0,0
+21509,198404050004,1984,4,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21510,198404050005,1984,4,5,Chile,South America,Magallanes & Chilean Antarctica,Punta Arenas,-53.154613,-70.916943,,Telecommunication,Unknown,Explosives/Bombs/Dynamite,0,0
+21523,198404060003,1984,4,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21528,198404070001,1984,4,7,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+21533,198404070006,1984,4,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Firearms,0,0
+21558,198404090001,1984,4,9,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21559,198404090002,1984,4,9,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21560,198404090003,1984,4,9,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21561,198404090004,1984,4,9,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21610,198404150004,1984,4,15,Chile,South America,Santiago Metropolitan,Santiago,-33.410866,-70.835779,,Military,Unknown,Firearms,1,0
+21666,198404170006,1984,4,17,Chile,South America,Santiago Metropolitan,Santiago,-33.410866,-70.835779,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21762,198404250003,1984,4,25,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,2
+21768,198404260004,1984,4,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,2
+21769,198404260005,1984,4,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,4
+21780,198404270001,1984,4,27,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21781,198404270002,1984,4,27,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21782,198404270003,1984,4,27,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21783,198404270004,1984,4,27,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21784,198404270005,1984,4,27,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21793,198404290003,1984,4,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,20
+21794,198404290004,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21795,198404290005,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21796,198404290006,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21797,198404290007,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21798,198404290008,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21799,198404290009,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21800,198404290010,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21801,198404290011,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21802,198404290012,1984,4,29,Chile,South America,Unknown,Unknown,,,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21811,198405000002,1984,5,0,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+21834,198405020001,1984,5,2,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Government (General),Unknown,Incendiary,0,0
+21840,198405030001,1984,5,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+21878,198405080003,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.454491,-70.603833,,Private Citizens & Property,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21879,198405080004,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.516667,-70.766667,,Private Citizens & Property,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21880,198405080005,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.434847999999995,-70.61573100000001,,Private Citizens & Property,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21881,198405080006,1984,5,8,Chile,South America,Santiago Metropolitan,Las Condes,-33.411667,-70.55,,Private Citizens & Property,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21882,198405080007,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+21886,198405080011,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21887,198405080012,1984,5,8,Chile,South America,Santiago Metropolitan,Santiago,-33.426711,-70.699004,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,3
+21894,198405090008,1984,5,9,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21895,198405100001,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21896,198405100002,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21897,198405100003,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21898,198405100004,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+21904,198405100010,1984,5,10,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Transportation,Unknown,Incendiary,0,2
+21905,198405100011,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Incendiary,0,0
+21906,198405100012,1984,5,10,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21915,198405110001,1984,5,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,2
+21916,198405110002,1984,5,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21917,198405110003,1984,5,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21918,198405110004,1984,5,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+21919,198405110005,1984,5,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Food or Water Supply,Unknown,Explosives/Bombs/Dynamite,0,0
+21939,198405130001,1984,5,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+21940,198405130002,1984,5,13,Chile,South America,Bio Bio,Chillan,-36.609282,-72.102064,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+21978,198405160001,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+21979,198405160002,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+21980,198405160003,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21981,198405160004,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21982,198405160005,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21983,198405160006,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21984,198405160007,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21985,198405160008,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21986,198405160009,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21987,198405160010,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21988,198405160011,1984,5,16,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21989,198405160012,1984,5,16,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21990,198405160013,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+21991,198405160014,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,1,0
+21992,198405160015,1984,5,16,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22000,198405160023,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22001,198405160024,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22002,198405160025,1984,5,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22004,198405170001,1984,5,17,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,1,0
+22005,198405170002,1984,5,17,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22009,198405170007,1984,5,17,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+22012,198405180001,1984,5,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22013,198405180002,1984,5,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,1,0
+22014,198405180003,1984,5,18,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Food or Water Supply,Unknown,Explosives/Bombs/Dynamite,0,0
+22015,198405180004,1984,5,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22016,198405180005,1984,5,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+22027,198405190001,1984,5,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Police,Unknown,Explosives/Bombs/Dynamite,0,2
+22037,198405200005,1984,5,20,Chile,South America,Valparaiso,Quilpue,-33.050334,-71.431714,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22038,198405200006,1984,5,20,Chile,South America,Valparaiso,Villa Alemana,-33.047737,-71.37340999999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22039,198405200007,1984,5,20,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+22069,198405240001,1984,5,24,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+22070,198405240002,1984,5,24,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22071,198405240003,1984,5,24,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22076,198405250002,1984,5,25,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22077,198405250003,1984,5,25,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+22078,198405250004,1984,5,25,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22096,198405290010,1984,5,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Firearms,0,0
+22097,198405290011,1984,5,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+22143,198406050001,1984,6,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Chilean Anti-Communist Alliance (ACHA),Explosives/Bombs/Dynamite,0,0
+22150,198406060001,1984,6,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22151,198406060002,1984,6,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22152,198406060003,1984,6,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22153,198406060004,1984,6,6,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+22154,198406060005,1984,6,6,Chile,South America,Santiago Metropolitan,Puente Alto,-33.616667,-70.56666700000001,,Government (General),Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22155,198406060006,1984,6,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22156,198406060007,1984,6,6,Chile,South America,Bio Bio,Talcahuano,-36.724358,-73.112741,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22166,198406070006,1984,6,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+22167,198406080001,1984,6,8,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Movement of the Revolutionary Left (MIR) (Chile),Incendiary,0,0
+22169,198406080004,1984,6,8,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Firearms,0,0
+22184,198406110001,1984,6,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22185,198406110002,1984,6,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22188,198406110005,1984,6,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Firearms,2,0
+22193,198406120001,1984,6,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Unknown,0,0
+22194,198406120002,1984,6,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Unknown,0,0
+22200,198406130001,1984,6,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22208,198406150001,1984,6,15,Chile,South America,Araucania,Temuco,-38.734133,-72.58465100000001,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+22266,198406200002,1984,6,20,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,0
+22267,198406200003,1984,6,20,Chile,South America,Valparaiso,Valparaiso,-33.03485,-71.56781099999999,,Transportation,Unknown,Firearms,0,0
+22285,198406210015,1984,6,21,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,1
+22299,198406230003,1984,6,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+22326,198406250006,1984,6,25,Chile,South America,Santiago Metropolitan,Santiago,-33.528796,-70.663317,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22332,198406260001,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22333,198406260002,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22334,198406260003,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22335,198406260004,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22336,198406260005,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22337,198406260006,1984,6,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22342,198406270003,1984,6,27,Chile,South America,Santiago Metropolitan,Santiago,-33.516667,-70.766667,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22343,198406270004,1984,6,27,Chile,South America,Unknown,Unknown,,,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22344,198406270005,1984,6,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22347,198406270008,1984,6,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Unknown,0,0
+22348,198406270009,1984,6,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Unknown,0,0
+22352,198406280003,1984,6,28,Chile,South America,Maule,Unknown,-35.512345,-71.573828,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22353,198406280004,1984,6,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+22354,198406280005,1984,6,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+22376,198407030005,1984,7,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,2,0
+22377,198407030006,1984,7,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,2,0
+22402,198407050008,1984,7,5,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22403,198407050009,1984,7,5,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+22413,198407050019,1984,7,5,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Military,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22414,198407050020,1984,7,5,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Military,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22469,198407110002,1984,7,11,Chile,South America,Los Rios,Valdivia,-39.820083000000004,-73.245395,,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite,0,0
+22520,198407120040,1984,7,12,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Business,Unknown,Explosives/Bombs/Dynamite,0,1
+22521,198407120041,1984,7,12,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22522,198407120042,1984,7,12,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22523,198407120043,1984,7,12,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22524,198407120044,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22525,198407120045,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22526,198407120046,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22527,198407120047,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22528,198407120048,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22529,198407120049,1984,7,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22532,198407130003,1984,7,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22533,198407130004,1984,7,13,Chile,South America,Maule,Talca,-35.43058,-71.65762,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22534,198407130005,1984,7,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22535,198407130006,1984,7,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22536,198407130007,1984,7,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+22596,198407190002,1984,7,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22717,198408030001,1984,8,3,Chile,South America,Santiago Metropolitan,Puente Alto,-33.616667,-70.56666700000001,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+22726,198408050001,1984,8,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22733,198408060004,1984,8,6,Chile,South America,Santiago Metropolitan,Santiago,-33.426711,-70.699004,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22734,198408060005,1984,8,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+22739,198408070002,1984,8,7,Chile,South America,Maule,Trapiche,-34.967778,-71.378889,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22740,198408070003,1984,8,7,Chile,South America,Coquimbo,Coquimbo,-29.9533,-71.3436,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22741,198408070004,1984,8,7,Chile,South America,Los Rios,Valdivia,-39.820083000000004,-73.245395,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+22742,198408070005,1984,8,7,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+22743,198408070006,1984,8,7,Chile,South America,Coquimbo,La Serena,-29.906896999999997,-71.25103,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22744,198408070007,1984,8,7,Chile,South America,Bio Bio,Coronel,-37.029655,-73.144447,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22745,198408070008,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22747,198408070010,1984,8,7,Chile,South America,Coquimbo,La Serena,-29.906896999999997,-71.25103,,Tourists,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22748,198408070011,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22749,198408070012,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22750,198408070013,1984,8,7,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Police,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22751,198408070014,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22752,198408070015,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22753,198408070016,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22754,198408070017,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22755,198408070018,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22756,198408070019,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22757,198408070020,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22758,198408070021,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22759,198408070022,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22760,198408070023,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22761,198408070024,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22762,198408070025,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22763,198408070026,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22764,198408070027,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22765,198408070028,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22766,198408070029,1984,8,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+22768,198408080002,1984,8,8,Chile,South America,Bio Bio,Talcahuano,-36.724358,-73.112741,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22769,198408080003,1984,8,8,Chile,South America,Valparaiso,Concon,-32.924017,-71.523669,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22786,198408090003,1984,8,9,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22824,198408130001,1984,8,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22825,198408130002,1984,8,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22826,198408130003,1984,8,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+22829,198408130006,1984,8,13,Chile,South America,Unknown,Unknown,,,,Business,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+22830,198408130007,1984,8,13,Chile,South America,Unknown,Unknown,,,,Business,Unknown,Unknown,0,0
+22831,198408130008,1984,8,13,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Incendiary,0,0
+22835,198408140001,1984,8,14,Chile,South America,Santiago Metropolitan,Lonquen,-33.711352000000005,-70.85481899999999,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22836,198408140002,1984,8,14,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22846,198408140012,1984,8,14,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+22863,198408160001,1984,8,16,Chile,South America,Santiago Metropolitan,Santiago,-33.511318,-70.7537,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+22864,198408160002,1984,8,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+22865,198408160003,1984,8,16,Chile,South America,Santiago Metropolitan,Santiago,-33.410866,-70.835779,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+22866,198408160004,1984,8,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22867,198408160005,1984,8,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22901,198408200006,1984,8,20,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22903,198408210001,1984,8,21,Chile,South America,Maule,Curico,-34.986003000000004,-71.24154899999999,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+22904,198408210002,1984,8,21,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+22905,198408210003,1984,8,21,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22906,198408210004,1984,8,21,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22907,198408210005,1984,8,21,Chile,South America,Santiago Metropolitan,Santiago,-33.516667,-70.766667,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22908,198408210006,1984,8,21,Chile,South America,Santiago Metropolitan,Melipilla,-33.686068,-71.216633,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22909,198408210007,1984,8,21,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22910,198408210008,1984,8,21,Chile,South America,Bio Bio,Talcahuano,-36.724358,-73.112741,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+22911,198408210009,1984,8,21,Chile,South America,Bio Bio,Talcahuano,-36.724358,-73.112741,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22916,198408220002,1984,8,22,Chile,South America,Antofagasta,Antofagasta,-23.650192999999998,-70.400018,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+22917,198408220003,1984,8,22,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+22924,198408230005,1984,8,23,Chile,South America,Bio Bio,Los Angeles,-37.4728,-72.354453,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,0
+22925,198408230006,1984,8,23,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,1
+22926,198408230007,1984,8,23,Chile,South America,Los Rios,Valdivia,-39.820083000000004,-73.245395,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,2,0
+22927,198408230008,1984,8,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Firearms,3,0
+22928,198408230009,1984,8,23,Chile,South America,Bio Bio,Hualpencillo,-36.776542,-73.158316,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,0
+22929,198408230010,1984,8,23,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,3,0
+22930,198408230011,1984,8,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,3,2
+22931,198408230012,1984,8,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Military,Unknown,Unknown,1,1
+22942,198408250003,1984,8,25,Chile,South America,Valparaiso,Quillota,-32.880342999999996,-71.249811,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22943,198408250004,1984,8,25,Chile,South America,Valparaiso,Quillota,-32.880342999999996,-71.249811,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22944,198408250005,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22945,198408250006,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22946,198408250007,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22947,198408250008,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22948,198408250009,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22949,198408250010,1984,8,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22950,198408250011,1984,8,25,Chile,South America,Santiago Metropolitan,Melipilla,-33.686068,-71.216633,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22951,198408250012,1984,8,25,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22972,198408260010,1984,8,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22973,198408260011,1984,8,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+22983,198408270002,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22984,198408270003,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22985,198408270004,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22988,198408270007,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+22989,198408270008,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+22990,198408270009,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22991,198408270010,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22992,198408270011,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22993,198408270012,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22994,198408270013,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22995,198408270014,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22996,198408270015,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22997,198408270016,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22998,198408270017,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+22999,198408270018,1984,8,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23000,198408280001,1984,8,28,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Government (General),Extremists,Explosives/Bombs/Dynamite,0,1
+23001,198408280002,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23002,198408280003,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23003,198408280004,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23004,198408280005,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23005,198408280006,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23006,198408280007,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23007,198408280008,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23008,198408280009,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23009,198408280010,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23010,198408280011,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23011,198408280012,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Unknown,0,0
+23012,198408280013,1984,8,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23022,198408290007,1984,8,29,Chile,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+23023,198408290008,1984,8,29,Chile,South America,Santiago Metropolitan,Santiago,-33.454491,-70.603833,,Educational Institution,United Popular Action Movement,Firearms,0,1
+23080,198409030003,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23081,198409030004,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23082,198409030005,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23083,198409030006,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23084,198409030007,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23085,198409030008,1984,9,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23092,198409040001,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23093,198409040002,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23094,198409040003,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23095,198409040004,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Unknown,Unknown,Explosives/Bombs/Dynamite,0,0
+23096,198409040005,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23097,198409040006,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23098,198409040007,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23099,198409040008,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23107,198409040016,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Anti-Socials,Incendiary,0,0
+23108,198409040017,1984,9,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Incendiary,0,1
+23119,198409050003,1984,9,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23120,198409050004,1984,9,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23121,198409050005,1984,9,5,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+23124,198409050008,1984,9,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0,0
+23125,198409050011,1984,9,5,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Unknown,0,0
+23134,198409060002,1984,9,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Subversives,Incendiary,0,0
+23135,198409060003,1984,9,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23136,198409060004,1984,9,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23137,198409060005,1984,9,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23138,198409060006,1984,9,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23181,198409120003,1984,9,12,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23232,198409200002,1984,9,20,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23275,198409250008,1984,9,25,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Transportation,Unknown,Unknown,0,1
+23284,198409260005,1984,9,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23285,198409260006,1984,9,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23293,198409270001,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23294,198409270002,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23295,198409270003,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23296,198409270004,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23297,198409270005,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23298,198409270006,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23299,198409270007,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23300,198409270008,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.583333,-70.7,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23301,198409270009,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.583333,-70.7,,Private Citizens & Property,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23302,198409270010,1984,9,27,Chile,South America,Santiago Metropolitan,Santiago,-33.583333,-70.7,,Educational Institution,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23328,198410000001,1984,10,0,Chile,South America,O'Higgins,Placilla,-34.633795,-71.110827,,Private Citizens & Property,Unknown,Incendiary,0,0
+23329,198410010001,1984,10,1,Chile,South America,Santiago Metropolitan,Santiago,-33.516667,-70.766667,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,3
+23342,198410030002,1984,10,3,Chile,South America,Bio Bio,Chillan,-36.609282,-72.102064,,Police,Unknown,Firearms,0,0
+23343,198410030003,1984,10,3,Chile,South America,Bio Bio,Talcahuano,-36.724358,-73.112741,,Police,Unknown,Firearms,0,0
+23344,198410040001,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23345,198410040002,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23346,198410040003,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23347,198410040004,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23348,198410040005,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23362,198410040019,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.489596,-70.78820999999999,,Utilities,Unknown,Melee,0,0
+23363,198410040020,1984,10,4,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23365,198410050001,1984,10,5,Chile,South America,Magallanes & Chilean Antarctica,Punta Arenas,-53.154613,-70.916943,,Religious Figures/Institutions,Chilean Anti-Communist Alliance (ACHA),Explosives/Bombs/Dynamite,1,0
+23425,198410160001,1984,10,16,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+23426,198410160002,1984,10,16,Chile,South America,Bio Bio,Chillan,-36.609282,-72.102064,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23427,198410160003,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23430,198410160006,1984,10,16,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Incendiary,0,0
+23431,198410160007,1984,10,16,Chile,South America,Bio Bio,Concepcion district,-36.818977000000004,-73.05031899999999,,Transportation,Unknown,Incendiary,0,0
+23432,198410160008,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23433,198410160009,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23434,198410160010,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23435,198410160011,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23436,198410160012,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23437,198410160013,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23438,198410160014,1984,10,16,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23440,198410170002,1984,10,17,Chile,South America,Santiago Metropolitan,Santiago,-33.38272,-70.652789,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23454,198410190002,1984,10,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+23471,198410220005,1984,10,22,Chile,South America,Magallanes & Chilean Antarctica,Punta Arenas,-53.154613,-70.916943,,Utilities,Extremists,Unknown,0,0
+23472,198410220006,1984,10,22,Chile,South America,Magallanes & Chilean Antarctica,Punta Arenas,-53.154613,-70.916943,,Utilities,Extremists,Unknown,0,0
+23499,198410260001,1984,10,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23500,198410260002,1984,10,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,2
+23505,198410260007,1984,10,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Military,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,5
+23513,198410280001,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23514,198410280002,1984,10,28,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Transportation,Manuel Rodriguez Patriotic Front (FPMR),Incendiary,0,0
+23515,198410280003,1984,10,28,Chile,South America,Coquimbo,Coquimbo,-29.9533,-71.3436,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,1
+23516,198410280004,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Food or Water Supply,Unknown,Explosives/Bombs/Dynamite,0,0
+23517,198410280005,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Telecommunication,Unknown,Explosives/Bombs/Dynamite,0,0
+23518,198410280006,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23519,198410280007,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23520,198410280008,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23521,198410280009,1984,10,28,Chile,South America,Coquimbo,Coquimbo,-29.9533,-71.3436,,Unknown,Unknown,Explosives/Bombs/Dynamite,0,0
+23522,198410280010,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Educational Institution,Unknown,Explosives/Bombs/Dynamite,0,0
+23530,198410280018,1984,10,28,Chile,South America,Maule,Curico,-34.986003000000004,-71.24154899999999,,Transportation,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23531,198410280019,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23532,198410280020,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23533,198410280021,1984,10,28,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23534,198410290001,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23535,198410290002,1984,10,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Transportation,Unknown,Unknown,0,0
+23536,198410290003,1984,10,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Unknown,0,0
+23537,198410290004,1984,10,29,Chile,South America,Bio Bio,Chiguayante,-36.93456,-73.02201600000001,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+23538,198410290005,1984,10,29,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Transportation,Unknown,Unknown,0,0
+23539,198410290006,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23540,198410290007,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23541,198410290008,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23542,198410290009,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23543,198410290010,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23544,198410290011,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23545,198410290012,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23546,198410290013,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23547,198410290014,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23548,198410290015,1984,10,29,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23553,198410300005,1984,10,30,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Commandos,Unknown,0,0
+23560,198410310006,1984,10,31,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23567,198411020001,1984,11,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23568,198411020002,1984,11,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23569,198411020003,1984,11,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23570,198411020004,1984,11,2,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23575,198411020009,1984,11,2,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Police,Unknown,Explosives/Bombs/Dynamite,4,12
+23582,198411030007,1984,11,3,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Unknown,Firearms,2,0
+23601,198411060002,1984,11,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23605,198411060006,1984,11,6,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Incendiary,0,0
+23648,198411130002,1984,11,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23649,198411130003,1984,11,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23650,198411130004,1984,11,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23651,198411130005,1984,11,13,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23652,198411130006,1984,11,13,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23653,198411130007,1984,11,13,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23654,198411130008,1984,11,13,Chile,South America,Unknown,Unknown,,,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23655,198411130009,1984,11,13,Chile,South America,Maule,Curico,-34.986003000000004,-71.24154899999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23656,198411130010,1984,11,13,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,3
+23657,198411130011,1984,11,13,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23658,198411130012,1984,11,13,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23659,198411130013,1984,11,13,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Transportation,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23674,198411130028,1984,11,13,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23675,198411130029,1984,11,13,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23676,198411130030,1984,11,13,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Police,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23677,198411130031,1984,11,13,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Journalists & Media,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23678,198411130032,1984,11,13,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23679,198411130033,1984,11,13,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Utilities,Movement of the Revolutionary Left (MIR) (Chile),Explosives/Bombs/Dynamite,0,0
+23740,198411220007,1984,11,22,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Police,Unknown,Explosives/Bombs/Dynamite,0,2
+23747,198411230007,1984,11,23,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23767,198411260002,1984,11,26,Chile,South America,Santiago Metropolitan,Las Condes,-33.411667,-70.55,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23773,198411260008,1984,11,26,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23775,198411270001,1984,11,27,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23845,198412070003,1984,12,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Movement of the Revolutionary Left (MIR) (Chile),Firearms,1,2
+23846,198412070004,1984,12,7,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,5
+23869,198412110007,1984,12,11,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Unknown,Explosives/Bombs/Dynamite,0,21
+23901,198412180003,1984,12,18,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Journalists & Media,Manuel Rodriguez Patriotic Front (FPMR),Unknown,0,0
+23904,198412180006,1984,12,18,Chile,South America,O'Higgins,Rancagua,-34.170331,-70.740822,,Police,Unknown,Explosives/Bombs/Dynamite,0,13
+23911,198412190007,1984,12,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Government (General),Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23912,198412190008,1984,12,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23913,198412190009,1984,12,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Business,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23914,198412190010,1984,12,19,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Utilities,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23915,198412190011,1984,12,19,Chile,South America,Bio Bio,Concepcion,-36.818977000000004,-73.05031899999999,,Food or Water Supply,Unknown,Explosives/Bombs/Dynamite,0,0
+23916,198412190012,1984,12,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Telecommunication,Unknown,Explosives/Bombs/Dynamite,0,1
+23917,198412190013,1984,12,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,1
+23918,198412190014,1984,12,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+23919,198412190015,1984,12,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+23920,198412190016,1984,12,19,Chile,South America,Valparaiso,Valparaiso,-33.045632,-71.620529,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23921,198412190017,1984,12,19,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+23922,198412190018,1984,12,19,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23923,198412190019,1984,12,19,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23924,198412190020,1984,12,19,Chile,South America,Valparaiso,Vina del Mar,-33.024705,-71.552216,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+23925,198412190021,1984,12,19,Chile,South America,Maule,Curico,-34.986003000000004,-71.24154899999999,,Government (General),Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,0
+23929,198412190025,1984,12,19,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Manuel Rodriguez Patriotic Front (FPMR),Explosives/Bombs/Dynamite,0,5
+23930,198412200001,1984,12,20,Chile,South America,Santiago Metropolitan,Santiago,-33.50928,-70.652362,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23931,198412200002,1984,12,20,Chile,South America,Maule,Bajos de Lircay,-35.5,-71.31666700000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+23984,198412300004,1984,12,30,Chile,South America,Santiago Metropolitan,Santiago,-33.469115,-70.641997,,Police,Manuel Rodriguez Patriotic Front (FPMR),Firearms,1,1

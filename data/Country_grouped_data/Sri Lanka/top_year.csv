@@ -1,0 +1,511 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+36723,198901070001,1989,1,7,Sri Lanka,South Asia,Southern,Dickwella,5.971676,80.695104,,Religious Figures/Institutions,People's Liberation Front (JVP),Unknown,1,0
+36732,198901070010,1989,1,7,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Military,Unknown,Firearms,3,0
+36733,198901070011,1989,1,7,Sri Lanka,South Asia,North Central,Padaviya,8.8341,80.760739,,Military,Unknown,Firearms,4,3
+36755,198901100001,1989,1,10,Sri Lanka,South Asia,Western,Panadura,6.714108,79.905627,,Government (General),People's Liberation Front (JVP),Unknown,3,0
+36766,198901100012,1989,1,10,Sri Lanka,South Asia,Eastern,Thampalakamam,8.499728,81.094412,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,3,4
+36771,198901110005,1989,1,11,Sri Lanka,South Asia,North Central,Horowupatana,8.550101,80.83264,,Government (General),People's Liberation Front (JVP),Firearms,1,0
+36784,198901110018,1989,1,11,Sri Lanka,South Asia,Southern,Hungama,6.110092,80.932068,,Military,People's Liberation Front (JVP),Firearms,3,3
+36792,198901120008,1989,1,12,Sri Lanka,South Asia,Unknown,Kiwulla,,,,Military,Unknown,Firearms,3,5
+36793,198901130001,1989,1,13,Sri Lanka,South Asia,Uva,Siyambalanduwa,6.906671,81.55929300000001,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,2,0
+36794,198901130002,1989,1,13,Sri Lanka,South Asia,Southern,Morawaka,6.265280000000001,80.491047,,Business,People's Liberation Front (JVP),Firearms,2,0
+36796,198901130004,1989,1,13,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,2
+36797,198901130005,1989,1,13,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Government (General),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,2,0
+36837,198901170006,1989,1,17,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,5,16
+36846,198901170015,1989,1,17,Sri Lanka,South Asia,Western,Moratuwa,6.788071,79.891281,,Business,People's Liberation Front (JVP),Firearms,1,0
+36847,198901170016,1989,1,17,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Military,People's Liberation Front (JVP),Firearms,4,0
+36848,198901170017,1989,1,17,Sri Lanka,South Asia,Northern,Vavuniya district,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,0
+36849,198901170018,1989,1,17,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,0
+36850,198901170019,1989,1,17,Sri Lanka,South Asia,Uva,Attambagahakada,7.159444000000001,81.04916700000001,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,4,0
+36851,198901180001,1989,1,18,Sri Lanka,South Asia,North Western,Deniya,7.451389,79.863333,,Government (General),People's Liberation Front (JVP),Melee,3,0
+36862,198901180012,1989,1,18,Sri Lanka,South Asia,North Eastern,Chundikulam,9.433589,80.57119499999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+36874,198901190012,1989,1,19,Sri Lanka,South Asia,Northern,Mannar,8.980118,79.912462,,Military,Unknown,Firearms,6,0
+36875,198901190013,1989,1,19,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Violent Political Party,People's Liberation Front (JVP),Firearms,4,7
+36883,198901200008,1989,1,20,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Violent Political Party,People's Liberation Front (JVP),Firearms,4,7
+36884,198901200009,1989,1,20,Sri Lanka,South Asia,Northern,Mannar District,8.980118,79.912462,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,12,0
+36903,198901240006,1989,1,24,Sri Lanka,South Asia,Sabaragamuwa,Kegalle,7.2528570000000006,80.34314499999999,,Government (General),People's Liberation Front (JVP),Firearms,2,2
+36904,198901250001,1989,1,25,Sri Lanka,South Asia,Western,Maharagama,6.852214999999999,79.924867,,Police,People's Liberation Front (JVP),Firearms,1,0
+36905,198901250002,1989,1,25,Sri Lanka,South Asia,Southern,Hakmana,6.083732,80.644852,,Police,People's Liberation Front (JVP),Firearms,1,0
+36906,198901250003,1989,1,25,Sri Lanka,South Asia,North Eastern,Jaffna,9.66123,80.02558,,Government (General),People's Liberation Front (JVP),Firearms,1,0
+36909,198901250006,1989,1,25,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura,6.6801070000000005,80.401883,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,2
+36918,198901260002,1989,1,26,Sri Lanka,South Asia,North Central,Minneriya,8.038671,80.90639200000001,,Government (General),Unknown,Firearms,1,0
+36919,198901260003,1989,1,26,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (General),Unknown,Firearms,6,0
+36944,198901270013,1989,1,27,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+36945,198901270014,1989,1,27,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,3
+36947,198901280001,1989,1,28,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Melee,0,2
+36950,198901280004,1989,1,28,Sri Lanka,South Asia,Southern,Weligama,5.973637999999999,80.42819,,Government (General),Unknown,Incendiary,0,0
+36959,198901280013,1989,1,28,Sri Lanka,South Asia,North Central,Polonnaruwa District,7.939525,81.000963,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+36960,198901280014,1989,1,28,Sri Lanka,South Asia,North Central,Polonnaruwa District,7.939525,81.000963,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+36961,198901280015,1989,1,28,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,1,0
+36962,198901280016,1989,1,28,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,1,0
+36963,198901280017,1989,1,28,Sri Lanka,South Asia,Western,Colombo,6.971672,79.878683,,Police,People's Liberation Front (JVP),Firearms,2,0
+36964,198901290001,1989,1,29,Sri Lanka,South Asia,Central,Matale,7.467465,80.623416,,Government (General),Unknown,Melee,1,0
+36975,198901290013,1989,1,29,Sri Lanka,South Asia,Southern,Akuressa,6.100359,80.47604799999999,,Military,People's Liberation Front (JVP),Firearms,2,1
+36976,198901290014,1989,1,29,Sri Lanka,South Asia,Southern,Unknown,6.237375,80.54384499999999,,Military,Unknown,Firearms,2,0
+36979,198901300002,1989,1,30,Sri Lanka,South Asia,North Western,Kurunegala,7.4885660000000005,80.36515899999999,,Violent Political Party,People's Liberation Front (JVP),Unknown,0,1
+36998,198901310007,1989,1,31,Sri Lanka,South Asia,Southern,Weligama,5.973637999999999,80.42819,,Violent Political Party,People's Liberation Front (JVP),Firearms,1,3
+37012,198902020005,1989,2,2,Sri Lanka,South Asia,Unknown,Boyagodayaya,,,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,3,0
+37018,198902030005,1989,2,3,Sri Lanka,South Asia,Unknown,Bogamuwewayaya,,,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,11,0
+37020,198902040002,1989,2,4,Sri Lanka,South Asia,Southern,Bentota,6.4189169999999995,80.00597900000001,,Private Citizens & Property,Unknown,Firearms,1,0
+37024,198902050002,1989,2,5,Sri Lanka,South Asia,Southern,Beliatta,6.048157,80.733914,,Private Citizens & Property,Unknown,Firearms,2,0
+37025,198902050003,1989,2,5,Sri Lanka,South Asia,Southern,Beliatta,6.048157,80.733914,,Private Citizens & Property,Unknown,Firearms,1,0
+37031,198902050009,1989,2,5,Sri Lanka,South Asia,North Central,Hingurakgoda,8.041589,80.953128,,Government (General),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,38
+37032,198902050010,1989,2,5,Sri Lanka,South Asia,Southern,Hakmana,6.083732,80.644852,,Police,Unknown,Firearms,0,5
+37053,198902080006,1989,2,8,Sri Lanka,South Asia,Eastern,Valaichchenai,7.921328,81.52467,,Transportation,Liberation Tigers of Tamil Eelam (LTTE),Incendiary,0,0
+37054,198902080007,1989,2,8,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,0,0
+37061,198902080015,1989,2,8,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,5
+37080,198902100003,1989,2,10,Sri Lanka,South Asia,Southern,Suriyawewa,6.309111,81.00305999999999,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,6,0
+37090,198902100013,1989,2,10,Sri Lanka,South Asia,Southern,Suriyawewa,6.309111,81.00305999999999,,Police,People's Liberation Front (JVP),Firearms,2,0
+37092,198902110001,1989,2,11,Sri Lanka,South Asia,Southern,Galle,6.03296,80.212785,,Government (General),People's Liberation Front (JVP),Firearms,2,0
+37094,198902110003,1989,2,11,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,1,25
+37103,198902110012,1989,2,11,Sri Lanka,South Asia,Eastern,Ampara District,7.301756,81.67473000000001,,Business,Liberation Tigers of Tamil Eelam (LTTE),Firearms,6,0
+37104,198902110013,1989,2,11,Sri Lanka,South Asia,North Eastern,Dutu Wewa,8.767222,80.91,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,35,0
+37106,198902120002,1989,2,12,Sri Lanka,South Asia,Western,Kelaniya,6.955747,79.923695,,Government (General),Unknown,Firearms,0,0
+37108,198902120004,1989,2,12,Sri Lanka,South Asia,Western,Piliyandala,6.801803,79.922684,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,15
+37109,198902120005,1989,2,12,Sri Lanka,South Asia,Unknown,Angooa,,,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,5
+37114,198902130002,1989,2,13,Sri Lanka,South Asia,Western,Colombo,6.9245399999999995,79.90387700000001,,Violent Political Party,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+37115,198902130003,1989,2,13,Sri Lanka,South Asia,Western,Piliyandala,6.801803,79.922684,,Violent Political Party,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+37129,198902140009,1989,2,14,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+37133,198902150003,1989,2,15,Sri Lanka,South Asia,Southern,Gandara,5.93764,80.613265,,Violent Political Party,People's Liberation Front (JVP),Firearms,0,0
+37134,198902150004,1989,2,15,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (General),People's Liberation Front (JVP),Unknown,1,0
+37135,198902150005,1989,2,15,Sri Lanka,South Asia,Uva,Bandarawela,6.8258779999999994,80.99815799999999,,Government (General),People's Liberation Front (JVP),Firearms,3,0
+37138,198902150008,1989,2,15,Sri Lanka,South Asia,Southern,Pitigala,6.342776000000001,80.22300899999999,,Government (General),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,1
+37152,198902150023,1989,2,15,Sri Lanka,South Asia,Southern,Kamburupitiya,6.080353,80.56606500000001,,Government (General),People's Liberation Front (JVP),Firearms,2,0
+37153,198902150024,1989,2,15,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,People's Liberation Front (JVP),Firearms,5,0
+37154,198902150025,1989,2,15,Sri Lanka,South Asia,Uva,Badulla,6.9934009999999995,81.05498100000001,,Government (General),People's Liberation Front (JVP),Firearms,3,0
+37155,198902150026,1989,2,15,Sri Lanka,South Asia,Southern,Baddegana,6.178335,80.190024,,Police,People's Liberation Front (JVP),Firearms,1,0
+37156,198902150027,1989,2,15,Sri Lanka,South Asia,Uva,Mahiyangana,7.33973,80.991957,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+37157,198902150028,1989,2,15,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Military,People's Liberation Front (JVP),Firearms,0,3
+37238,198902210002,1989,2,21,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,2,3
+37239,198902210003,1989,2,21,Sri Lanka,South Asia,Southern,Galle,6.03296,80.212785,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,9
+37240,198902210004,1989,2,21,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,4,8
+37272,198902210036,1989,2,21,Sri Lanka,South Asia,Southern,Matara,5.944433,80.549945,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+37273,198902210037,1989,2,21,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,1,0
+37277,198902220002,1989,2,22,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Government (General),People's Liberation Front (JVP),Firearms,1,0
+37278,198902220003,1989,2,22,Sri Lanka,South Asia,Central,Galawela,7.759333,80.571166,,Private Citizens & Property,Unknown,Melee,1,0
+37279,198902220004,1989,2,22,Sri Lanka,South Asia,Southern,Nimalawa,6.063776,80.425137,,Private Citizens & Property,Unknown,Melee,1,0
+37280,198902220005,1989,2,22,Sri Lanka,South Asia,Northern,Welioya,8.964041,80.787941,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,4,0
+37305,198902220030,1989,2,22,Sri Lanka,South Asia,Southern,Elpitiya,6.287997,80.159604,,Government (General),People's Liberation Front (JVP),Firearms,3,0
+37313,198902230008,1989,2,23,Sri Lanka,South Asia,Northern,Welioya,8.964041,80.787941,,Private Citizens & Property,Unknown,Firearms,6,10
+37344,198902270008,1989,2,27,Sri Lanka,South Asia,Eastern,Ampara District,7.301756,81.67473000000001,,Police,Unknown,Firearms,1,0
+37345,198902270009,1989,2,27,Sri Lanka,South Asia,North Central,Bora Wewa,8.217222,81.001667,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,32,4
+37378,198903010002,1989,3,1,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura,6.6801070000000005,80.401883,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,5,0
+37379,198903010003,1989,3,1,Sri Lanka,South Asia,Southern,Weligama,5.973637999999999,80.42819,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,2,0
+37380,198903010004,1989,3,1,Sri Lanka,South Asia,Western,Panadura,6.714108,79.905627,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,1,0
+37381,198903010005,1989,3,1,Sri Lanka,South Asia,Eastern,Trincomalee district,8.5922,81.19679599999999,,Police,Liberation Tigers of Tamil Eelam (LTTE),Firearms,3,0
+37393,198903010017,1989,3,1,Sri Lanka,South Asia,Eastern,Chavakachcheri,9.659069,80.131693,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+37427,198903040018,1989,3,4,Sri Lanka,South Asia,Northern,Pallamadu,9.008889,80.064167,,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,5,1
+37428,198903040019,1989,3,4,Sri Lanka,South Asia,Northern,Mullaitivu district,9.267091,80.81424799999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,58,13
+37462,198903080003,1989,3,8,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Educational Institution,People's Liberation Front (JVP),Firearms,1,0
+37471,198903090002,1989,3,9,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Transportation,People's Liberation Front (JVP),Firearms,1,0
+37541,198903150007,1989,3,15,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,0,0
+37542,198903150008,1989,3,15,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,0,1
+37543,198903160001,1989,3,16,Sri Lanka,South Asia,Western,Ja-Ela,7.0796779999999995,79.890976,,Violent Political Party,People's Liberation Front (JVP),Firearms,1,1
+37549,198903160007,1989,3,16,Sri Lanka,South Asia,Southern,Gandara,5.93764,80.613265,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,2,0
+37550,198903160008,1989,3,16,Sri Lanka,South Asia,Western,Matugama,6.522838,80.114231,,Police,People's Liberation Front (JVP),Firearms,5,0
+37572,198903190004,1989,3,19,Sri Lanka,South Asia,Western,Hanwella,6.905836,80.084222,,Violent Political Party,Unknown,Firearms,5,0
+37586,198903190018,1989,3,19,Sri Lanka,South Asia,North Central,Eppawala,8.144427,80.411537,,Police,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,3,0
+37615,198903220003,1989,3,22,Sri Lanka,South Asia,Western,Ja-Ela,7.0796779999999995,79.890976,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+37616,198903220004,1989,3,22,Sri Lanka,South Asia,Western,Ja-Ela,7.0796779999999995,79.890976,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+37630,198903220018,1989,3,22,Sri Lanka,South Asia,Southern,Ambalangoda,6.239826,80.05260899999999,,Transportation,People's Liberation Front (JVP),Firearms,1,0
+37674,198903290004,1989,3,29,Sri Lanka,South Asia,Eastern,Puttur,9.745064,80.105822,,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,1,1
+37681,198903290011,1989,3,29,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+37682,198903290012,1989,3,29,Sri Lanka,South Asia,Unknown,Wanni,,,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,0,1
+37685,198903300003,1989,3,30,Sri Lanka,South Asia,Western,Colombo,6.971672,79.878683,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,1,0
+37692,198903310001,1989,3,31,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,1,1
+37746,198904050005,1989,4,5,Sri Lanka,South Asia,North Western,Kurunegala,7.4885660000000005,80.36515899999999,,Transportation,Unknown,Incendiary,0,0
+37747,198904050006,1989,4,5,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Government (General),Unknown,Incendiary,0,0
+37748,198904050007,1989,4,5,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Government (General),Unknown,Incendiary,0,0
+37770,198904050029,1989,4,5,Sri Lanka,South Asia,Southern,Galle District,6.03296,80.212785,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,1,1
+37776,198904060006,1989,4,6,Sri Lanka,South Asia,Northern,Vavuniya District,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,28,0
+37789,198904070009,1989,4,7,Sri Lanka,South Asia,Southern,Hambantota district,6.130655,81.1262,,Police,Unknown,Explosives/Bombs/Dynamite,4,3
+37790,198904070010,1989,4,7,Sri Lanka,South Asia,Southern,Hambantota District,6.130655,81.1262,,Police,Unknown,Explosives/Bombs/Dynamite,11,5
+37791,198904070011,1989,4,7,Sri Lanka,South Asia,Southern,Hungama,6.110092,80.932068,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+37792,198904070012,1989,4,7,Sri Lanka,South Asia,Southern,Lunugamvehera,6.3470629999999995,81.196872,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,7,4
+37846,198904120023,1989,4,12,Sri Lanka,South Asia,Northern,Vavuniya district,8.738157000000001,80.477147,,Police,Unknown,Explosives/Bombs/Dynamite,0,7
+37850,198904130004,1989,4,13,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,42,56
+37851,198904130005,1989,4,13,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Business,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,20
+37858,198904130012,1989,4,13,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+37859,198904130013,1989,4,13,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Unknown,Firearms,1,0
+37860,198904130014,1989,4,13,Sri Lanka,South Asia,Northern,Kilinochchi,9.390004,80.404169,,Military,Unknown,Firearms,11,10
+37871,198904140011,1989,4,14,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Firearms,4,17
+37877,198904150004,1989,4,15,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Educational Institution,Liberation Tigers of Tamil Eelam (LTTE),Incendiary,0,0
+37881,198904150008,1989,4,15,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Military,People's Liberation Front (JVP),Firearms,1,3
+37882,198904150009,1989,4,15,Sri Lanka,South Asia,Northern,Welioya,8.964041,80.787941,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,21,0
+37889,198904160001,1989,4,16,Sri Lanka,South Asia,Southern,Morawaka,6.265280000000001,80.491047,,Violent Political Party,People's Liberation Front (JVP),Firearms,4,0
+37893,198904160005,1989,4,16,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Terrorists/Non-State Militia,Unknown,Explosives/Bombs/Dynamite,0,0
+37894,198904160006,1989,4,16,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+37895,198904160007,1989,4,16,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Transportation,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,0,5
+37908,198904170008,1989,4,17,Sri Lanka,South Asia,Sabaragamuwa,Embilipitiya,6.316232,80.843314,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,4,8
+37909,198904170009,1989,4,17,Sri Lanka,South Asia,North Western,Kurunegala District,7.4885660000000005,80.36515899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+37910,198904170010,1989,4,17,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura District,6.6801070000000005,80.401883,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,8
+37941,198904200001,1989,4,20,Sri Lanka,South Asia,Central,Kottegoda,7.5274779999999994,80.625214,,Private Citizens & Property,People's Liberation Front (JVP),Melee,5,0
+37963,198904210008,1989,4,21,Sri Lanka,South Asia,Southern,Pitigala,6.342776000000001,80.22300899999999,,Police,People's Liberation Front (JVP),Firearms,1,5
+37964,198904220001,1989,4,22,Sri Lanka,South Asia,Eastern,Kapalturai,8.557634,81.149618,,Terrorists/Non-State Militia,Unknown,Firearms,2,0
+37965,198904220002,1989,4,22,Sri Lanka,South Asia,Northern,Vannakulam,8.919655,80.028163,,Private Citizens & Property,Unknown,Firearms,3,0
+38030,198904290001,1989,4,29,Sri Lanka,South Asia,North Western,Karuwalagaswewe,8.056576,79.955642,,Government (General),Unknown,Firearms,2,0
+38033,198904290005,1989,4,29,Sri Lanka,South Asia,North Central,Katukeliyawa,8.477834,80.264451,,Police,Unknown,Firearms,2,6
+38034,198904290006,1989,4,29,Sri Lanka,South Asia,Southern,Akurugoda,5.9986120000000005,80.494714,,Military,Unknown,Firearms,1,2
+38041,198905010003,1989,5,1,Sri Lanka,South Asia,Northern,Mullaitivu,9.267091,80.81424799999999,,Violent Political Party,Liberation Tigers of Tamil Eelam (LTTE),Unknown,1,0
+38042,198905010004,1989,5,1,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+38055,198905010018,1989,5,1,Sri Lanka,South Asia,North Central,Medirigiriya,8.14147,80.964733,,Police,Unknown,Explosives/Bombs/Dynamite,4,2
+38061,198905020006,1989,5,2,Sri Lanka,South Asia,Western,Homagama,6.8408809999999995,80.002592,,Military,Unknown,Firearms,3,0
+38062,198905020007,1989,5,2,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,6,0
+38063,198905020008,1989,5,2,Sri Lanka,South Asia,Northern,Mullaitivu district,9.267091,80.81424799999999,,Violent Political Party,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,2
+38064,198905020009,1989,5,2,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Military,People's Liberation Front (JVP),Firearms,3,5
+38065,198905020010,1989,5,2,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Business,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,0,11
+38073,198905030008,1989,5,3,Sri Lanka,South Asia,Northern,Point Pedro,9.824860000000001,80.236347,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+38176,198905120003,1989,5,12,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,1,4
+38278,198905210010,1989,5,21,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,51,0
+38280,198905220001,1989,5,22,Sri Lanka,South Asia,Eastern,Sammanthurai,7.362095,81.803617,,Private Citizens & Property,Unknown,Unknown,3,0
+38313,198905230011,1989,5,23,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,3,4
+38316,198905240002,1989,5,24,Sri Lanka,South Asia,Unknown,Hullaitivu,,,,Violent Political Party,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,0,0
+38372,198905290003,1989,5,29,Sri Lanka,South Asia,Eastern,Akaraipattu,7.219392,81.849757,,Business,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+38400,198906010003,1989,6,1,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,People's Liberation Front (JVP),Firearms,2,0
+38401,198906010004,1989,6,1,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,2,0
+38409,198906010012,1989,6,1,Sri Lanka,South Asia,Western,Mount Lavinia,6.819545,79.880083,,Police,People's Liberation Front (JVP),Unknown,2,1
+38413,198906020004,1989,6,2,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (Diplomatic),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+38468,198906080008,1989,6,8,Sri Lanka,South Asia,Southern,Tissamaharama,6.279154,81.287669,,Police,People's Liberation Front (JVP),Firearms,0,0
+38484,198906110001,1989,6,11,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,2,1
+38485,198906110002,1989,6,11,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (General),People's Liberation Front (JVP),Firearms,2,0
+38535,198906170001,1989,6,17,Sri Lanka,South Asia,Western,Dehiwala,6.855948,79.86296800000001,,Police,People's Liberation Front (JVP),Firearms,1,0
+38536,198906170002,1989,6,17,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,0,1
+38540,198906170006,1989,6,17,Sri Lanka,South Asia,Western,Kaduwela,6.93083,79.984218,,Military,People's Liberation Front (JVP),Firearms,1,3
+38549,198906190001,1989,6,19,Sri Lanka,South Asia,Western,Negombo District,7.208798,79.838022,,Transportation,People's Liberation Front (JVP),Firearms,1,0
+38566,198906190018,1989,6,19,Sri Lanka,South Asia,Eastern,Pothuhera,7.419792,80.328289,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,8,0
+38641,198906280004,1989,6,28,Sri Lanka,South Asia,Southern,Galle,6.03296,80.212785,,Government (General),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,20
+38723,198907070001,1989,7,7,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,Unknown,Firearms,1,0
+38774,198907130001,1989,7,13,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,1
+38802,198907160001,1989,7,16,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,0
+38822,198907180002,1989,7,18,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,0
+38826,198907180006,1989,7,18,Sri Lanka,South Asia,Uva,Kataragama,6.414225,81.334439,,Educational Institution,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,13,60
+38847,198907190021,1989,7,19,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,Unknown,Explosives/Bombs/Dynamite,4,0
+38848,198907190022,1989,7,19,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,0,13
+38884,198907230001,1989,7,23,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Journalists & Media,People's Liberation Front (JVP),Firearms,1,0
+38909,198907250002,1989,7,25,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,18,0
+38910,198907250003,1989,7,25,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Business,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,1,8
+38927,198907250020,1989,7,25,Sri Lanka,South Asia,Northern,Mullaitivu District,9.267091,80.81424799999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+38928,198907260001,1989,7,26,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+38929,198907260002,1989,7,26,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+38938,198907270001,1989,7,27,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,Unknown,Firearms,1,0
+38985,198907310002,1989,7,31,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Journalists & Media,People's Liberation Front (JVP),Firearms,1,0
+38998,198908020001,1989,8,2,Sri Lanka,South Asia,Eastern,Unknown,8.885503,80.276733,,Government (General),People's Liberation Front (JVP),Firearms,1,0
+39000,198908020003,1989,8,2,Sri Lanka,South Asia,Western,Colombo,6.936786,79.852538,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+39001,198908020004,1989,8,2,Sri Lanka,South Asia,Western,Colombo,6.91218,79.88288299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+39002,198908020005,1989,8,2,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,Unknown,Explosives/Bombs/Dynamite,0,6
+39040,198908020043,1989,8,2,Sri Lanka,South Asia,Northern,Valvettiturai,9.814936999999999,80.16608000000001,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,35,11
+39042,198908030002,1989,8,3,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,1
+39043,198908030003,1989,8,3,Sri Lanka,South Asia,Unknown,Bongaigaon,,,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,4,2
+39050,198908040001,1989,8,4,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Religious Figures/Institutions,People's Liberation Front (JVP),Firearms,1,0
+39055,198908040006,1989,8,4,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,4
+39070,198908070006,1989,8,7,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Military,People's Liberation Front (JVP),Firearms,1,0
+39073,198908080003,1989,8,8,Sri Lanka,South Asia,North Western,Kurunegala District,7.4885660000000005,80.36515899999999,,Educational Institution,Unknown,Unknown,1,0
+39082,198908090003,1989,8,9,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,Unknown,Unknown,1,0
+39099,198908100010,1989,8,10,Sri Lanka,South Asia,Southern,Bentota,6.4189169999999995,80.00597900000001,,Police,People's Liberation Front (JVP),Firearms,2,0
+39103,198908110003,1989,8,11,Sri Lanka,South Asia,Southern,Ahangama,6.002537,80.369516,,Police,People's Liberation Front (JVP),Unknown,0,0
+39104,198908110004,1989,8,11,Sri Lanka,South Asia,Western,Colombo,6.868669000000001,79.889882,,Business,People's Liberation Front (JVP),Firearms,2,0
+39113,198908120002,1989,8,12,Sri Lanka,South Asia,Central,Laggala,7.5515229999999995,80.771321,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,9,0
+39123,198908130001,1989,8,13,Sri Lanka,South Asia,Western,Mount Lavinia,6.819545,79.880083,,Journalists & Media,People's Liberation Front (JVP),Firearms,1,0
+39124,198908130002,1989,8,13,Sri Lanka,South Asia,Sabaragamuwa,Embilipitiya,6.316232,80.843314,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,14,0
+39127,198908130005,1989,8,13,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Journalists & Media,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,6
+39131,198908130009,1989,8,13,Sri Lanka,South Asia,Northern,Pallamadu,9.008889,80.064167,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,9,0
+39132,198908130010,1989,8,13,Sri Lanka,South Asia,Northern,Thoppur,8.404581,81.312434,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,0
+39157,198908150016,1989,8,15,Sri Lanka,South Asia,Eastern,Pankulam,8.62513,81.03268,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,6,0
+39177,198908160018,1989,8,16,Sri Lanka,South Asia,Northern,Mannar,8.980118,79.912462,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,24,0
+39188,198908170010,1989,8,17,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,3,0
+39189,198908170011,1989,8,17,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Private Citizens & Property,Liberation Tigers of Tamil Eelam (LTTE),Explosives/Bombs/Dynamite,8,0
+39201,198908170023,1989,8,17,Sri Lanka,South Asia,Uva,Welimada,6.906575999999999,80.909542,,Government (General),Unknown,Firearms,0,1
+39218,198908200002,1989,8,20,Sri Lanka,South Asia,Western,Pamunugama,7.092161999999999,79.85028,,Police,People's Liberation Front (JVP),Firearms,2,0
+39219,198908200003,1989,8,20,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Police,People's Liberation Front (JVP),Firearms,1,0
+39227,198908200011,1989,8,20,Sri Lanka,South Asia,Unknown,Unknown,,,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,6,0
+39250,198908220009,1989,8,22,Sri Lanka,South Asia,Southern,Katuwana,6.263624,80.690945,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,6,1
+39251,198908220010,1989,8,22,Sri Lanka,South Asia,Sabaragamuwa,Moraketiya,6.337758999999999,80.87499100000001,,Military,People's Liberation Front (JVP),Firearms,6,0
+39252,198908220011,1989,8,22,Sri Lanka,South Asia,Southern,Ambalangoda,6.239826,80.05260899999999,,Business,People's Liberation Front (JVP),Firearms,2,0
+39253,198908220012,1989,8,22,Sri Lanka,South Asia,Western,Matugama,6.522838,80.114231,,Police,People's Liberation Front (JVP),Firearms,8,0
+39254,198908230001,1989,8,23,Sri Lanka,South Asia,Western,Gamapaha district,7.092801,79.994608,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,17,0
+39255,198908230002,1989,8,23,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,1,0
+39267,198908230014,1989,8,23,Sri Lanka,South Asia,Uva,Meegahatenna,7.011518,81.092711,,Police,People's Liberation Front (JVP),Firearms,8,0
+39278,198908240011,1989,8,24,Sri Lanka,South Asia,Southern,Aluthgoda,6.168889,80.72,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,19,25
+39282,198908250002,1989,8,25,Sri Lanka,South Asia,North Central,Tirappane,8.213305,80.527176,,Private Citizens & Property,Unknown,Firearms,25,0
+39283,198908250003,1989,8,25,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,People's Liberation Front (JVP),Unknown,0,0
+39284,198908250004,1989,8,25,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,People's Liberation Front (JVP),Unknown,0,0
+39285,198908250005,1989,8,25,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,People's Liberation Front (JVP),Unknown,0,0
+39300,198908250020,1989,8,25,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Government (General),Unknown,Firearms,0,1
+39302,198908270001,1989,8,27,Sri Lanka,South Asia,Southern,Walasmulla,6.155542,80.69780899999999,,Police,People's Liberation Front (JVP),Firearms,5,0
+39314,198908270013,1989,8,27,Sri Lanka,South Asia,Northern,Oddusudan,9.151898,80.64934000000001,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,3,6
+39315,198908280001,1989,8,28,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,Unknown,Firearms,1,0
+39325,198908280012,1989,8,28,Sri Lanka,South Asia,Northern,Mullaitivu District,9.267091,80.81424799999999,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,8,6
+39328,198908290001,1989,8,29,Sri Lanka,South Asia,Western,Panadura,6.714108,79.905627,,Private Citizens & Property,Unknown,Firearms,14,0
+39342,198908300002,1989,8,30,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Police,People's Liberation Front (JVP),Firearms,1,0
+39359,198909010001,1989,9,1,Sri Lanka,South Asia,North Central,Punewa,8.612842,80.462876,,Violent Political Party,Anti-Communist Vigilante Group,Firearms,60,0
+39375,198909010017,1989,9,1,Sri Lanka,South Asia,Southern,Kamburupitiya,6.080353,80.56606500000001,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,8,0
+39376,198909010018,1989,9,1,Sri Lanka,South Asia,Northern,Maviddapuram,9.800769,80.035329,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+39379,198909020001,1989,9,2,Sri Lanka,South Asia,Southern,Angunukolapalessa,6.1655690000000005,80.90311700000001,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,0
+39380,198909020002,1989,9,2,Sri Lanka,South Asia,Southern,Morawaka,6.265280000000001,80.491047,,Business,People's Liberation Front (JVP),Firearms,2,0
+39381,198909020003,1989,9,2,Sri Lanka,South Asia,Western,Gamapaha District,7.092801,79.994608,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,7,0
+39388,198909020010,1989,9,2,Sri Lanka,South Asia,Southern,Kamburupitiya,6.080353,80.56606500000001,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,5,0
+39389,198909020011,1989,9,2,Sri Lanka,South Asia,Western,Malabe,6.906078999999999,79.969628,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,4
+39390,198909020012,1989,9,2,Sri Lanka,South Asia,North Western,Moragollagama,7.905911,80.422524,,Transportation,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+39402,198909020024,1989,9,2,Sri Lanka,South Asia,Southern,Kamburupitiya,6.080353,80.56606500000001,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,7,0
+39418,198909030017,1989,9,3,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+39419,198909030018,1989,9,3,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,2,4
+39420,198909030019,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39421,198909030020,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39422,198909030021,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39423,198909030022,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39424,198909030023,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39425,198909030024,1989,9,3,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,0,0
+39441,198909040016,1989,9,4,Sri Lanka,South Asia,Western,Kalutara,6.586805,79.962637,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+39444,198909050003,1989,9,5,Sri Lanka,South Asia,Western,Mount Lavinia,6.819545,79.880083,,Government (General),Unknown,Firearms,1,2
+39474,198909050033,1989,9,5,Sri Lanka,South Asia,North Western,Puttalam,8.030339999999999,79.828715,,Military,People's Liberation Front (JVP),Firearms,3,0
+39476,198909050035,1989,9,5,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,3
+39486,198909070002,1989,9,7,Sri Lanka,South Asia,North Central,Akbarpura,8.131667,81.08444399999999,,Military,People's Liberation Front (JVP),Firearms,4,0
+39487,198909070003,1989,9,7,Sri Lanka,South Asia,Sabaragamuwa,Deraniyangala,6.93492,80.338021,,Military,People's Liberation Front (JVP),Firearms,3,2
+39490,198909070006,1989,9,7,Sri Lanka,South Asia,Southern,Akuressa,6.100359,80.47604799999999,,Private Citizens & Property,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+39497,198909070013,1989,9,7,Sri Lanka,South Asia,Eastern,Kambakoddai,8.640677,80.999539,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,0
+39550,198909090026,1989,9,9,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,1,1
+39551,198909090027,1989,9,9,Sri Lanka,South Asia,Northern,Nedunkerni,9.059025,80.65930300000001,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,0
+39552,198909100001,1989,9,10,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Religious Figures/Institutions,People's Liberation Front (JVP),Firearms,1,0
+39561,198909100010,1989,9,10,Sri Lanka,South Asia,Eastern,Ampara District,7.301756,81.67473000000001,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+39592,198909120002,1989,9,12,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,1,0
+39593,198909120003,1989,9,12,Sri Lanka,South Asia,Western,Moratuwa,6.788071,79.891281,,Military,People's Liberation Front (JVP),Firearms,1,0
+39594,198909120004,1989,9,12,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Educational Institution,People's Liberation Front (JVP),Firearms,2,0
+39602,198909130001,1989,9,13,Sri Lanka,South Asia,Western,Moratuwa,6.788071,79.891281,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,6,0
+39616,198909140004,1989,9,14,Sri Lanka,South Asia,Central,Menikhinna,7.317458,80.70203599999999,,Violent Political Party,Anti-Communist Vigilante Group,Firearms,52,0
+39617,198909140005,1989,9,14,Sri Lanka,South Asia,Central,Kundasale,7.309624,80.710353,,Violent Political Party,Anti-Communist Vigilante Group,Firearms,15,0
+39618,198909140006,1989,9,14,Sri Lanka,South Asia,Western,Aranagala,6.886080000000001,79.96263499999999,,Violent Political Party,Anti-Communist Vigilante Group,Firearms,15,0
+39633,198909150004,1989,9,15,Sri Lanka,South Asia,Western,Mount Lavinia,6.830119,79.880083,,Journalists & Media,People's Liberation Front (JVP),Firearms,1,0
+39634,198909150005,1989,9,15,Sri Lanka,South Asia,Uva,Bandarawela,6.8258779999999994,80.99815799999999,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,9,0
+39636,198909150007,1989,9,15,Sri Lanka,South Asia,Central,Unknown,7.2565,80.72144200000001,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39667,198909160013,1989,9,16,Sri Lanka,South Asia,Unknown,Konkulam,,,,Business,Unknown,Firearms,1,0
+39678,198909170011,1989,9,17,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,0,2
+39679,198909170012,1989,9,17,Sri Lanka,South Asia,Northern,Neeravely,9.717077,80.079683,,Terrorists/Non-State Militia,Eelam People's Revolutionary Liberation Front (EPRLF),Firearms,2,2
+39700,198909180021,1989,9,18,Sri Lanka,South Asia,Sabaragamuwa,Mawanella,7.251666999999999,80.445278,,Police,People's Liberation Front (JVP),Firearms,0,3
+39701,198909190001,1989,9,19,Sri Lanka,South Asia,Southern,Tangalle,6.0221029999999995,80.799766,,Journalists & Media,Unknown,Firearms,1,0
+39702,198909190002,1989,9,19,Sri Lanka,South Asia,Uva,Udawalawa,6.418483,80.823938,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,7,0
+39706,198909190006,1989,9,19,Sri Lanka,South Asia,Western,Gampaha,7.092801,79.994608,,Police,Unknown,Explosives/Bombs/Dynamite,2,24
+39718,198909200006,1989,9,20,Sri Lanka,South Asia,Western,Colombo,6.874658,79.860483,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39738,198909220001,1989,9,22,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Private Citizens & Property,Unknown,Firearms,1,0
+39745,198909220008,1989,9,22,Sri Lanka,South Asia,Southern,Matara,5.944433,80.549945,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,21
+39747,198909230001,1989,9,23,Sri Lanka,South Asia,Uva,Badulla District,6.9934009999999995,81.05498100000001,,Religious Figures/Institutions,Unknown,Firearms,1,0
+39750,198909230004,1989,9,23,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39751,198909230005,1989,9,23,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39752,198909230006,1989,9,23,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39753,198909230007,1989,9,23,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39754,198909230008,1989,9,23,Sri Lanka,South Asia,Southern,Deniyaya,6.342485,80.559658,,Business,People's Liberation Front (JVP),Incendiary,0,0
+39755,198909230009,1989,9,23,Sri Lanka,South Asia,Southern,Matara,5.944433,80.549945,,Police,Unknown,Explosives/Bombs/Dynamite,0,21
+39778,198909250006,1989,9,25,Sri Lanka,South Asia,North Central,Kala Wewa,8.011623,80.557734,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39799,198909260014,1989,9,26,Sri Lanka,South Asia,Northern,Thanesh,7.507167999999999,81.786873,,Military,Liberation Tigers of Tamil Eelam (LTTE),Firearms,2,0
+39801,198909270002,1989,9,27,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,1,0
+39802,198909270003,1989,9,27,Sri Lanka,South Asia,Uva,Girandurukotte,7.462917,81.017492,,Government (General),People's Liberation Front (JVP),Firearms,1,0
+39805,198909270006,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39806,198909270007,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39807,198909270008,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39808,198909270009,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39809,198909270010,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39810,198909270011,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39811,198909270012,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39812,198909270013,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39813,198909270014,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39814,198909270015,1989,9,27,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+39821,198909270022,1989,9,27,Sri Lanka,South Asia,Uva,Badulla District,6.9934009999999995,81.05498100000001,,Violent Political Party,People's Liberation Front (JVP),Firearms,1,3
+39825,198909280003,1989,9,28,Sri Lanka,South Asia,Uva,Badulla district,6.9934009999999995,81.05498100000001,,Police,People's Liberation Front (JVP),Firearms,2,0
+39828,198909280006,1989,9,28,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Transportation,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,4
+39833,198909280011,1989,9,28,Sri Lanka,South Asia,Northern,Mullaitivu,9.267091,80.81424799999999,,Government (General),Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,6
+39834,198909280012,1989,9,28,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Violent Political Party,Unknown,Firearms,0,0
+39858,198910010001,1989,10,1,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Police,People's Liberation Front (JVP),Firearms,4,0
+39892,198910010035,1989,10,1,Sri Lanka,South Asia,Southern,Hambantota District,6.130655,81.1262,,Military,People's Liberation Front (JVP),Firearms,2,0
+39893,198910010036,1989,10,1,Sri Lanka,South Asia,Western,Kalutara,6.586805,79.962637,,Military,People's Liberation Front (JVP),Firearms,6,2
+39894,198910010037,1989,10,1,Sri Lanka,South Asia,Southern,Tissamaharama,6.279154,81.287669,,Military,People's Liberation Front (JVP),Firearms,2,0
+39895,198910020001,1989,10,2,Sri Lanka,South Asia,Southern,Hakmana,6.083732,80.644852,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,1,0
+39908,198910030001,1989,10,3,Sri Lanka,South Asia,Central,Kundasale,7.309624,80.710353,,Private Citizens & Property,Vigilante Group,Firearms,15,0
+39909,198910030002,1989,10,3,Sri Lanka,South Asia,Central,Matale,7.467465,80.623416,,Private Citizens & Property,Vigilante Group,Firearms,6,0
+39910,198910030003,1989,10,3,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,Vigilante Group,Firearms,1,0
+39921,198910040002,1989,10,4,Sri Lanka,South Asia,Uva,Monaragala,6.872750999999999,81.35065999999999,,Religious Figures/Institutions,People's Liberation Front (JVP),Firearms,1,0
+39934,198910050002,1989,10,5,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Educational Institution,People's Liberation Front (JVP),Firearms,1,0
+39957,198910060004,1989,10,6,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,Vigilante Group,Melee,18,0
+39958,198910060005,1989,10,6,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,Vigilante Group,Firearms,6,0
+39959,198910060006,1989,10,6,Sri Lanka,South Asia,Central,Gampola,7.164299000000001,80.568988,,Private Citizens & Property,Vigilante Group,Firearms,11,0
+39965,198910060012,1989,10,6,Sri Lanka,South Asia,Uva,Unknown,6.842761,81.33994100000001,,Police,People's Liberation Front (JVP),Firearms,3,0
+40045,198910110001,1989,10,11,Sri Lanka,South Asia,Western,Hanwella,6.905836,80.084222,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,9,0
+40070,198910130001,1989,10,13,Sri Lanka,South Asia,Unknown,Hathangoda,,,,Private Citizens & Property,Unknown,Firearms,3,0
+40074,198910130005,1989,10,13,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Private Citizens & Property,People's Liberation Front (JVP),Incendiary,0,0
+40075,198910130006,1989,10,13,Sri Lanka,South Asia,Uva,Kotagoda,7.068026,81.55385799999999,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40076,198910130007,1989,10,13,Sri Lanka,South Asia,Unknown,Purathagode,,,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40077,198910130008,1989,10,13,Sri Lanka,South Asia,Unknown,Imagode,,,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40078,198910130009,1989,10,13,Sri Lanka,South Asia,Southern,Imaduwa,6.035685,80.388918,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40079,198910130010,1989,10,13,Sri Lanka,South Asia,Western,Kehellawela,7.253056,80.186389,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40080,198910130011,1989,10,13,Sri Lanka,South Asia,Central,Rambukpotha,7.293608,80.840547,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40081,198910130012,1989,10,13,Sri Lanka,South Asia,Uva,Heeloya,6.844325,81.02565600000001,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40082,198910130013,1989,10,13,Sri Lanka,South Asia,Unknown,Amgallegama,,,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40083,198910130014,1989,10,13,Sri Lanka,South Asia,Uva,Makulella,6.829199000000001,81.03406,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40084,198910130015,1989,10,13,Sri Lanka,South Asia,Unknown,Asanthe,,,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40085,198910130016,1989,10,13,Sri Lanka,South Asia,Uva,Kotagoda,7.068026,81.55385799999999,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40086,198910130017,1989,10,13,Sri Lanka,South Asia,North Central,Lenogama,8.557006,80.539332,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40087,198910130018,1989,10,13,Sri Lanka,South Asia,Southern,Udaberagama,6.1666669999999995,81.033333,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40088,198910130019,1989,10,13,Sri Lanka,South Asia,North Central,Baduwewa,8.515833,80.639167,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40089,198910130020,1989,10,13,Sri Lanka,South Asia,Southern,Pitigala,6.342776000000001,80.22300899999999,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40090,198910130021,1989,10,13,Sri Lanka,South Asia,Sabaragamuwa,Kegalle District,7.2528570000000006,80.34314499999999,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40091,198910130022,1989,10,13,Sri Lanka,South Asia,Western,Gamapaha district,7.092801,79.994608,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40095,198910130026,1989,10,13,Sri Lanka,South Asia,Uva,Badalkumbura,6.896653,81.23811500000001,,Police,People's Liberation Front (JVP),Firearms,5,3
+40096,198910130027,1989,10,13,Sri Lanka,South Asia,Western,Colombo,6.868669000000001,79.889882,,Police,People's Liberation Front (JVP),Firearms,5,0
+40097,198910130028,1989,10,13,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Police,Liberation Tigers of Tamil Eelam (LTTE),Firearms,5,0
+40098,198910130029,1989,10,13,Sri Lanka,South Asia,Western,Colombo District,6.927078999999999,79.861243,,Transportation,Unknown,Firearms,0,0
+40099,198910130030,1989,10,13,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Educational Institution,Unknown,Unknown,0,0
+40100,198910130031,1989,10,13,Sri Lanka,South Asia,Western,Nittambuwa,7.144083999999999,80.0956,,Police,People's Liberation Front (JVP),Firearms,1,0
+40101,198910140001,1989,10,14,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Military,Unknown,Firearms,1,0
+40103,198910140003,1989,10,14,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40108,198910140008,1989,10,14,Sri Lanka,South Asia,Northern,Vavuniya District,8.738157000000001,80.477147,,Military,People's Liberation Front (JVP),Firearms,1,1
+40142,198910190001,1989,10,19,Sri Lanka,South Asia,Uva,Gurutalawa,6.843441,80.90007,,Educational Institution,Unknown,Firearms,2,0
+40149,198910190008,1989,10,19,Sri Lanka,South Asia,Sabaragamuwa,Kegalle District,7.2528570000000006,80.34314499999999,,Military,People's Liberation Front (JVP),Firearms,1,1
+40150,198910190009,1989,10,19,Sri Lanka,South Asia,Central,Matale,7.467465,80.623416,,Military,People's Liberation Front (JVP),Firearms,2,0
+40151,198910190010,1989,10,19,Sri Lanka,South Asia,Southern,Poddala,6.108469,80.223766,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+40172,198910210001,1989,10,21,Sri Lanka,South Asia,Southern,Hambantota District,6.130655,81.1262,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,5,15
+40175,198910220001,1989,10,22,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura,6.6801070000000005,80.401883,,Terrorists/Non-State Militia,People's Liberation Front (JVP),Firearms,4,0
+40176,198910220002,1989,10,22,Sri Lanka,South Asia,Uva,Wellawaya,6.732009,81.102109,,Private Citizens & Property,Vigilante Group,Firearms,13,0
+40190,198910230001,1989,10,23,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Private Citizens & Property,Vigilante Group,Firearms,15,0
+40213,198910250001,1989,10,25,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,Flying Eagles (Vigilante Group),Melee,24,0
+40216,198910250004,1989,10,25,Sri Lanka,South Asia,Uva,Hopton,6.988232000000001,81.197485,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40224,198910250012,1989,10,25,Sri Lanka,South Asia,Unknown,Unknown,,,,Police,People's Liberation Front (JVP),Firearms,6,0
+40250,198910270014,1989,10,27,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Police,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,4,7
+40251,198910270015,1989,10,27,Sri Lanka,South Asia,Western,Gampaha,7.092801,79.994608,,Government (General),Unknown,Firearms,1,0
+40254,198910280003,1989,10,28,Sri Lanka,South Asia,Uva,Madugastalawa,7.014444,81.12055600000001,,Government (General),Unknown,Incendiary,0,0
+40255,198910280004,1989,10,28,Sri Lanka,South Asia,Southern,Walasmulla,6.155542,80.69780899999999,,Private Citizens & Property,People's Liberation Front (JVP),Incendiary,0,0
+40256,198910280005,1989,10,28,Sri Lanka,South Asia,Southern,Walasmulla,6.155542,80.69780899999999,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40257,198910280006,1989,10,28,Sri Lanka,South Asia,North Western,Kurunegala,7.4885660000000005,80.36515899999999,,Government (General),Unknown,Incendiary,0,0
+40258,198910280007,1989,10,28,Sri Lanka,South Asia,North Central,Kekirawa,8.040108,80.59793499999999,,Transportation,Unknown,Incendiary,0,0
+40259,198910280008,1989,10,28,Sri Lanka,South Asia,Uva,Hopton,6.988232000000001,81.197485,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40260,198910280009,1989,10,28,Sri Lanka,South Asia,Western,Walpita,6.6763330000000005,80.086928,,Business,Unknown,Incendiary,0,0
+40261,198910280010,1989,10,28,Sri Lanka,South Asia,Western,Walpita,6.6763330000000005,80.086928,,Government (General),Unknown,Incendiary,0,0
+40262,198910280011,1989,10,28,Sri Lanka,South Asia,Western,Walpita,6.6763330000000005,80.086928,,Government (General),Unknown,Incendiary,0,0
+40263,198910280012,1989,10,28,Sri Lanka,South Asia,Western,Kalutara,6.565769,79.983611,,Business,Unknown,Incendiary,0,0
+40264,198910280013,1989,10,28,Sri Lanka,South Asia,Southern,Hiniduma,6.300154,80.317264,,Government (General),Unknown,Incendiary,0,0
+40272,198910280021,1989,10,28,Sri Lanka,South Asia,Southern,Dodampe,6.021938,80.280913,,Business,Unknown,Firearms,0,0
+40310,198910310001,1989,10,31,Sri Lanka,South Asia,Central,Matale District,7.467465,80.623416,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,17,0
+40331,198911010002,1989,11,1,Sri Lanka,South Asia,Central,Laggala,7.5515229999999995,80.771321,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,17,0
+40346,198911020004,1989,11,2,Sri Lanka,South Asia,Central,Laggala,7.5515229999999995,80.771321,,Private Citizens & Property,Vigilante Group,Firearms,31,0
+40369,198911050001,1989,11,5,Sri Lanka,South Asia,North Western,Attanapola,7.927085000000001,80.336629,,Police,People's Liberation Front (JVP),Melee,6,0
+40385,198911070001,1989,11,7,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,10,0
+40387,198911070003,1989,11,7,Sri Lanka,South Asia,North Central,Habarana,8.039937,80.75551999999999,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+40395,198911070011,1989,11,7,Sri Lanka,South Asia,Eastern,Trincomalee,8.5922,81.19679599999999,,Military,People's Liberation Front (JVP),Firearms,10,0
+40396,198911070012,1989,11,7,Sri Lanka,South Asia,North Central,Wilpattu,8.410556,80.05111099999999,,Military,People's Liberation Organization of Tamil Eelam,Firearms,12,0
+40397,198911070013,1989,11,7,Sri Lanka,South Asia,Eastern,Ampara District,7.301756,81.67473000000001,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,16,0
+40398,198911070014,1989,11,7,Sri Lanka,South Asia,Eastern,Ampara District,7.301756,81.67473000000001,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,16,0
+40411,198911090001,1989,11,9,Sri Lanka,South Asia,Central,Pilimatalawa,7.266331,80.55217900000001,,Private Citizens & Property,Vigilante Group,Firearms,6,0
+40416,198911090006,1989,11,9,Sri Lanka,South Asia,Uva,Soragune,6.744897,80.892816,,Business,People's Liberation Front (JVP),Incendiary,6,0
+40417,198911090007,1989,11,9,Sri Lanka,South Asia,Central,Naula,7.704671,80.653145,,Business,Unknown,Incendiary,6,3
+40430,198911090020,1989,11,9,Sri Lanka,South Asia,North Western,Kurunegala District,7.4885660000000005,80.36515899999999,,Military,People's Liberation Front (JVP),Firearms,7,0
+40431,198911100001,1989,11,10,Sri Lanka,South Asia,North Western,Alawatuwala,7.460833,80.568611,,Private Citizens & Property,Vigilante Group,Firearms,7,0
+40432,198911100002,1989,11,10,Sri Lanka,South Asia,Uva,Badulla,6.9934009999999995,81.05498100000001,,Private Citizens & Property,Vigilante Group,Firearms,11,0
+40433,198911100003,1989,11,10,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Government (General),People's Liberation Front (JVP),Firearms,0,1
+40434,198911100004,1989,11,10,Sri Lanka,South Asia,Western,Colombo,6.927078999999999,79.861243,,Business,People's Liberation Front (JVP),Firearms,1,0
+40443,198911100013,1989,11,10,Sri Lanka,South Asia,Eastern,Sammanthurai,7.362095,81.803617,,Police,Tamils,Explosives/Bombs/Dynamite,0,0
+40444,198911100014,1989,11,10,Sri Lanka,South Asia,Eastern,Chavalakadai,7.412782000000001,81.776744,,Police,Tamils,Firearms,0,0
+40445,198911100015,1989,11,10,Sri Lanka,South Asia,Eastern,Akaraipattu,7.219392,81.849757,,Police,Tamils,Firearms,0,0
+40446,198911100016,1989,11,10,Sri Lanka,South Asia,Eastern,Karativu,7.377078,81.841562,,Police,Tamils,Firearms,0,0
+40447,198911100017,1989,11,10,Sri Lanka,South Asia,North Western,Kurunegala District,7.4885660000000005,80.36515899999999,,Business,People's Liberation Front (JVP),Firearms,0,0
+40448,198911100018,1989,11,10,Sri Lanka,South Asia,North Western,Kurunegala District,7.4885660000000005,80.36515899999999,,Business,People's Liberation Front (JVP),Firearms,0,0
+40449,198911110001,1989,11,11,Sri Lanka,South Asia,Uva,Siyambalanduwa,6.906671,81.55929300000001,,Private Citizens & Property,Vigilante Group,Firearms,7,0
+40450,198911110002,1989,11,11,Sri Lanka,South Asia,North Western,Alawatuwala,7.460833,80.568611,,Private Citizens & Property,Vigilante Group,Firearms,5,0
+40459,198911110013,1989,11,11,Sri Lanka,South Asia,Sabaragamuwa,Embilipitiya,6.316232,80.843314,,Business,People's Liberation Front (JVP),Firearms,0,0
+40473,198911120013,1989,11,12,Sri Lanka,South Asia,Central,Ulapane,7.098764,80.560511,,Police,People's Liberation Front (JVP),Firearms,1,0
+40474,198911120014,1989,11,12,Sri Lanka,South Asia,Eastern,Kalmunai,7.414383,81.83063299999999,,Business,Unknown,Firearms,0,0
+40495,198911130022,1989,11,13,Sri Lanka,South Asia,Eastern,Kalmunai,7.414383,81.83063299999999,,Police,Tamils,Firearms,0,0
+40496,198911130023,1989,11,13,Sri Lanka,South Asia,Eastern,Kalmunai,7.414383,81.83063299999999,,Police,Tamils,Firearms,2,0
+40497,198911130024,1989,11,13,Sri Lanka,South Asia,Eastern,Kalmunai,7.414383,81.83063299999999,,Police,Tamils,Firearms,2,0
+40498,198911140001,1989,11,14,Sri Lanka,South Asia,Central,Pujapitiya,7.381241999999999,80.58661500000001,,Private Citizens & Property,Vigilante Group,Firearms,30,0
+40509,198911150001,1989,11,15,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Private Citizens & Property,Vigilante Group,Firearms,12,0
+40554,198911170016,1989,11,17,Sri Lanka,South Asia,Eastern,Akaraipattu,7.219392,81.849757,,Police,Tamils,Firearms,0,0
+40555,198911170017,1989,11,17,Sri Lanka,South Asia,Eastern,Sammanthurai,7.362095,81.803617,,Police,Tamils,Firearms,0,0
+40556,198911170018,1989,11,17,Sri Lanka,South Asia,Eastern,Kalmunai,7.414383,81.83063299999999,,Police,Tamils,Firearms,0,0
+40557,198911170019,1989,11,17,Sri Lanka,South Asia,Eastern,Chavalakadai,7.412782000000001,81.776744,,Police,Tamils,Firearms,0,0
+40588,198911210006,1989,11,21,Sri Lanka,South Asia,Unknown,Digalhera,,,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,6,0
+40589,198911210007,1989,11,21,Sri Lanka,South Asia,Uva,Unknown,6.842761,81.33994100000001,,Educational Institution,People's Liberation Front (JVP),Firearms,1,0
+40590,198911210008,1989,11,21,Sri Lanka,South Asia,Northern,Mannar,8.980118,79.912462,,Terrorists/Non-State Militia,Eelam People's Revolutionary Liberation Front (EPRLF),Unknown,2,0
+40607,198911210025,1989,11,21,Sri Lanka,South Asia,Northern,Mannar,8.980118,79.912462,,Military,Citizens Volunteer Force,Firearms,3,0
+40617,198911220010,1989,11,22,Sri Lanka,South Asia,North Western,Kurunegala district,7.4885660000000005,80.36515899999999,,Business,People's Liberation Front (JVP),Firearms,1,0
+40633,198911250003,1989,11,25,Sri Lanka,South Asia,Northern,Mullaitivu,9.267091,80.81424799999999,,Terrorists/Non-State Militia,Tamil Eelam Liberation Organization (TELO),Firearms,2,0
+40634,198911250004,1989,11,25,Sri Lanka,South Asia,Uva,Monaragala,6.872750999999999,81.35065999999999,,Government (General),Unknown,Firearms,2,0
+40636,198911250006,1989,11,25,Sri Lanka,South Asia,Uva,Badulla,6.9934009999999995,81.05498100000001,,Government (General),Unknown,Incendiary,0,0
+40637,198911250007,1989,11,25,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura,6.6801070000000005,80.401883,,Government (General),Unknown,Incendiary,0,0
+40638,198911250008,1989,11,25,Sri Lanka,South Asia,Uva,Mahiyangana,7.33973,80.991957,,Government (General),Unknown,Incendiary,0,0
+40647,198911250017,1989,11,25,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Police,Eelam People's Revolutionary Liberation Front (EPRLF),Firearms,0,1
+40658,198911260011,1989,11,26,Sri Lanka,South Asia,Southern,Dickwella,5.971676,80.695104,,Police,People's Liberation Front (JVP),Firearms,5,0
+40659,198911260012,1989,11,26,Sri Lanka,South Asia,Western,Moratuwa,6.788071,79.891281,,Government (General),People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,9
+40660,198911260013,1989,11,26,Sri Lanka,South Asia,Northern,Jaffna,9.66123,80.02558,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,17,0
+40674,198911280007,1989,11,28,Sri Lanka,South Asia,Southern,Dickwella,5.971676,80.695104,,Police,People's Liberation Front (JVP),Firearms,5,0
+40675,198911290001,1989,11,29,Sri Lanka,South Asia,Southern,Matara,5.944433,80.549945,,Military,People's Liberation Front (JVP),Melee,2,0
+40678,198911290004,1989,11,29,Sri Lanka,South Asia,Southern,Matara District,5.944433,80.549945,,Government (General),People's Liberation Front (JVP),Incendiary,6,0
+40679,198911290005,1989,11,29,Sri Lanka,South Asia,Sabaragamuwa,Kaudaulla,7.263889,80.3875,,Business,Unknown,Incendiary,0,0
+40680,198911290006,1989,11,29,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Business,Unknown,Incendiary,0,0
+40681,198911290007,1989,11,29,Sri Lanka,South Asia,Western,Divulapitiya,7.230314,80.016474,,Government (General),Unknown,Incendiary,0,0
+40682,198911290008,1989,11,29,Sri Lanka,South Asia,North Central,Polonnaruwa,7.939525,81.000963,,Business,Unknown,Incendiary,0,0
+40683,198911290009,1989,11,29,Sri Lanka,South Asia,North Central,Polonnaruwa,7.939525,81.000963,,Business,Unknown,Incendiary,0,0
+40687,198911290013,1989,11,29,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Business,Unknown,Firearms,2,3
+40688,198911290014,1989,11,29,Sri Lanka,South Asia,Western,Gampaha,7.092801,79.994608,,Government (General),Unknown,Firearms,0,1
+40689,198911300001,1989,11,30,Sri Lanka,South Asia,Unknown,Kalukgolla,,,,Private Citizens & Property,Unknown,Melee,3,0
+40690,198911300002,1989,11,30,Sri Lanka,South Asia,Sabaragamuwa,Pallebage,6.963787,80.420829,,Religious Figures/Institutions,Unknown,Firearms,1,0
+40691,198911300003,1989,11,30,Sri Lanka,South Asia,Western,Colombo,6.91074,79.87123000000001,,Business,Unknown,Firearms,0,0
+40697,198911300009,1989,11,30,Sri Lanka,South Asia,Central,Galgediyawa,7.181674,80.585095,,Government (General),Unknown,Incendiary,0,0
+40698,198911300010,1989,11,30,Sri Lanka,South Asia,Sabaragamuwa,Debathgama,7.172267,80.4199,,Transportation,Unknown,Incendiary,0,0
+40699,198911300011,1989,11,30,Sri Lanka,South Asia,Sabaragamuwa,Debathgama,7.172267,80.4199,,Transportation,Unknown,Incendiary,0,0
+40700,198911300012,1989,11,30,Sri Lanka,South Asia,Sabaragamuwa,Debathgama,7.172267,80.4199,,Transportation,Unknown,Incendiary,0,0
+40703,198911300015,1989,11,30,Sri Lanka,South Asia,Western,Moratuwa,6.797611,79.873784,,Business,Unknown,Firearms,0,0
+40704,198911300016,1989,11,30,Sri Lanka,South Asia,Western,Divulapitiya,7.230314,80.016474,,Government (General),Unknown,Firearms,0,0
+40705,198911300017,1989,11,30,Sri Lanka,South Asia,Western,Pahala Naragala,6.685776,80.102154,,Police,Unknown,Firearms,3,0
+40706,198911300018,1989,11,30,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Police,People's Liberation Front (JVP),Firearms,1,0
+40730,198912030005,1989,12,3,Sri Lanka,South Asia,Northern,Vavuniya,8.738157000000001,80.477147,,Military,Tamils,Firearms,17,0
+40748,198912050005,1989,12,5,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Police,Tamils,Firearms,0,0
+40769,198912090002,1989,12,9,Sri Lanka,South Asia,Central,Ankumbura,7.437519,80.568843,,Private Citizens & Property,Vigilante Group,Firearms,11,0
+40770,198912090003,1989,12,9,Sri Lanka,South Asia,Southern,Mulkirigala,6.121261,80.744811,,Private Citizens & Property,Vigilante Group,Firearms,6,0
+40771,198912090004,1989,12,9,Sri Lanka,South Asia,Western,Colombo,6.896419,79.888482,,Private Citizens & Property,Vigilante Group,Firearms,2,0
+40772,198912090005,1989,12,9,Sri Lanka,South Asia,Central,Peradeniya,7.269864999999999,80.59383299999999,,Private Citizens & Property,Vigilante Group,Firearms,12,0
+40776,198912090009,1989,12,9,Sri Lanka,South Asia,North Central,Polonnaruwa District,7.939525,81.000963,,Government (General),People's Liberation Front (JVP),Firearms,1,1
+40777,198912090010,1989,12,9,Sri Lanka,South Asia,Southern,Kadawella,5.982739,80.731143,,Police,People's Liberation Front (JVP),Firearms,4,0
+40778,198912090011,1989,12,9,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Police,People's Liberation Front (JVP),Firearms,1,1
+40779,198912100001,1989,12,10,Sri Lanka,South Asia,Central,Kandy District,7.293839999999999,80.64066899999999,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,2,0
+40782,198912100004,1989,12,10,Sri Lanka,South Asia,Western,Veyangoda,7.1540550000000005,80.059375,,Transportation,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,0,0
+40783,198912100005,1989,12,10,Sri Lanka,South Asia,Uva,Udawalawa,6.418483,80.823938,,Government (General),People's Liberation Front (JVP),Incendiary,0,0
+40784,198912100006,1989,12,10,Sri Lanka,South Asia,Southern,Ambalantota,6.130267,81.020253,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+40785,198912100007,1989,12,10,Sri Lanka,South Asia,Sabaragamuwa,Godigamuwa,6.6862770000000005,80.40900400000001,,Transportation,Unknown,Incendiary,0,0
+40786,198912100008,1989,12,10,Sri Lanka,South Asia,Central,Bambradeniya,7.206389,80.570833,,Transportation,Unknown,Incendiary,0,0
+40787,198912100009,1989,12,10,Sri Lanka,South Asia,Unknown,Nilandiguwa,,,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+40788,198912100010,1989,12,10,Sri Lanka,South Asia,Sabaragamuwa,Padalangala,6.253623999999999,80.913116,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40789,198912100011,1989,12,10,Sri Lanka,South Asia,Sabaragamuwa,Embilipitiya,6.316232,80.843314,,Transportation,People's Liberation Front (JVP),Incendiary,0,0
+40790,198912100012,1989,12,10,Sri Lanka,South Asia,Uva,Udawalawa,6.418483,80.823938,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40794,198912100016,1989,12,10,Sri Lanka,South Asia,Eastern,Talaimannar,9.106313,79.73087,,Military,Tamils,Firearms,0,0
+40795,198912100017,1989,12,10,Sri Lanka,South Asia,Western,Moratuwa,6.797611,79.873784,,Government (General),Unknown,Firearms,0,0
+40796,198912100018,1989,12,10,Sri Lanka,South Asia,Uva,Unknown,6.842761,81.33994100000001,,Police,Unknown,Firearms,2,0
+40797,198912100019,1989,12,10,Sri Lanka,South Asia,Southern,Matara District,5.944433,80.549945,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,6
+40798,198912100020,1989,12,10,Sri Lanka,South Asia,North Central,Polonnaruwa District,7.939525,81.000963,,Government (General),People's Liberation Front (JVP),Firearms,3,0
+40799,198912100021,1989,12,10,Sri Lanka,South Asia,North Central,Unknown,8.199564,80.632692,,Business,People's Liberation Front (JVP),Firearms,0,0
+40800,198912100022,1989,12,10,Sri Lanka,South Asia,Sabaragamuwa,Ratnapura District,6.6801070000000005,80.401883,,Business,People's Liberation Front (JVP),Firearms,0,0
+40801,198912100023,1989,12,10,Sri Lanka,South Asia,Southern,Dickwella,5.971676,80.695104,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,3,6
+40803,198912110002,1989,12,11,Sri Lanka,South Asia,Southern,Morawaka Kanda,6.2,80.516667,,Military,People's Liberation Front (JVP),Firearms,1,0
+40804,198912110003,1989,12,11,Sri Lanka,South Asia,Southern,Matara,5.944433,80.549945,,Police,People's Liberation Front (JVP),Firearms,1,0
+40810,198912110009,1989,12,11,Sri Lanka,South Asia,Western,Kalutara,6.586805,79.962637,,Business,Unknown,Incendiary,0,0
+40811,198912110010,1989,12,11,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Utilities,People's Liberation Front (JVP),Incendiary,0,0
+40812,198912110011,1989,12,11,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Business,People's Liberation Front (JVP),Incendiary,0,0
+40813,198912110012,1989,12,11,Sri Lanka,South Asia,North Western,Kurunegala,7.4885660000000005,80.36515899999999,,Transportation,People's Liberation Front (JVP),Incendiary,2,0
+40820,198912110019,1989,12,11,Sri Lanka,South Asia,North Central,Kebethegollawa,8.641085,80.669598,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+40821,198912110020,1989,12,11,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+40822,198912110021,1989,12,11,Sri Lanka,South Asia,North Central,Kebethegollawa,8.641085,80.669598,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+40823,198912110022,1989,12,11,Sri Lanka,South Asia,North Central,Kebethegollawa,8.641085,80.669598,,Government (General),People's Liberation Front (JVP),Firearms,0,0
+40824,198912110023,1989,12,11,Sri Lanka,South Asia,Southern,Hakmana,6.083732,80.644852,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,24,0
+40825,198912110024,1989,12,11,Sri Lanka,South Asia,Eastern,Talaimannar,9.106313,79.73087,,Military,Tamils,Firearms,2,0
+40834,198912120008,1989,12,12,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Terrorists/Non-State Militia,Liberation Tigers of Tamil Eelam (LTTE),Firearms,18,0
+40835,198912120009,1989,12,12,Sri Lanka,South Asia,Uva,Badulla,6.9934009999999995,81.05498100000001,,Government (General),People's Liberation Front (JVP),Firearms,12,0
+40836,198912120010,1989,12,12,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Government (General),People's Liberation Organization of Tamil Eelam,Firearms,0,0
+40843,198912130007,1989,12,13,Sri Lanka,South Asia,Eastern,Batticaloa,7.716666,81.700188,,Government (General),Unknown,Firearms,0,0
+40865,198912170001,1989,12,17,Sri Lanka,South Asia,Southern,Meetiyagoda,6.189833999999999,80.095394,,Government (General),Unknown,Firearms,1,0
+40866,198912170002,1989,12,17,Sri Lanka,South Asia,Southern,Tangalle,6.0221029999999995,80.799766,,Private Citizens & Property,Vigilante Group,Firearms,5,0
+40870,198912170006,1989,12,17,Sri Lanka,South Asia,Central,Teldeniya,7.3153820000000005,80.74493100000001,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+40872,198912170008,1989,12,17,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,2,0
+40873,198912170009,1989,12,17,Sri Lanka,South Asia,Central,Kandy,7.293839999999999,80.64066899999999,,Police,People's Liberation Front (JVP),Firearms,1,0
+40874,198912170010,1989,12,17,Sri Lanka,South Asia,Southern,Galle,6.03296,80.212785,,Police,People's Liberation Front (JVP),Firearms,5,0
+40878,198912180003,1989,12,18,Sri Lanka,South Asia,Southern,Hambantota,6.130655,81.1262,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,5,0
+40879,198912180004,1989,12,18,Sri Lanka,South Asia,Southern,Akuressa,6.100359,80.47604799999999,,Private Citizens & Property,Vigilante Group,Firearms,6,0
+40894,198912190002,1989,12,19,Sri Lanka,South Asia,North Central,Anuradhapura,8.345185,80.388133,,Private Citizens & Property,Unknown,Firearms,2,0
+40895,198912190003,1989,12,19,Sri Lanka,South Asia,Uva,Monaragala,6.872750999999999,81.35065999999999,,Educational Institution,Unknown,Firearms,1,0
+40954,198912260008,1989,12,26,Sri Lanka,South Asia,Southern,Urubokka,6.30653,80.63061,,Private Citizens & Property,People's Liberation Front (JVP),Firearms,4,0
+40961,198912270004,1989,12,27,Sri Lanka,South Asia,Southern,Suriyawewa,6.309111,81.00305999999999,,Military,People's Liberation Front (JVP),Explosives/Bombs/Dynamite,4,0

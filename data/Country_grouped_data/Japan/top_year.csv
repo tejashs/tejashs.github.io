@@ -1,0 +1,94 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+41051,199001070003,1990,1,7,Japan,East Asia,,nara,34.685087,135.805,,Government (General),Nara Red Army,Incendiary,0,0
+41064,199001080006,1990,1,8,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Government (General),Chukakuha (Middle Core Faction),Explosives/Bombs/Dynamite,0,0
+41065,199001080007,1990,1,8,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Chukakuha (Middle Core Faction),Explosives/Bombs/Dynamite,0,0
+41163,199001180006,1990,1,18,Japan,East Asia,,Nagasaki,32.750285999999996,129.877667,,Government (General),Seikijuku,Firearms,0,0
+41197,199001230001,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41198,199001230002,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41199,199001230003,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41200,199001230004,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41201,199001230005,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41202,199001230006,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41203,199001230007,1990,1,23,Japan,East Asia,,tokyo,35.685826,139.756684,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+41363,199002110002,1990,2,11,Japan,East Asia,,Takasaki,36.321909000000005,139.00329399999998,,Government (General),Seiji Kesha Kokuyukai,Firearms,0,0
+41492,199002270001,1990,2,27,Japan,East Asia,,Tokyo,35.685826,139.756684,,Business,Chukakuha (Middle Core Faction),Incendiary,0,0
+41643,199003140001,1990,3,14,Japan,East Asia,,tokyo,35.685826,139.756684,,Business,Chukakuha (Middle Core Faction),Incendiary,0,0
+41735,199003220001,1990,3,22,Japan,East Asia,,Tokyo,35.685826,139.756684,,Private Citizens & Property,Chukakuha (Middle Core Faction),Incendiary,0,0
+41736,199003220002,1990,3,22,Japan,East Asia,,Tokyo,35.685826,139.756684,,Private Citizens & Property,Chukakuha (Middle Core Faction),Incendiary,0,0
+42116,199004150008,1990,4,15,Japan,East Asia,,Yokohama,35.443708,139.638026,,Military,Aum Shinri Kyo,Biological,0,0
+42117,199004150009,1990,4,15,Japan,East Asia,,Tokyo,35.685826,139.756684,,Airports & Aircraft,Aum Shinri Kyo,Biological,0,0
+42159,199004220003,1990,4,22,Japan,East Asia,,Yokohama,35.443708,139.638026,,Educational Institution,Unknown,Firearms,0,0
+42205,199004250026,1990,4,25,Japan,East Asia,,yokohama,35.443708,139.638026,,Business,Chukakuha (Middle Core Faction),Incendiary,0,0
+42284,199005020010,1990,5,2,Japan,East Asia,,Narita,35.776608,140.318781,,Airports & Aircraft,Unknown,Incendiary,0,0
+42453,199005170001,1990,5,17,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Chukakuha (Middle Core Faction),Incendiary,0,0
+42454,199005170002,1990,5,17,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Chukakuha (Middle Core Faction),Incendiary,0,0
+42455,199005170003,1990,5,17,Japan,East Asia,,nagoya,35.181446,136.906398,,Private Citizens & Property,Sekihotai,Explosives/Bombs/Dynamite,0,0
+42470,199005180001,1990,5,18,Japan,East Asia,Saitama,Unknown,35.856999,139.648849,,Police,Chukakuha (Middle Core Faction),Incendiary,0,0
+42502,199005210001,1990,5,21,Japan,East Asia,,Osaka,34.693738,135.502165,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,4
+43098,199007040003,1990,7,4,Japan,East Asia,Saitama,Unknown,35.856999,139.648849,,Transportation,Unknown,Incendiary,0,0
+43155,199007090001,1990,7,9,Japan,East Asia,,Akita,39.720008,140.102564,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+43257,199007190003,1990,7,19,Japan,East Asia,,Tokyo,35.685826,139.756684,,Private Citizens & Property,Unknown,Incendiary,0,0
+43426,199007310002,1990,7,31,Japan,East Asia,,Nara,34.685087,135.805,,Private Citizens & Property,Anti-Monarchists,Incendiary,0,0
+43427,199007310003,1990,7,31,Japan,East Asia,,Nara,34.685087,135.805,,Private Citizens & Property,Anti-Monarchists,Incendiary,0,0
+43428,199007310004,1990,7,31,Japan,East Asia,,Gose,34.463331,135.74024,,Religious Figures/Institutions,Anti-Monarchists,Incendiary,0,0
+43429,199007310005,1990,7,31,Japan,East Asia,,Yamatotakada,34.515046000000005,135.736392,,Religious Figures/Institutions,Anti-Monarchists,Incendiary,0,0
+43430,199007310006,1990,7,31,Japan,East Asia,,Kashihara,34.509448,135.792626,,Religious Figures/Institutions,Anti-Monarchists,Incendiary,0,0
+43431,199007310007,1990,7,31,Japan,East Asia,,Nara,34.685087,135.805,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+43432,199007310008,1990,7,31,Japan,East Asia,,Nara,34.685087,135.805,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+43433,199007310009,1990,7,31,Japan,East Asia,,Nara,34.685087,135.805,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+43607,199008150003,1990,8,15,Japan,East Asia,,"Shibuya Ward, Tokyo",35.664035,139.698212,,Journalists & Media,Chukakuha (Middle Core Faction),Explosives/Bombs/Dynamite,0,0
+43685,199008200004,1990,8,20,Japan,East Asia,,Urayasu,35.653983000000004,139.90220300000001,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+43775,199008310001,1990,8,31,Japan,East Asia,,Itami,34.784306,135.400947,,Airports & Aircraft,Chukakuha (Middle Core Faction),Explosives/Bombs/Dynamite,0,0
+44129,199010090001,1990,10,9,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Unknown,Incendiary,0,0
+44130,199010090002,1990,10,9,Japan,East Asia,,osaka,34.693738,135.502165,,Police,Unknown,Incendiary,0,106
+44357,199010270001,1990,10,27,Japan,East Asia,,Tsukuba,36.083486,140.076642,,Educational Institution,Unknown,Incendiary,0,0
+44367,199010280001,1990,10,28,Japan,East Asia,,Ishibayashi,36.890196,140.008702,,Religious Figures/Institutions,Chukakuha (Middle Core Faction),Incendiary,0,0
+44396,199011010001,1990,11,1,Japan,East Asia,,Tokyo,35.685826,139.756684,,Police,Unknown,Explosives/Bombs/Dynamite,1,6
+44397,199011010002,1990,11,1,Japan,East Asia,,Tokyo,35.685826,139.756684,,Police,Revolutionary Workers' Council (Kakurokyo),Explosives/Bombs/Dynamite,1,6
+44408,199011020001,1990,11,2,Japan,East Asia,,Tokyo,35.685826,139.756684,,Police,Revolutionary Workers' Council (Kakurokyo),Explosives/Bombs/Dynamite,0,0
+44409,199011020002,1990,11,2,Japan,East Asia,Aichi,Unknown,35.180188,136.906565,,Police,Unknown,Incendiary,0,0
+44410,199011020003,1990,11,2,Japan,East Asia,,Tokyo,35.685826,139.756684,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+44433,199011050001,1990,11,5,Japan,East Asia,,Unknown,,,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44482,199011110001,1990,11,11,Japan,East Asia,,Osaka,34.693738,135.502165,,Government (Diplomatic),Unknown,Explosives/Bombs/Dynamite,0,0
+44486,199011120001,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44487,199011120002,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44488,199011120003,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Transportation,Unknown,Incendiary,0,0
+44489,199011120004,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44490,199011120005,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Transportation,Unknown,Incendiary,0,0
+44491,199011120006,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Transportation,Unknown,Incendiary,0,0
+44492,199011120007,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Transportation,Unknown,Incendiary,0,0
+44496,199011120011,1990,11,12,Japan,East Asia,,Atsugi,35.443082000000004,139.36248899999998,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44497,199011120012,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44498,199011120013,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44499,199011120014,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44500,199011120015,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44501,199011120016,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Military,Unknown,Explosives/Bombs/Dynamite,0,0
+44502,199011120017,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+44503,199011120018,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+44504,199011120019,1990,11,12,Japan,East Asia,,Tokyo,35.685826,139.756684,,Airports & Aircraft,Unknown,Explosives/Bombs/Dynamite,0,0
+44555,199011190004,1990,11,19,Japan,East Asia,,Nagoya,35.181446,136.906398,,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite,0,0
+44562,199011210001,1990,11,21,Japan,East Asia,Miyagi,Unknown,38.268837,140.8721,,Religious Figures/Institutions,Revolutionary Workers' Council (Kakurokyo),Incendiary,0,0
+44563,199011210002,1990,11,21,Japan,East Asia,,Otsuki,35.610485,138.940028,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44564,199011210003,1990,11,21,Japan,East Asia,,Ushiku,35.979375,140.14952399999999,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44565,199011210004,1990,11,21,Japan,East Asia,,Kimitsu,35.33045,139.902677,,Transportation,Unknown,Incendiary,0,0
+44566,199011210005,1990,11,21,Japan,East Asia,,Otsuki,35.610485,138.940028,,Transportation,Unknown,Incendiary,0,0
+44568,199011220002,1990,11,22,Japan,East Asia,,Omiya,35.906259000000006,139.628634,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44569,199011220003,1990,11,22,Japan,East Asia,,Matsudo,35.787649,139.90309299999998,,Transportation,Unknown,Incendiary,0,0
+44570,199011220004,1990,11,22,Japan,East Asia,Iwate,Unknown,39.703619,141.15268400000002,,Transportation,Unknown,Incendiary,0,0
+44577,199011220011,1990,11,22,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+44596,199011260002,1990,11,26,Japan,East Asia,,Yokohama,35.443708,139.638026,,Transportation,Chukakuha (Middle Core Faction),Explosives/Bombs/Dynamite,0,0
+44651,199011290012,1990,11,29,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Business,Unknown,Incendiary,0,0
+44652,199011290013,1990,11,29,Japan,East Asia,Nara,Unknown,34.685354,135.832742,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+44653,199011290014,1990,11,29,Japan,East Asia,Nara,Unknown,34.685354,135.832742,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+44654,199011290015,1990,11,29,Japan,East Asia,Nara,Unknown,34.685354,135.832742,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+44655,199011290016,1990,11,29,Japan,East Asia,Nara,Unknown,34.685354,135.832742,,Transportation,Chukakuha (Middle Core Faction),Incendiary,0,0
+44664,199011300002,1990,11,30,Japan,East Asia,Aichi,Unknown,35.180188,136.906565,,Religious Figures/Institutions,Unknown,Incendiary,0,0
+44665,199011300003,1990,11,30,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Business,Unknown,Incendiary,0,0
+44666,199011300004,1990,11,30,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Business,Unknown,Incendiary,0,0
+44669,199012010001,1990,12,1,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Private Citizens & Property,Unknown,Incendiary,0,0
+44670,199012010002,1990,12,1,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Private Citizens & Property,Unknown,Incendiary,0,0
+44671,199012010003,1990,12,1,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Business,Unknown,Incendiary,0,0
+44683,199012030001,1990,12,3,Japan,East Asia,,Tokyo,35.685826,139.756684,,Government (General),Unknown,Incendiary,0,0
+44702,199012050001,1990,12,5,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Police,Unknown,Explosives/Bombs/Dynamite,0,3
+44706,199012050005,1990,12,5,Japan,East Asia,,Ise,34.487514000000004,136.709336,,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite,0,0
+44717,199012060001,1990,12,6,Japan,East Asia,,Kyoto,35.011635999999996,135.768029,,Business,Unknown,Incendiary,0,0

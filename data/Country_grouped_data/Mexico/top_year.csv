@@ -1,0 +1,96 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+64249,199701030002,1997,1,3,Mexico,North America,,Tijuana,32.533489,-117.018204,,Government (General),Unknown,Firearms,1,0
+64255,199701040002,1997,1,4,Mexico,North America,Guerrero,Unknown,17.439193,-99.545097,,Private Citizens & Property,Justice Army for Defenseless Peoples,Firearms,4,0
+64318,199701110001,1997,1,11,Mexico,North America,,San Miguel Totolapan,18.158959,-100.390648,,Police,Unknown,Firearms,8,0
+64347,199701140004,1997,1,14,Mexico,North America,,San Juan Cosala,20.288475,-103.333606,,Private Citizens & Property,Unknown,Unknown,0,0
+64442,199701280001,1997,1,28,Mexico,North America,Morelos,Unknown,18.681305,-99.10135,,Private Citizens & Property,Unknown,Unknown,0,0
+64457,199701290001,1997,1,29,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Journalists & Media,Unknown,Firearms,0,0
+64476,199702010003,1997,2,1,Mexico,North America,,Mazatlan,23.236110999999998,-106.415278,,Business,Unknown,Unknown,0,0
+64477,199702010004,1997,2,1,Mexico,North America,,Cuernavaca,18.93402,-99.231483,,Business,Unknown,Firearms,0,0
+64566,199702040003,1997,2,4,Mexico,North America,,Agua Blanca,17.2675,-91.83416,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,0,0
+64575,199702060001,1997,2,6,Mexico,North America,,Mexico City,19.432608,-99.133207,,Business,Unknown,Firearms,3,0
+64626,199702120002,1997,2,12,Mexico,North America,,Oaxaca,17.054348,-96.71295400000001,,Private Citizens & Property,Unknown,Firearms,0,0
+64726,199702260002,1997,2,26,Mexico,North America,,Guadalajara,20.673343,-103.344177,,Business,Unknown,Unknown,0,0
+64772,199703070001,1997,3,7,Mexico,North America,,Palenque,17.51003,-91.98149599999999,,Police,Unknown,Unknown,2,5
+64782,199703080001,1997,3,8,Mexico,North America,,Etzatlan,20.76541,-104.078886,,Private Citizens & Property,Unknown,Unknown,0,0
+64804,199703120001,1997,3,12,Mexico,North America,,Zaragoza,19.770970000000002,-97.55506,,Government (General),Institutional Revolutionary Party (PRI),Firearms,2,0
+64808,199703130003,1997,3,13,Mexico,North America,,Cuernavaca,18.93402,-99.231483,,Violent Political Party,Unknown,Chemical,0,1
+64907,199703220001,1997,3,22,Mexico,North America,,Xalpatlahuac,17.472093,-98.606563,,Government (General),Unknown,Firearms,2,0
+64940,199703240001,1997,3,24,Mexico,North America,,Tuxtepec,18.088243,-96.1232,,Private Citizens & Property,Unknown,Firearms,1,0
+64946,199703250001,1997,3,25,Mexico,North America,,Chilpancingo,17.551547,-99.500648,,Government (General),Unknown,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1,0
+64971,199703280001,1997,3,28,Mexico,North America,,Altamirano,19.094333,-96.332427,,Government (General),Unknown,Firearms,1,0
+65008,199704020002,1997,4,2,Mexico,North America,,Mexico City,19.432608,-99.133207,,Private Citizens & Property,Unknown,Melee,0,1
+65032,199704060003,1997,4,6,Mexico,North America,,Mexico City,19.432608,-99.133207,,Private Citizens & Property,Unknown,Melee,0,2
+65033,199704060004,1997,4,6,Mexico,North America,,Mexico City,19.432608,-99.133207,,Private Citizens & Property,Unknown,Melee,0,1
+65057,199704090007,1997,4,9,Mexico,North America,,Tijuana,32.533489,-117.018204,,Journalists & Media,Unknown,Firearms,2,0
+65148,199704210004,1997,4,21,Mexico,North America,,Tepetixtla,17.212266,-100.118774,,Private Citizens & Property,Unknown,Firearms,1,0
+65353,199705220001,1997,5,22,Mexico,North America,,Chilpancingo,17.551547,-99.500648,,Journalists & Media,Unknown,Firearms,1,0
+65374,199705270002,1997,5,27,Mexico,North America,,Atoyac,17.31179099,-100.29809470000001,,Military,Popular Revolutionary Army (Mexico),Firearms,5,0
+65411,199705310002,1997,5,31,Mexico,North America,,San Luis de la Loma,17.26988,-100.89231,,Police,Unknown,Firearms,0,2
+65451,199706040006,1997,6,4,Mexico,North America,,Rio Grande,23.825498,-103.03155799999999,,Private Citizens & Property,Unknown,Firearms,4,0
+65452,199706040007,1997,6,4,Mexico,North America,,Xalapa,19.542624,-96.913744,,Private Citizens & Property,Unknown,Unknown,2,0
+65476,199706080002,1997,6,8,Mexico,North America,,Pueblo Nuevo Solistahuac?n,17.16028,-92.89976,,Private Citizens & Property,Paramilitaries,Firearms,6,0
+65481,199706090002,1997,6,9,Mexico,North America,,San Agustin Chayuco,17.243485,-97.998586,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,0,0
+65587,199706170004,1997,6,17,Mexico,North America,,Tecpan De Galeana,17.219814000000003,-100.631834,,Police,Unknown,Firearms,0,1
+65621,199706200002,1997,6,20,Mexico,North America,,Mexico City,19.432608,-99.133207,,Government (General),Unknown,Unknown,0,1
+65768,199707040002,1997,7,4,Mexico,North America,,Mexico City,19.432608,-99.133207,,Government (General),Unknown,Unknown,1,0
+65769,199707040003,1997,7,4,Mexico,North America,,Tuxtla Gutierrez,16.75,-93.1166667,,Police,Unknown,Unknown,1,0
+65909,199707150003,1997,7,15,Mexico,North America,,Tijuana,32.533489,-117.018204,,Tourists,Unknown,Firearms,2,0
+65910,199707150004,1997,7,15,Mexico,North America,,San Luis Rio Colorado,32.451368,-114.77166899999999,,Journalists & Media,Unknown,Firearms,1,0
+65961,199707200001,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65962,199707200002,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65963,199707200003,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65964,199707200004,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65965,199707200005,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65966,199707200006,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65967,199707200007,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65968,199707200008,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65969,199707200009,1997,7,20,Mexico,North America,Oaxaca,Unknown,17.057709,-96.703006,,Private Citizens & Property,Unknown,Unknown,0,0
+65970,199707200010,1997,7,20,Mexico,North America,,Netzahualcoyotl,19.403793,-99.02478599999999,,Private Citizens & Property,Unknown,Firearms,2,0
+65981,199707210002,1997,7,21,Mexico,North America,,Coyuca de Benitez,17.008613,-100.087099,,Violent Political Party,Unknown,Firearms,1,0
+66065,199708010001,1997,8,1,Mexico,North America,,Aguascalientes,21.881795999999998,-102.29127,,Private Citizens & Property,Paramilitaries,Unknown,1,0
+66256,199708200001,1997,8,20,Mexico,North America,,San Agustin Loxicha,16.016855,-96.61596899999999,,Educational Institution,Unknown,Unknown,0,0
+66374,199708280003,1997,8,28,Mexico,North America,,Coyuca de Benitez,17.14723076,-100.02665209999999,,Private Citizens & Property,Unknown,Firearms,2,0
+66398,199708310002,1997,8,31,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Unknown,Unknown,Firearms,3,2
+66538,199709140003,1997,9,14,Mexico,North America,,Mexico City,19.432608,-99.133207,,Journalists & Media,Unknown,Firearms,0,0
+66550,199709150003,1997,9,15,Mexico,North America,,Mexico City,19.432608,-99.133207,,Journalists & Media,Unknown,Unknown,0,0
+66566,199709170001,1997,9,17,Mexico,North America,,Mexico City,19.432608,-99.133207,,Journalists & Media,Unknown,Unknown,0,0
+66599,199709210001,1997,9,21,Mexico,North America,,Los Altos de Chiapas,16.662612,-92.733087,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,2,0
+66680,199710020002,1997,10,2,Mexico,North America,,Las Limas Chitamucum,17.106764000000002,-92.525715,,Private Citizens & Property,Zapatista National Liberation Army,Firearms,4,1
+66723,199710060009,1997,10,6,Mexico,North America,,Ciudad Altamirano,18.34775,-100.65415300000001,,Government (General),Unknown,Melee,1,0
+66769,199710130001,1997,10,13,Mexico,North America,,Comalcalco,18.262809,-93.223443,,Private Citizens & Property,Democratic Revolutionary Party,Firearms,0,1
+66868,199710210001,1997,10,21,Mexico,North America,,Cuernavaca,18.93402,-99.231483,,Government (General),Unknown,Firearms,1,0
+66909,199710270002,1997,10,27,Mexico,North America,,Tijuana,32.533489,-117.018204,,Journalists & Media,Unknown,Firearms,2,1
+66930,199710290005,1997,10,29,Mexico,North America,,Cucuyachi,17.22664,-100.2886,,Private Citizens & Property,Unknown,Firearms,1,0
+66955,199711010006,1997,11,1,Mexico,North America,,Agua Fria,,,,Private Citizens & Property,Unknown,Firearms,1,0
+66965,199711040001,1997,11,4,Mexico,North America,,Mexico City- Acapulco Hwy,,,,Police,Unknown,Firearms,3,0
+66966,199711040002,1997,11,4,Mexico,North America,,Belisario Dominguez,15.30067397,-92.35283661,,Religious Figures/Institutions,Unknown,Firearms,0,3
+66975,199711060001,1997,11,6,Mexico,North America,,San Cristobal de las Casas,16.738601,-92.633229,,Educational Institution,Unknown,Melee,0,1
+67037,199711140002,1997,11,14,Mexico,North America,,Tijuana,32.533489,-117.018204,,Police,Unknown,Firearms,2,0
+67045,199711150001,1997,11,15,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Business,Unknown,Firearms,1,0
+67074,199711180001,1997,11,18,Mexico,North America,,Chenalho,16.893485000000002,-92.626492,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,6,2
+67084,199711190002,1997,11,19,Mexico,North America,Distrito Federal,Mexico City,19.246470000000002,-99.10135,,Police,Unknown,Unknown,0,0
+67090,199711200002,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67091,199711200003,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67092,199711200004,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67093,199711200005,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67094,199711200006,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67095,199711200007,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67096,199711200008,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67097,199711200009,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67098,199711200010,1997,11,20,Mexico,North America,Chiapas,Unknown,16.756932,-93.129235,,Private Citizens & Property,Institutional Revolutionary Party (PRI),Firearms,10,0
+67126,199711250001,1997,11,25,Mexico,North America,,Acapulco,16.863443,-99.881597,,Police,Taxi Drivers,Unknown,0,2
+67169,199712010002,1997,12,1,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Police,Unknown,Firearms,0,1
+67170,199712010003,1997,12,1,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Private Citizens & Property,Unknown,Firearms,0,1
+67171,199712010004,1997,12,1,Mexico,North America,,Cuernavaca,18.93402,-99.231483,,Business,Unknown,Firearms,3,0
+67197,199712030001,1997,12,3,Mexico,North America,,Villahermosa,17.987557000000002,-92.929147,,Business,Unknown,Firearms,0,0
+67243,199712090003,1997,12,9,Mexico,North America,,Acapulco,16.863443,-99.881597,,Business,Unknown,Firearms,1,1
+67244,199712090004,1997,12,9,Mexico,North America,,Vallecitos de Zaragoza,17.921815,-101.322463,,Police,Unknown,Firearms,1,3
+67245,199712090005,1997,12,9,Mexico,North America,,Mexico City,19.432608,-99.133207,,Violent Political Party,Unknown,Unknown,0,0
+67286,199712140001,1997,12,14,Mexico,North America,,Ciudad Juarez,31.733333000000002,-106.483333,,Government (General),Unknown,Firearms,1,0
+67287,199712140002,1997,12,14,Mexico,North America,,Cocula,20.364417,-103.823587,,Government (General),Unknown,Firearms,1,0
+67290,199712150001,1997,12,15,Mexico,North America,,Guadalajara,20.673343,-103.344177,,Private Citizens & Property,Unknown,Firearms,0,7
+67291,199712150002,1997,12,15,Mexico,North America,,Mexico City,19.432608,-99.133207,,Business,Unknown,Firearms,1,0
+67292,199712150003,1997,12,15,Mexico,North America,,San Juan de Ocotan,20.716666699999998,-103.45,,Private Citizens & Property,Unknown,Firearms,1,7
+67293,199712150004,1997,12,15,Mexico,North America,,Ciudad Altamirano,18.34775,-100.65415300000001,,Government (General),Unknown,Firearms,1,0
+67348,199712220001,1997,12,22,Mexico,North America,,Acteal,16.9878,-92.5186,,Private Citizens & Property,Unknown,Firearms,45,0

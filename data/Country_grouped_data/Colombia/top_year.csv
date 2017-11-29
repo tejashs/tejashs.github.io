@@ -1,0 +1,599 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+64253,199701030006,1997,1,3,Colombia,South America,Unknown,Tascon,,,,Private Citizens & Property,Paramilitaries,Melee,8,0
+64265,199701040012,1997,1,4,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Firearms,4,0
+64283,199701060009,1997,1,6,Colombia,South America,Casanare,Pore,5.72939,-71.99528000000001,,Private Citizens & Property,Unknown,Firearms,8,0
+64284,199701060010,1997,1,6,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Firearms,2,0
+64285,199701060011,1997,1,6,Colombia,South America,Casanare,Pore,5.72939,-71.99528000000001,,Private Citizens & Property,Unknown,Unknown,2,0
+64316,199701100005,1997,1,10,Colombia,South America,Caldas,Rio Sucio,5.420595,-75.702686,,Private Citizens & Property,Unknown,Unknown,1,3
+64322,199701110005,1997,1,11,Colombia,South America,Antioquia,Yondo,7.007022,-73.909401,,Unknown,Paramilitaries,Unknown,7,0
+64323,199701110006,1997,1,11,Colombia,South America,Antioquia,La Margarita,5.9583330000000005,-76.0075,,Private Citizens & Property,Paramilitaries,Firearms,18,0
+64330,199701120005,1997,1,12,Colombia,South America,Huila,Gaitania district,3.09048,-75.67288,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,5,7
+64340,199701130006,1997,1,13,Colombia,South America,Cauca,Caloto,3.0357950000000002,-76.408327,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+64341,199701130007,1997,1,13,Colombia,South America,Cundinamarca,Soacha,4.582298000000001,-74.219465,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64355,199701150002,1997,1,15,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Unknown,0,0
+64364,199701160010,1997,1,16,Colombia,South America,Choco,Jurado,7.10577,-77.76488,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,4,8
+64415,199701220006,1997,1,22,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64416,199701220007,1997,1,22,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64417,199701220008,1997,1,22,Colombia,South America,Valle del Cauca,Argelia,4.72288,-76.11931,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+64429,199701250005,1997,1,25,Colombia,South America,Meta,Granada,3.54434,-73.70781,,Business,Unknown,Firearms,0,0
+64432,199701260003,1997,1,26,Colombia,South America,Antioquia,Vegachi,6.7746699999999995,-74.799707,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,2,0
+64437,199701270005,1997,1,27,Colombia,South America,Sucre,Guaranda,8.46771,-74.53563,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,1,0
+64438,199701270006,1997,1,27,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Private Citizens & Property,Unknown,Firearms,5,0
+64453,199701280012,1997,1,28,Colombia,South America,Unknown,Vagado,,,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,10,9
+64454,199701280013,1997,1,28,Colombia,South America,Arauca,Arauca,7.08582,-70.75779,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+64460,199701290004,1997,1,29,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,4,40
+64469,199701300008,1997,1,30,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64471,199701310003,1997,1,31,Colombia,South America,Cesar,Agustin Codazzi,10.0355,-73.23725,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+64586,199702070008,1997,2,7,Colombia,South America,Antioquia,Los Catios,7.666672,-76.999989,,Tourists,Revolutionary Armed Forces of Colombia (FARC),Unknown,6,0
+64587,199702070009,1997,2,7,Colombia,South America,Bolivar,Unknown,8.670438,-74.030012,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64632,199702120008,1997,2,12,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+64633,199702120009,1997,2,12,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+64641,199702140005,1997,2,14,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Unknown,Unknown,Firearms,2,0
+64647,199702150006,1997,2,15,Colombia,South America,Antioquia,Medellin district,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Firearms,8,0
+64648,199702150007,1997,2,15,Colombia,South America,Cordoba,Tierralta,8.173611,-76.059167,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,4,0
+64670,199702180006,1997,2,18,Colombia,South America,Magdalena,Santa Rosa de Lima,10.401944,-74.108333,,Private Citizens & Property,Death to Rustlers,Firearms,7,0
+64671,199702180007,1997,2,18,Colombia,South America,Magdalena,Santa Rosa de Lima,10.401944,-74.108333,,Private Citizens & Property,Death to Rustlers,Firearms,7,0
+64672,199702180008,1997,2,18,Colombia,South America,Magdalena,Santa Rosa de Lima,10.401944,-74.108333,,Private Citizens & Property,Death to Rustlers,Firearms,7,0
+64682,199702200004,1997,2,20,Colombia,South America,Sucre,Sincelejo,9.30535,-75.3978,,Journalists & Media,Unknown,Firearms,1,0
+64683,199702200005,1997,2,20,Colombia,South America,Cordoba,Monteria,8.749996000000001,-75.883346,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+64702,199702230007,1997,2,23,Colombia,South America,Caqueta,Unknown,0.869892,-73.84190600000001,,Military,Unknown,Explosives/Bombs/Dynamite,3,25
+64703,199702230008,1997,2,23,Colombia,South America,Magdalena,Unknown,10.411301,-74.405661,,Private Citizens & Property,Unknown,Unknown,5,0
+64704,199702230009,1997,2,23,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Private Citizens & Property,Unknown,Unknown,4,0
+64705,199702230010,1997,2,23,Colombia,South America,Huila,La Plata,2.3889,-75.89255,,Government (General),Unknown,Unknown,1,0
+64714,199702240008,1997,2,24,Colombia,South America,Cauca,Caldono,2.796196,-76.48313399999999,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,5,0
+64735,199702270005,1997,2,27,Colombia,South America,Antioquia,Apartado,7.882318,-76.630626,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,11,60
+64736,199702270006,1997,2,27,Colombia,South America,Cundinamarca,Sibate,4.491366999999999,-74.260486,,Police,Revolutionary Armed Forces of Colombia (FARC),Firearms,5,0
+64738,199702280002,1997,2,28,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Military,Unknown,Firearms,2,1
+64739,199702280003,1997,2,28,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64743,199703010003,1997,3,1,Colombia,South America,Caldas,San Jose,5.0841400000000005,-75.7903,,Private Citizens & Property,Paramilitaries,Firearms,4,0
+64755,199703030009,1997,3,3,Colombia,South America,Casanare,Trinidad,5.40832,-71.6623,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+64771,199703060004,1997,3,6,Colombia,South America,Magdalena,Fundacion district,10.521402,-74.186707,,Private Citizens & Property,Unknown,Firearms,6,0
+64776,199703070005,1997,3,7,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Private Citizens & Property,Unknown,Firearms,1,0
+64777,199703070006,1997,3,7,Colombia,South America,Antioquia,Lomas Aisladas,7.653333,-76.960278,,NGO,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+64778,199703070007,1997,3,7,Colombia,South America,Meta,Villavicencio district,4.151269999999999,-73.63871999999999,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64779,199703070008,1997,3,7,Colombia,South America,Narino,Magui,1.932346,-78.2,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64784,199703080003,1997,3,8,Colombia,South America,Cundinamarca,Gutierrez,4.2548,-74.00245,,Police,Unknown,Unknown,1,4
+64785,199703080004,1997,3,8,Colombia,South America,Cundinamarca,Une,4.403055999999999,-74.025278,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,1
+64787,199703090002,1997,3,9,Colombia,South America,Antioquia,Currulao,7.992210000000001,-76.63719,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,9,6
+64788,199703090003,1997,3,9,Colombia,South America,Antioquia,San Pedros de los Milagros,6.462815,-75.556382,,Private Citizens & Property,Paramilitaries,Firearms,5,0
+64789,199703090004,1997,3,9,Colombia,South America,Arauca,Saravena district,6.952839999999999,-71.87514,,Military,National Liberation Army of Colombia (ELN),Unknown,3,0
+64793,199703100004,1997,3,10,Colombia,South America,Cordoba,Monteria,8.749996000000001,-75.883346,,NGO,Unknown,Explosives/Bombs/Dynamite,0,17
+64840,199703150022,1997,3,15,Colombia,South America,Norte de Santander,Unknown,7.946283,-72.89880699999999,,Police,Unknown,Explosives/Bombs/Dynamite,2,0
+64847,199703160007,1997,3,16,Colombia,South America,Arauca,Saravena,6.952839999999999,-71.87514,,Police,Unknown,Explosives/Bombs/Dynamite,3,7
+64848,199703160008,1997,3,16,Colombia,South America,Arauca,Unknown,6.547306,-71.00223100000001,,Police,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,4,7
+64849,199703160009,1997,3,16,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64861,199703170012,1997,3,17,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Explosives/Bombs/Dynamite,1,4
+64862,199703170013,1997,3,17,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64863,199703170014,1997,3,17,Colombia,South America,Santander,Galan district,6.63797,-73.28621,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+64864,199703170015,1997,3,17,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Police,Unknown,Unknown,0,0
+64872,199703180004,1997,3,18,Colombia,South America,Norte de Santander,Cucuta district,7.894195,-72.503885,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+64873,199703180005,1997,3,18,Colombia,South America,Santander,Sabana de Torres,7.39002,-73.50099,,Government (General),Unknown,Explosives/Bombs/Dynamite,3,15
+64874,199703180006,1997,3,18,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Explosives/Bombs/Dynamite,0,1
+64880,199703190007,1997,3,19,Colombia,South America,Cesar,Aguachica,8.30909,-73.61737099999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64881,199703190008,1997,3,19,Colombia,South America,Cesar,Agustin Codazzi,10.0355,-73.23725,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+64882,199703190009,1997,3,19,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Explosives/Bombs/Dynamite,0,5
+64883,199703190010,1997,3,19,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Explosives/Bombs/Dynamite,0,5
+64884,199703190011,1997,3,19,Colombia,South America,Bolivar,Cartagena,10.413711,-75.533549,,Journalists & Media,Unknown,Melee,1,0
+64885,199703190012,1997,3,19,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+64886,199703190013,1997,3,19,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64887,199703190014,1997,3,19,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+64888,199703190015,1997,3,19,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Unknown,0,0
+64893,199703200075,1997,3,20,Colombia,South America,Cesar,Curumani,9.19974,-73.5433,,Police,Unknown,Explosives/Bombs/Dynamite,0,2
+64894,199703200076,1997,3,20,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Journalists & Media,Unknown,Firearms,1,0
+64935,199703230008,1997,3,23,Colombia,South America,Bolivar,San Pablo,7.48008,-73.92076,,Business,Unknown,Unknown,1,0
+64936,199703230009,1997,3,23,Colombia,South America,Santander,Sabana de Torres,7.39002,-73.50099,,Police,Unknown,Firearms,1,0
+64937,199703230010,1997,3,23,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Military,Unknown,Firearms,2,1
+64943,199703240004,1997,3,24,Colombia,South America,Bolivar,Carmen de Bolivar,9.71809,-75.12097,,Private Citizens & Property,Paramilitaries,Firearms,4,2
+64944,199703240005,1997,3,24,Colombia,South America,Cesar,Unknown,9.337295,-73.653621,,Unknown,National Liberation Army of Colombia (ELN),Unknown,0,0
+64958,199703250016,1997,3,25,Colombia,South America,Huila,Rivera,2.77772,-75.25743,,Business,National Liberation Army of Colombia (ELN),Unknown,1,0
+64979,199703290004,1997,3,29,Colombia,South America,Bolivar,Puerto Coca,8.499327000000001,-74.326487,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,4,0
+64980,199703290005,1997,3,29,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+64993,199703310003,1997,3,31,Colombia,South America,Arauca,Unknown,6.547306,-71.00223100000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65020,199704030007,1997,4,3,Colombia,South America,Valle del Cauca,Tulua,4.085808999999999,-76.197188,,Terrorists/Non-State Militia,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+65021,199704030008,1997,4,3,Colombia,South America,Valle del Cauca,Tulua,4.085808999999999,-76.197188,,Terrorists/Non-State Militia,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+65022,199704030009,1997,4,3,Colombia,South America,Unknown,Unknown,,,,Unknown,Unknown,Unknown,3,0
+65028,199704050003,1997,4,5,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,3
+65046,199704080005,1997,4,8,Colombia,South America,Antioquia,Heliconia,6.20781,-75.73436,,Government (General),Unknown,Firearms,1,0
+65047,199704080006,1997,4,8,Colombia,South America,Unknown,Unknown,,,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+65048,199704080007,1997,4,8,Colombia,South America,Guajira,Unknown,11.354774,-72.520483,,Transportation,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+65079,199704110009,1997,4,11,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65080,199704110010,1997,4,11,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,1
+65087,199704120004,1997,4,12,Colombia,South America,Santander,Bolivar,5.989829,-73.770507,,Airports & Aircraft,Unknown,Unknown,0,0
+65104,199704140004,1997,4,14,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Terrorists/Non-State Militia,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,1,0
+65139,199704190002,1997,4,19,Colombia,South America,Antioquia,Liborina,6.677860000000001,-75.81146,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,5,0
+65153,199704210009,1997,4,21,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Police,Unknown,Unknown,0,4
+65154,199704210010,1997,4,21,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Police,Unknown,Unknown,0,4
+65155,199704210011,1997,4,21,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Police,Unknown,Unknown,0,4
+65156,199704210012,1997,4,21,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65157,199704210013,1997,4,21,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65158,199704210014,1997,4,21,Colombia,South America,Bogota,Bogota district,4.5981,-74.07603,,Military,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+65169,199704230005,1997,4,23,Colombia,South America,Cesar,Curumani,9.19974,-73.5433,,Business,Unknown,Unknown,2,0
+65185,199704260005,1997,4,26,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65196,199704270013,1997,4,27,Colombia,South America,Norte de Santander,Toledo,7.3098600000000005,-72.48288000000001,,Government (General),Peasant Self-Defense Group (ACCU),Firearms,0,1
+65208,199704280007,1997,4,28,Colombia,South America,Arauca,Arauca,7.08582,-70.75779,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,1
+65217,199704290009,1997,4,29,Colombia,South America,Bolivar,Rio Viejo,8.588657000000001,-73.840141,,Private Citizens & Property,Paramilitaries,Melee,1,60
+65234,199705010004,1997,5,1,Colombia,South America,Unknown,Carmen,,,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+65238,199705020004,1997,5,2,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Journalists & Media,Tupac Amaru Revolutionary Movement (MRTA),Unknown,0,0
+65240,199705030002,1997,5,3,Colombia,South America,Norte de Santander,Puerto Santander,8.362910000000001,-72.4081,,Police,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,3
+65241,199705030003,1997,5,3,Colombia,South America,Tolima,Tetuan,3.866737,-75.53343199999999,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,6,0
+65242,199705030004,1997,5,3,Colombia,South America,Magdalena,Cienaga district,11.01079,-74.25161999999999,,Private Citizens & Property,Unknown,Firearms,7,0
+65243,199705030005,1997,5,3,Colombia,South America,Magdalena,Cienaga district,11.01079,-74.25161999999999,,Private Citizens & Property,Unknown,Firearms,7,0
+65273,199705070005,1997,5,7,Colombia,South America,Santander,Barrancabermeja district,7.060051,-73.853115,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+65285,199705100003,1997,5,10,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Melee,4,0
+65290,199705110007,1997,5,11,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Firearms,3,1
+65305,199705140002,1997,5,14,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Business,Unknown,Firearms,0,0
+65310,199705150003,1997,5,15,Colombia,South America,Cesar,Unknown,9.337295,-73.653621,,Military,Unknown,Unknown,3,6
+65311,199705150004,1997,5,15,Colombia,South America,Casanare,Unknown,5.758927,-71.572395,,Business,Unknown,Firearms,1,0
+65320,199705160008,1997,5,16,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Police,Unknown,Explosives/Bombs/Dynamite,0,5
+65321,199705160009,1997,5,16,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Business,Unknown,Incendiary,0,0
+65322,199705160010,1997,5,16,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Business,Unknown,Incendiary,0,0
+65330,199705170006,1997,5,17,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Firearms,0,0
+65334,199705180003,1997,5,18,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Private Citizens & Property,Popular Liberation Army (EPL),Unknown,0,0
+65335,199705180004,1997,5,18,Colombia,South America,Antioquia,Unknown,7.198606,-75.34121800000001,,Transportation,Unknown,Firearms,3,0
+65338,199705190003,1997,5,19,Colombia,South America,Cesar,San Diego district,10.333817999999999,-73.181276,,Private Citizens & Property,Unknown,Unknown,8,0
+65339,199705190004,1997,5,19,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Private Citizens & Property,Unknown,Firearms,3,1
+65345,199705200006,1997,5,20,Colombia,South America,Cordoba,San Pelayo district,8.95778,-75.83766,,Private Citizens & Property,Unknown,Firearms,8,0
+65346,199705200007,1997,5,20,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,NGO,Unknown,Unknown,2,0
+65351,199705210005,1997,5,21,Colombia,South America,Norte de Santander,La Gabarra district,8.998496000000001,-72.897243,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+65352,199705210006,1997,5,21,Colombia,South America,Bolivar,San Estanislao,10.39841,-75.14921,,Government (General),Unknown,Unknown,0,0
+65361,199705250005,1997,5,25,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Firearms,0,2
+65362,199705250006,1997,5,25,Colombia,South America,Risaralda,Guatica,5.315511,-75.800565,,Government (General),Unknown,Firearms,1,0
+65363,199705250007,1997,5,25,Colombia,South America,Huila,Acevedo,1.8048830000000002,-75.89076999999999,,Government (General),Unknown,Unknown,1,0
+65372,199705260005,1997,5,26,Colombia,South America,Magdalena,La Poza,11.278611,-73.871944,,Government (General),Unknown,Unknown,0,0
+65391,199705280013,1997,5,28,Colombia,South America,Bolivar,Cartagena,10.413711,-75.533549,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65392,199705280014,1997,5,28,Colombia,South America,Santander,Puente Sogamoso,7.245533999999999,-73.78455699999999,,Business,National Liberation Army of Colombia (ELN),Incendiary,0,0
+65401,199705290008,1997,5,29,Colombia,South America,Norte de Santander,Aeropuerto de Cucuta,7.927696000000001,-72.50847900000001,,Police,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,1,6
+65407,199705300005,1997,5,30,Colombia,South America,Antioquia,Remedios,7.07786,-74.70355,,Terrorists/Non-State Militia,Paramilitaries,Unknown,4,0
+65408,199705300006,1997,5,30,Colombia,South America,Cesar,La Gloria,8.601686,-73.608184,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65417,199705310008,1997,5,31,Colombia,South America,Antioquia,Bello district,6.34053,-75.56222700000001,,Business,Unknown,Firearms,7,0
+65418,199705310009,1997,5,31,Colombia,South America,Putumayo,Mocoa,1.1466100000000001,-76.64811999999999,,Police,Unknown,Firearms,2,0
+65419,199705310010,1997,5,31,Colombia,South America,Narino,Cumbal,0.9086110000000001,-77.791389,,Government (General),Unknown,Unknown,0,0
+65425,199706010006,1997,6,1,Colombia,South America,Cesar,Unknown,9.337295,-73.653621,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+65426,199706010007,1997,6,1,Colombia,South America,Cundinamarca,La Vega,4.99936,-74.33936,,Government (General),Unknown,Firearms,1,0
+65427,199706010008,1997,6,1,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65428,199706010009,1997,6,1,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65429,199706010010,1997,6,1,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65437,199706020007,1997,6,2,Colombia,South America,Antioquia,Buritica,6.719613000000001,-75.90702900000001,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+65438,199706020008,1997,6,2,Colombia,South America,Antioquia,Uramita,6.898522,-76.17331999999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+65444,199706030005,1997,6,3,Colombia,South America,Boyaca,Cubara district,7.000556,-72.108333,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65445,199706030006,1997,6,3,Colombia,South America,Santander,Sabana de Torres,7.39002,-73.50099,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+65456,199706040011,1997,6,4,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,NGO,Unknown,Explosives/Bombs/Dynamite,0,2
+65469,199706060008,1997,6,6,Colombia,South America,Narino,Barbacoas,1.67155,-78.14099,,Police,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,4,2
+65470,199706060009,1997,6,6,Colombia,South America,Cundinamarca,Anapoima,4.54939,-74.53601,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,4,0
+65485,199706090006,1997,6,9,Colombia,South America,Huila,Vegalarga district,2.94818,-75.04098,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,2
+65486,199706090007,1997,6,9,Colombia,South America,Huila,Vegalarga district,2.94818,-75.04098,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,2
+65502,199706100013,1997,6,10,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Business,Unknown,Firearms,1,0
+65511,199706110005,1997,6,11,Colombia,South America,Antioquia,Unknown,7.198606,-75.34121800000001,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+65523,199706120011,1997,6,12,Colombia,South America,Antioquia,Bello,6.34053,-75.56222700000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,1,0
+65524,199706120012,1997,6,12,Colombia,South America,Arauca,Arauquita district,7.0273449999999995,-71.428555,,Military,Unknown,Firearms,5,0
+65525,199706120013,1997,6,12,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Firearms,6,0
+65558,199706140016,1997,6,14,Colombia,South America,Antioquia,Yali,6.6752,-74.84210999999999,,Government (General),National Liberation Army of Colombia (ELN),Firearms,0,0
+65559,199706140017,1997,6,14,Colombia,South America,Antioquia,Yali,6.6752,-74.84210999999999,,Government (General),National Liberation Army of Colombia (ELN),Firearms,0,0
+65560,199706140018,1997,6,14,Colombia,South America,Casanare,La Feria,4.77837,-73.03359,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Firearms,0,0
+65567,199706150007,1997,6,15,Colombia,South America,Bolivar,San Cristobal district,9.882081,-75.254469,,Business,National Liberation Army of Colombia (ELN),Unknown,0,0
+65615,199706180023,1997,6,18,Colombia,South America,Valle del Cauca,Buenaventura,3.88182,-77.07042,,Government (General),Unknown,Unknown,0,0
+65619,199706190003,1997,6,19,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Police,Unknown,Explosives/Bombs/Dynamite,0,5
+65627,199706210003,1997,6,21,Colombia,South America,Antioquia,Vegachi,6.7746699999999995,-74.799707,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+65628,199706210004,1997,6,21,Colombia,South America,Meta,Granada,3.54434,-73.70781,,Private Citizens & Property,Unknown,Firearms,1,0
+65629,199706210005,1997,6,21,Colombia,South America,Magdalena,Santa Marta,11.242035000000001,-74.205384,,Maritime,Unknown,Firearms,1,0
+65630,199706210006,1997,6,21,Colombia,South America,Cordoba,El Guaimaro,8.838333,-75.479722,,Private Citizens & Property,Unknown,Firearms,2,0
+65631,199706210007,1997,6,21,Colombia,South America,Casanare,Los Laureles,4.83124,-72.30001999999999,,Business,Unknown,Firearms,3,0
+65646,199706220015,1997,6,22,Colombia,South America,Huila,Rivera,2.77772,-75.25743,,Terrorists/Non-State Militia,Unknown,Firearms,1,0
+65647,199706220016,1997,6,22,Colombia,South America,Antioquia,Vegachi,6.7746699999999995,-74.799707,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+65653,199706230006,1997,6,23,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,6
+65662,199706240009,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,12
+65663,199706240010,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,10
+65664,199706240011,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,5
+65665,199706240012,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Unknown,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,1
+65666,199706240013,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+65667,199706240014,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+65668,199706240015,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Incendiary,0,0
+65669,199706240016,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Incendiary,0,0
+65670,199706240017,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Incendiary,0,0
+65671,199706240018,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Incendiary,0,0
+65672,199706240019,1997,6,24,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Transportation,Unknown,Incendiary,0,0
+65673,199706240020,1997,6,24,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65674,199706240021,1997,6,24,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65675,199706240022,1997,6,24,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Private Citizens & Property,Unknown,Firearms,1,0
+65704,199706270006,1997,6,27,Colombia,South America,Magdalena,Cienaga,11.01079,-74.25161999999999,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,0,0
+65718,199706290012,1997,6,29,Colombia,South America,Caqueta,Solano district,0.69905,-75.25520999999999,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,5,17
+65719,199706290013,1997,6,29,Colombia,South America,Meta,Villavicencio,4.151269999999999,-73.63871999999999,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+65727,199706300008,1997,6,30,Colombia,South America,Bolivar,Simiti,7.95603,-73.94496,,Police,National Liberation Army of Colombia (ELN),Unknown,3,2
+65737,199707010012,1997,7,1,Colombia,South America,Caldas,Manizales,5.067866,-75.517482,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65738,199707010013,1997,7,1,Colombia,South America,Risaralda,Unknown,4.992430000000001,-76.01866,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65739,199707010014,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65740,199707010015,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65741,199707010016,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65742,199707010017,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65743,199707010018,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65744,199707010019,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65745,199707010020,1997,7,1,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+65746,199707010021,1997,7,1,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Private Citizens & Property,Unknown,Unknown,1,0
+65747,199707010022,1997,7,1,Colombia,South America,Valle del Cauca,La Union district,4.53581,-76.10659,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,2,0
+65748,199707010023,1997,7,1,Colombia,South America,Valle del Cauca,La Union district,4.53581,-76.10659,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,2,0
+65749,199707010024,1997,7,1,Colombia,South America,Valle del Cauca,La Union district,4.53581,-76.10659,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,2,0
+65760,199707020008,1997,7,2,Colombia,South America,Cesar,Agustin Codazzi,10.0355,-73.23725,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,3,0
+65780,199707040017,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65781,199707040018,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65782,199707040019,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65783,199707040020,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65784,199707040021,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65785,199707040022,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65786,199707040023,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65787,199707040024,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65788,199707040025,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65789,199707040026,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65790,199707040027,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65791,199707040028,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65792,199707040029,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65793,199707040030,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65794,199707040031,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65795,199707040032,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65796,199707040033,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65797,199707040034,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65798,199707040035,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65799,199707040036,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65800,199707040037,1997,7,4,Colombia,South America,Antioquia,Apartado,7.883605,-76.631923,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65801,199707040038,1997,7,4,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65802,199707040039,1997,7,4,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65803,199707040040,1997,7,4,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65804,199707040041,1997,7,4,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65805,199707040042,1997,7,4,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+65806,199707040043,1997,7,4,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Transportation,National Liberation Army of Colombia (ELN),Incendiary,0,0
+65807,199707040044,1997,7,4,Colombia,South America,Santander,Barrancabermeja district,7.060051,-73.853115,,Transportation,National Liberation Army of Colombia (ELN),Incendiary,0,0
+65808,199707040045,1997,7,4,Colombia,South America,Santander,Barrancabermeja district,7.060051,-73.853115,,Transportation,National Liberation Army of Colombia (ELN),Incendiary,0,0
+65824,199707060006,1997,7,6,Colombia,South America,Arauca,Arauquita district,7.0273449999999995,-71.428555,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65825,199707060007,1997,7,6,Colombia,South America,Arauca,Arauquita district,7.0273449999999995,-71.428555,,Government (General),National Liberation Army of Colombia (ELN),Firearms,21,2
+65832,199707070007,1997,7,7,Colombia,South America,Antioquia,Medellin district,6.270526,-75.57217299999999,,Transportation,National Liberation Army of Colombia (ELN),Incendiary,0,0
+65833,199707070008,1997,7,7,Colombia,South America,Bolivar,Barranca Nueva,10.195925,-74.936952,,Religious Figures/Institutions,Unknown,Unknown,0,0
+65848,199707080014,1997,7,8,Colombia,South America,Bolivar,Barranca Nueva,10.195925,-74.936952,,NGO,Unknown,Firearms,3,0
+65849,199707080015,1997,7,8,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Military,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,1,5
+65850,199707080016,1997,7,8,Colombia,South America,Antioquia,Ituango district,7.1720429999999995,-75.763873,,Military,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,1,10
+65851,199707080017,1997,7,8,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Private Citizens & Property,Unknown,Firearms,3,0
+65871,199707100010,1997,7,10,Colombia,South America,Arauca,Arauquita district,7.0273449999999995,-71.428555,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65897,199707130004,1997,7,13,Colombia,South America,Unknown,Unknown,,,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+65904,199707140007,1997,7,14,Colombia,South America,Valle del Cauca,Palmira,3.539832,-76.3854,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+65905,199707140008,1997,7,14,Colombia,South America,Valle del Cauca,Palmira,3.539832,-76.3854,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+65906,199707140009,1997,7,14,Colombia,South America,Valle del Cauca,Palmira,3.539832,-76.3854,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+65917,199707150011,1997,7,15,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Business,Unknown,Firearms,1,0
+65928,199707160009,1997,7,16,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Unknown,Unknown,Firearms,5,0
+65935,199707170007,1997,7,17,Colombia,South America,Antioquia,Rio Negro,6.153669,-75.37416,,Private Citizens & Property,Unknown,Firearms,6,0
+65936,199707170008,1997,7,17,Colombia,South America,Huila,Unknown,2.535935,-75.52767,,Business,Unknown,Firearms,4,0
+65950,199707180014,1997,7,18,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65951,199707180015,1997,7,18,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+65958,199707190007,1997,7,19,Colombia,South America,Choco,Quibdo district,5.69224,-76.65809300000001,,Airports & Aircraft,National Liberation Army of Colombia (ELN),Unknown,0,0
+65959,199707190008,1997,7,19,Colombia,South America,Meta,Mapiripan,2.89206,-72.135729,,Private Citizens & Property,Unknown,Melee,30,0
+65979,199707200019,1997,7,20,Colombia,South America,Santander,Cimitarra,6.313712000000001,-73.95014599999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66014,199707240004,1997,7,24,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,5
+66021,199707250007,1997,7,25,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+66022,199707250008,1997,7,25,Colombia,South America,Antioquia,San Luis,6.0427800000000005,-74.99493000000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,8,0
+66023,199707250009,1997,7,25,Colombia,South America,Antioquia,Entrerios district,6.5673520000000005,-75.51756,,Unknown,Unknown,Firearms,8,0
+66026,199707260005,1997,7,26,Colombia,South America,Cesar,La Paz,10.3879,-73.1698,,Private Citizens & Property,Unknown,Firearms,4,0
+66033,199707270007,1997,7,27,Colombia,South America,Antioquia,Anori,7.073860000000001,-75.14591,,Government (General),Unknown,Explosives/Bombs/Dynamite,11,0
+66036,199707280003,1997,7,28,Colombia,South America,Santander,Badillo,7.973864,-73.853844,,Private Citizens & Property,Unknown,Firearms,3,0
+66043,199707290007,1997,7,29,Colombia,South America,Cesar,Aguas Blancas,10.223569,-73.491557,,Private Citizens & Property,Unknown,Firearms,4,0
+66044,199707290008,1997,7,29,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Firearms,1,0
+66057,199707300014,1997,7,30,Colombia,South America,Norte de Santander,Ocana,8.233419999999999,-73.35331,,Government (General),National Liberation Army of Colombia (ELN),Firearms,3,3
+66063,199707310006,1997,7,31,Colombia,South America,Sucre,Cocorote,9.217508,-75.01058,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+66064,199707310007,1997,7,31,Colombia,South America,Sucre,Sincelejo district,9.30535,-75.3978,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66069,199708010005,1997,8,1,Colombia,South America,Santander,Landazuri,6.21906,-73.81111,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66070,199708010006,1997,8,1,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,0,0
+66075,199708020005,1997,8,2,Colombia,South America,Cesar,Valledupar,10.47692,-73.25049,,Private Citizens & Property,Paramilitaries,Unknown,6,0
+66076,199708020006,1997,8,2,Colombia,South America,Cundinamarca,Gachala,4.69309,-73.52008000000001,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+66077,199708020007,1997,8,2,Colombia,South America,Unknown,Unknown,,,,Business,National Liberation Army of Colombia (ELN),Firearms,0,0
+66078,199708020008,1997,8,2,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Paramilitaries,Unknown,5,0
+66094,199708040008,1997,8,4,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Business,Unknown,Firearms,1,0
+66121,199708060016,1997,8,6,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66122,199708060017,1997,8,6,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66123,199708060018,1997,8,6,Colombia,South America,Antioquia,Canasgordas,6.749510000000001,-76.02458,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Melee,1,0
+66132,199708070009,1997,8,7,Colombia,South America,Antioquia,Rio Negro,6.153669,-75.37416,,Business,Unknown,Explosives/Bombs/Dynamite,0,9
+66142,199708080010,1997,8,8,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),National Liberation Army of Colombia (ELN),Firearms,2,0
+66143,199708080011,1997,8,8,Colombia,South America,Magdalena,Santa Marta,11.242035000000001,-74.205384,,Journalists & Media,Unknown,Unknown,0,0
+66150,199708090006,1997,8,9,Colombia,South America,Unknown,Unknown,,,,Military,National Liberation Army of Colombia (ELN),Unknown,0,7
+66151,199708090007,1997,8,9,Colombia,South America,Unknown,Unknown,,,,Business,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66152,199708090008,1997,8,9,Colombia,South America,Unknown,Unknown,,,,Business,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66159,199708100006,1997,8,10,Colombia,South America,Magdalena,Santa Marta,11.242035000000001,-74.205384,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+66160,199708100007,1997,8,10,Colombia,South America,Risaralda,Pereira,4.814278,-75.694558,,Government (General),Unknown,Firearms,1,0
+66161,199708100008,1997,8,10,Colombia,South America,Atlantico,Sabanalarga,10.63213,-74.92172,,Police,Revolutionary Armed Forces of Colombia (FARC),Firearms,1,0
+66175,199708110014,1997,8,11,Colombia,South America,Arauca,Arauquita,7.0273449999999995,-71.428555,,Business,Revolutionary Armed Forces of Colombia (FARC),Firearms,0,0
+66176,199708110015,1997,8,11,Colombia,South America,Magdalena,El Banco,8.99733,-73.97286,,Business,Unknown,Unknown,0,0
+66177,199708110016,1997,8,11,Colombia,South America,Cundinamarca,Villeta,5.01126,-74.470196,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Firearms,3,0
+66185,199708120006,1997,8,12,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Government (General),Unknown,Firearms,1,0
+66186,199708120007,1997,8,12,Colombia,South America,Cesar,Jagua de Ibirico,9.56049,-73.33269,,Private Citizens & Property,Paramilitaries,Unknown,2,0
+66194,199708130008,1997,8,13,Colombia,South America,Meta,La Cooperativa,3.3883400000000004,-73.59278,,Terrorists/Non-State Militia,Unknown,Unknown,12,0
+66195,199708130009,1997,8,13,Colombia,South America,Antioquia,Uraba,6.828333,-75.513056,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66207,199708140012,1997,8,14,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Unknown,Firearms,2,0
+66208,199708140013,1997,8,14,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Unknown,Firearms,2,0
+66209,199708140014,1997,8,14,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66223,199708150013,1997,8,15,Colombia,South America,Unknown,Concordia,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+66224,199708150014,1997,8,15,Colombia,South America,Antioquia,Remedios,7.07786,-74.70355,,Government (General),National Liberation Army of Colombia (ELN),Incendiary,0,0
+66225,199708150015,1997,8,15,Colombia,South America,Cundinamarca,Bituima,4.871632,-74.539046,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,2
+66226,199708150016,1997,8,15,Colombia,South America,Antioquia,San Carlos district,6.1876,-74.99429,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Firearms,1,0
+66227,199708150017,1997,8,15,Colombia,South America,Bolivar,Simiti,7.95603,-73.94496,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66231,199708160007,1997,8,16,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+66232,199708160008,1997,8,16,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66233,199708160009,1997,8,16,Colombia,South America,Cesar,Valledupar district,10.47692,-73.25049,,Private Citizens & Property,Unknown,Incendiary,4,0
+66237,199708170004,1997,8,17,Colombia,South America,Unknown,Hato Viejo,,,,Unknown,Unknown,Unknown,3,0
+66238,199708170005,1997,8,17,Colombia,South America,Norte de Santander,Abrego,8.083272000000001,-73.22449499999999,,Business,Unknown,Firearms,1,0
+66247,199708180009,1997,8,18,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Business,Unknown,Explosives/Bombs/Dynamite,2,27
+66248,199708180010,1997,8,18,Colombia,South America,Antioquia,Yondo,7.007022,-73.909401,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66253,199708190004,1997,8,19,Colombia,South America,Cauca,Santa Rosa,1.700854,-76.57288199999999,,Government (General),Unknown,Firearms,0,0
+66271,199708200016,1997,8,20,Colombia,South America,Sucre,Sincelejo district,9.30535,-75.3978,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66272,199708200017,1997,8,20,Colombia,South America,Magdalena,Cienaga,11.01079,-74.25161999999999,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+66273,199708200018,1997,8,20,Colombia,South America,Sucre,Guaranda,8.46771,-74.53563,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,0,2
+66274,199708200019,1997,8,20,Colombia,South America,Magdalena,Unknown,10.411301,-74.405661,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66275,199708200020,1997,8,20,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Private Citizens & Property,Unknown,Firearms,2,0
+66276,199708200021,1997,8,20,Colombia,South America,Norte de Santander,Abrego,8.083272000000001,-73.22449499999999,,Private Citizens & Property,Unknown,Firearms,3,0
+66277,199708200022,1997,8,20,Colombia,South America,Norte de Santander,Abrego,8.083272000000001,-73.22449499999999,,Private Citizens & Property,Unknown,Melee,0,0
+66278,199708200023,1997,8,20,Colombia,South America,Santander,Cimitarra,6.313712000000001,-73.95014599999999,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66288,199708210010,1997,8,21,Colombia,South America,Antioquia,Giraldo district,6.680769000000001,-75.953391,,Government (General),Unknown,Firearms,1,0
+66289,199708210011,1997,8,21,Colombia,South America,Casanare,Cupiagua,5.758927,-71.572395,,Police,National Liberation Army of Colombia (ELN),Unknown,1,0
+66297,199708220006,1997,8,22,Colombia,South America,Valle del Cauca,La Union,4.53581,-76.10659,,Transportation,Unknown,Incendiary,0,0
+66309,199708230011,1997,8,23,Colombia,South America,Cauca,Morales,2.756736,-76.62993399999999,,Military,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66310,199708230012,1997,8,23,Colombia,South America,Tolima,La Base,3.50395,-75.98857,,Business,Unknown,Firearms,1,0
+66324,199708240014,1997,8,24,Colombia,South America,Valle del Cauca,La Union district,4.53581,-76.10659,,Police,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,3,0
+66325,199708240015,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66326,199708240016,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66327,199708240017,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66328,199708240018,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66329,199708240019,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66330,199708240020,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66331,199708240021,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66332,199708240022,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66333,199708240023,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66334,199708240024,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66335,199708240025,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66336,199708240026,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66337,199708240027,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66338,199708240028,1997,8,24,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66339,199708240029,1997,8,24,Colombia,South America,Magdalena,Chimila,9.866667,-74.733333,,Private Citizens & Property,Unknown,Firearms,2,0
+66340,199708240030,1997,8,24,Colombia,South America,Magdalena,San Sebastian de Buenavista,9.235878999999999,-74.353031,,Government (General),Unknown,Incendiary,0,0
+66341,199708240031,1997,8,24,Colombia,South America,Antioquia,Urrao,6.31609,-76.13396999999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66342,199708240032,1997,8,24,Colombia,South America,Valle del Cauca,La Union,4.53581,-76.10659,,Police,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,3,4
+66354,199708250010,1997,8,25,Colombia,South America,Cesar,La Gloria,8.601686,-73.608184,,Government (General),Unknown,Firearms,0,0
+66355,199708250011,1997,8,25,Colombia,South America,Santander,Puerto Wilches,7.34824,-73.89707,,Government (General),Unknown,Incendiary,0,0
+66356,199708250012,1997,8,25,Colombia,South America,Cundinamarca,Medina,4.51,-73.349722,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66357,199708250013,1997,8,25,Colombia,South America,Cesar,Curumani,9.19974,-73.5433,,Government (General),Unknown,Firearms,1,0
+66358,199708250014,1997,8,25,Colombia,South America,Antioquia,Yondo,7.007022,-73.909401,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66362,199708260004,1997,8,26,Colombia,South America,Cesar,Becerril,9.70219,-73.27915,,Government (General),Unknown,Firearms,2,0
+66363,199708260005,1997,8,26,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Police,Unknown,Explosives/Bombs/Dynamite,0,0
+66364,199708260006,1997,8,26,Colombia,South America,Norte de Santander,Lourdes,7.94384,-72.83306999999999,,Educational Institution,National Liberation Army of Colombia (ELN),Firearms,1,0
+66369,199708270005,1997,8,27,Colombia,South America,Cesar,Jagua de Ibirico,9.56049,-73.33269,,Government (General),Unknown,Unknown,0,0
+66370,199708270006,1997,8,27,Colombia,South America,Valle del Cauca,El Cerrito district,3.68415,-76.31235,,Police,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,1,1
+66371,199708270007,1997,8,27,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Military,Unknown,Explosives/Bombs/Dynamite,1,3
+66388,199708290004,1997,8,29,Colombia,South America,Tolima,Mariquita,5.197780000000001,-74.89708,,Private Citizens & Property,Unknown,Unknown,0,0
+66406,199708310010,1997,8,31,Colombia,South America,Putumayo,San Miguel,0.342871,-76.90965600000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,24,5
+66407,199708310011,1997,8,31,Colombia,South America,Sucre,Ovejas,9.52358,-75.23069,,Government (General),Unknown,Firearms,1,0
+66408,199708310012,1997,8,31,Colombia,South America,Antioquia,Granada,6.1429,-75.18417,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66409,199708310013,1997,8,31,Colombia,South America,Antioquia,Granada,6.1429,-75.18417,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66410,199708310014,1997,8,31,Colombia,South America,Antioquia,Granada,6.1429,-75.18417,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66411,199708310015,1997,8,31,Colombia,South America,Antioquia,Granada,6.1429,-75.18417,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66415,199709010003,1997,9,1,Colombia,South America,Sucre,Sincelejo,9.30535,-75.3978,,Business,Unknown,Unknown,1,0
+66416,199709010004,1997,9,1,Colombia,South America,Antioquia,Segovia,7.080710000000001,-74.70101,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66417,199709010005,1997,9,1,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66418,199709010006,1997,9,1,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66419,199709010007,1997,9,1,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66420,199709010008,1997,9,1,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,0,0
+66421,199709010009,1997,9,1,Colombia,South America,Unknown,Unknown,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,7,0
+66433,199709030005,1997,9,3,Colombia,South America,Unknown,Puerto Rico,,,,Police,Unknown,Firearms,0,2
+66434,199709030006,1997,9,3,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,0
+66435,199709030007,1997,9,3,Colombia,South America,Antioquia,Guatape,6.23384,-75.1617,,Utilities,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66446,199709050005,1997,9,5,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Unknown,0,0
+66450,199709060006,1997,9,6,Colombia,South America,Sucre,Ovejas district,9.52358,-75.23069,,Private Citizens & Property,Paramilitaries,Firearms,6,0
+66451,199709060007,1997,9,6,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,1,0
+66452,199709060008,1997,9,6,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,1,0
+66453,199709060009,1997,9,6,Colombia,South America,Unknown,Unknown,,,,Government (General),Unknown,Unknown,1,0
+66461,199709070006,1997,9,7,Colombia,South America,Antioquia,Yali,6.6752,-74.84210999999999,,Police,National Liberation Army of Colombia (ELN),Unknown,5,13
+66468,199709080007,1997,9,8,Colombia,South America,Antioquia,Mutata,7.243889,-76.435556,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,4,0
+66469,199709080008,1997,9,8,Colombia,South America,Sucre,Pijiguay,9.611277000000001,-75.248047,,Private Citizens & Property,Unknown,Unknown,6,0
+66470,199709080009,1997,9,8,Colombia,South America,Antioquia,Anori,7.073860000000001,-75.14591,,Utilities,Unknown,Unknown,0,3
+66471,199709080010,1997,9,8,Colombia,South America,Putumayo,Santiago,1.14646,-77.00389,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66472,199709080011,1997,9,8,Colombia,South America,Cesar,La Paz,10.3879,-73.1698,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66473,199709080012,1997,9,8,Colombia,South America,Unknown,El Pegol,,,,Government (General),Unknown,Unknown,2,0
+66474,199709080013,1997,9,8,Colombia,South America,Cesar,Unknown,9.337295,-73.653621,,Government (General),Unknown,Unknown,0,2
+66479,199709090004,1997,9,9,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Unknown,0,1
+66480,199709090005,1997,9,9,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Unknown,0,1
+66481,199709090006,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66482,199709090007,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66483,199709090008,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66484,199709090009,1997,9,9,Colombia,South America,Antioquia,Yali district,6.6752,-74.84210999999999,,Government (General),Unknown,Unknown,0,0
+66485,199709090010,1997,9,9,Colombia,South America,Norte de Santander,Villa del Rosario,7.83372,-72.474228,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66486,199709090011,1997,9,9,Colombia,South America,Norte de Santander,Villa del Rosario,7.83372,-72.474228,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66487,199709090012,1997,9,9,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+66488,199709090013,1997,9,9,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66489,199709090014,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66490,199709090015,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66491,199709090016,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66492,199709090017,1997,9,9,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66493,199709090018,1997,9,9,Colombia,South America,Unknown,Agua Bonita,,,,Government (General),Unknown,Unknown,1,0
+66494,199709090019,1997,9,9,Colombia,South America,Unknown,Cerro La Pita,,,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+66502,199709100008,1997,9,10,Colombia,South America,Narino,Yari,2.083371,-78.616639,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,9,0
+66517,199709110015,1997,9,11,Colombia,South America,Santander,Puerto Wilches,7.34824,-73.89707,,Journalists & Media,National Liberation Army of Colombia (ELN),Unknown,0,0
+66518,199709110016,1997,9,11,Colombia,South America,Boyaca,Pajarito,5.293069999999999,-72.70293000000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,8,0
+66519,199709110017,1997,9,11,Colombia,South America,Antioquia,Yondo,7.007022,-73.909401,,Utilities,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66527,199709120008,1997,9,12,Colombia,South America,Narino,Unknown,1.6378979999999999,-77.74520799999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66528,199709120009,1997,9,12,Colombia,South America,Antioquia,La Vareda La Linda,6.97125,-75.69981999999999,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,1,0
+66546,199709140011,1997,9,14,Colombia,South America,Norte de Santander,Cucuta district,7.894195,-72.503885,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+66547,199709140012,1997,9,14,Colombia,South America,La Guajira,Unknown,11.354774,-72.520483,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66553,199709150006,1997,9,15,Colombia,South America,Unknown,El Vergel,,,,Government (General),Unknown,Firearms,1,0
+66554,199709150007,1997,9,15,Colombia,South America,Cundinamarca,Paratebueno,4.375212,-73.211334,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,6
+66555,199709150008,1997,9,15,Colombia,South America,Meta,San Juan de Arama,3.372457,-73.873772,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66562,199709160006,1997,9,16,Colombia,South America,Huila,Unknown,2.535935,-75.52767,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Firearms,0,1
+66563,199709160007,1997,9,16,Colombia,South America,Bolivar,Cantagallo,7.377136,-73.914562,,Government (General),Unknown,Incendiary,0,0
+66564,199709160008,1997,9,16,Colombia,South America,Cundinamarca,Alban,4.877025,-74.437413,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,3,0
+66565,199709160009,1997,9,16,Colombia,South America,Santander,Bucaramanga,7.131202,-73.124973,,Business,Unknown,Firearms,0,0
+66569,199709170006,1997,9,17,Colombia,South America,Bolivar,El Carmen de Bolivar,9.71809,-75.12097,,Private Citizens & Property,Unknown,Firearms,9,0
+66580,199709190005,1997,9,19,Colombia,South America,Magdalena,Unknown,10.411301,-74.405661,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+66581,199709190006,1997,9,19,Colombia,South America,Cesar,Agustin Codazzi,10.0355,-73.23725,,Government (General),Unknown,Firearms,1,0
+66595,199709200012,1997,9,20,Colombia,South America,Antioquia,Caracoli,6.410819999999999,-74.75641,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66596,199709200013,1997,9,20,Colombia,South America,Antioquia,San Rafael,6.295346,-75.02828199999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+66597,199709200014,1997,9,20,Colombia,South America,Cundinamarca,Guaduas,5.0694,-74.598061,,Business,Unknown,Unknown,0,0
+66598,199709200015,1997,9,20,Colombia,South America,Cesar,Pelaya,8.69053,-73.66254,,Government (General),Unknown,Firearms,1,0
+66602,199709210004,1997,9,21,Colombia,South America,Antioquia,Unknown,7.198606,-75.34121800000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66606,199709220004,1997,9,22,Colombia,South America,Caqueta,Unknown,0.869892,-73.84190600000001,,Military,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,3,0
+66607,199709220005,1997,9,22,Colombia,South America,Arauca,Unknown,6.547306,-71.00223100000001,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+66608,199709220006,1997,9,22,Colombia,South America,Huila,Gigante,2.38855,-75.546796,,Government (General),Unknown,Firearms,0,0
+66609,199709220007,1997,9,22,Colombia,South America,Magdalena,Cienaga district,11.01079,-74.25161999999999,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+66616,199709230005,1997,9,23,Colombia,South America,Cauca,Suarez,2.9525799999999998,-76.69296999999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66624,199709240009,1997,9,24,Colombia,South America,Antioquia,Castillo,6.011997,-75.68771600000001,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,4,0
+66625,199709240010,1997,9,24,Colombia,South America,Meta,Uribe,3.24114,-74.35539,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,2,13
+66626,199709240011,1997,9,24,Colombia,South America,Risaralda,Cerritos district,4.809979,-75.84903800000001,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+66627,199709240012,1997,9,24,Colombia,South America,Cesar,Mariangola,10.182574,-73.585913,,Business,Unknown,Firearms,4,0
+66628,199709240013,1997,9,24,Colombia,South America,Antioquia,Rio Chado,7.46778,-76.64501,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66629,199709240014,1997,9,24,Colombia,South America,Antioquia,Rio Chado,7.46778,-76.64501,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,1
+66630,199709240015,1997,9,24,Colombia,South America,Unknown,El Parador del Cuslana,,,,Utilities,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66652,199709280003,1997,9,28,Colombia,South America,Cauca,Popayan,2.4418599999999997,-76.60616999999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66660,199709290007,1997,9,29,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Private Citizens & Property,Unknown,Firearms,1,0
+66661,199709290008,1997,9,29,Colombia,South America,La Guajira,Villanueva district,10.60485,-72.97948000000001,,Government (General),Unknown,Unknown,0,0
+66667,199709300005,1997,9,30,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66668,199709300006,1997,9,30,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66669,199709300007,1997,9,30,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66670,199709300008,1997,9,30,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Government (General),National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66688,199710020010,1997,10,2,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Firearms,0,1
+66694,199710030005,1997,10,3,Colombia,South America,Antioquia,Remedios district,7.07786,-74.70355,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+66695,199710030006,1997,10,3,Colombia,South America,Meta,San Carlos de Guaroa district,3.712307,-73.243625,,Government (General),Commander Luciano Varela Antiguerrilla Group,Explosives/Bombs/Dynamite,11,0
+66696,199710030007,1997,10,3,Colombia,South America,Antioquia,Ituango,7.1720429999999995,-75.763873,,Unknown,Paramilitaries,Unknown,15,0
+66705,199710040009,1997,10,4,Colombia,South America,Meta,San Juan de Arama district,3.372457,-73.873772,,Police,Revolutionary Armed Forces of Colombia (FARC),Firearms,17,0
+66706,199710040010,1997,10,4,Colombia,South America,Unknown,Arboleda,,,,Police,National Liberation Army of Colombia (ELN),Firearms,1,1
+66725,199710070002,1997,10,7,Colombia,South America,Antioquia,San Jose de Apartado,7.859939999999999,-76.59052700000001,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,3,0
+66733,199710080006,1997,10,8,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66734,199710080007,1997,10,8,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66735,199710080008,1997,10,8,Colombia,South America,Narino,Leiva,1.93514,-77.30609,,Police,Revolutionary Armed Forces of Colombia (FARC),Firearms,1,3
+66736,199710080009,1997,10,8,Colombia,South America,Antioquia,San Antonio del Prado,6.184685,-75.65658,,Police,Unknown,Explosives/Bombs/Dynamite,1,3
+66737,199710080010,1997,10,8,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66738,199710080011,1997,10,8,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66743,199710090004,1997,10,9,Colombia,South America,Cesar,Unknown,9.337295,-73.653621,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+66749,199710100006,1997,10,10,Colombia,South America,Unknown,Puerto Rico,,,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,6,5
+66755,199710110006,1997,10,11,Colombia,South America,Bolivar,Cartagena,10.413711,-75.533549,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+66756,199710110007,1997,10,11,Colombia,South America,Antioquia,Bagre,7.592110000000001,-74.80908000000001,,Government (General),National Liberation Army of Colombia (ELN),Firearms,1,0
+66757,199710110008,1997,10,11,Colombia,South America,Antioquia,Zaragoza,7.491752,-74.868183,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66758,199710110009,1997,10,11,Colombia,South America,Santander,Floridablanca,7.062532000000001,-73.085812,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+66759,199710110010,1997,10,11,Colombia,South America,Arauca,Banadia,6.938895,-71.810087,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66760,199710110011,1997,10,11,Colombia,South America,Narino,Unknown,1.6378979999999999,-77.74520799999999,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Firearms,5,0
+66781,199710140005,1997,10,14,Colombia,South America,Unknown,Las Penas,,,,Business,National Liberation Army of Colombia (ELN),Unknown,3,0
+66791,199710160004,1997,10,16,Colombia,South America,Antioquia,Caicedo,6.405198,-75.982694,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,14,5
+66796,199710170005,1997,10,17,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,0,2
+66797,199710170006,1997,10,17,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Journalists & Media,Unknown,Explosives/Bombs/Dynamite,1,0
+66798,199710170007,1997,10,17,Colombia,South America,La Guajira,Unknown,11.354774,-72.520483,,Business,National Liberation Army of Colombia (ELN),Incendiary,0,0
+66799,199710170008,1997,10,17,Colombia,South America,Antioquia,Unknown,7.198606,-75.34121800000001,,Transportation,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+66800,199710170009,1997,10,17,Colombia,South America,Antioquia,Remedios,7.07786,-74.70355,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66838,199710190006,1997,10,19,Colombia,South America,Arauca,Saravena,6.952839999999999,-71.87514,,Government (General),Unknown,Firearms,1,0
+66839,199710190007,1997,10,19,Colombia,South America,Valle del Cauca,Yumbo,3.5837480000000004,-76.495727,,Government (General),Unknown,Firearms,0,1
+66840,199710190008,1997,10,19,Colombia,South America,Cauca,Balboa,2.03955,-77.21701999999999,,Private Citizens & Property,Unknown,Unknown,0,0
+66841,199710190009,1997,10,19,Colombia,South America,Meta,Unknown,3.27199,-73.087749,,Police,Revolutionary Armed Forces of Colombia (FARC),Firearms,2,0
+66873,199710220004,1997,10,22,Colombia,South America,Norte de Santander,Cucuta,7.894195,-72.503885,,Business,Unknown,Firearms,5,0
+66874,199710220005,1997,10,22,Colombia,South America,Risaralda,Mistrato,5.295869000000001,-75.882595,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Firearms,3,0
+66875,199710220006,1997,10,22,Colombia,South America,Unknown,Puerto Rico,,,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66876,199710220007,1997,10,22,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66877,199710220008,1997,10,22,Colombia,South America,Atlantico,Barranquilla,10.981411999999999,-74.778319,,Business,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+66878,199710220009,1997,10,22,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66879,199710220010,1997,10,22,Colombia,South America,Caqueta,Florencia,1.61456,-75.6053,,Military,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+66884,199710230005,1997,10,23,Colombia,South America,Norte de Santander,Abrego,8.083272000000001,-73.22449499999999,,Business,Unknown,Firearms,1,0
+66885,199710230006,1997,10,23,Colombia,South America,Meta,Granada,3.54434,-73.70781,,Government (Diplomatic),National Liberation Army of Colombia (ELN),Unknown,0,0
+66890,199710240006,1997,10,24,Colombia,South America,Meta,Uribe,3.24114,-74.35539,,Government (General),Unknown,Unknown,0,0
+66891,199710240007,1997,10,24,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Government (General),Unknown,Incendiary,0,0
+66892,199710240008,1997,10,24,Colombia,South America,Vaupes,Mitu,1.25525,-70.23339,,Airports & Aircraft,Unknown,Unknown,0,0
+66893,199710240037,1997,10,24,Colombia,South America,Narino,Pasto,1.2077870000000002,-77.2772,,Journalists & Media,Unknown,Melee,1,0
+66900,199710250007,1997,10,25,Colombia,South America,Meta,Unknown,3.27199,-73.087749,,Religious Figures/Institutions,Unknown,Unknown,0,0
+66901,199710250008,1997,10,25,Colombia,South America,Meta,Unknown,3.27199,-73.087749,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66902,199710250009,1997,10,25,Colombia,South America,Antioquia,Valdivia,7.29117,-75.39215,,Unknown,Paramilitaries,Unknown,8,0
+66924,199710280006,1997,10,28,Colombia,South America,Arauca,Unknown,6.547306,-71.00223100000001,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Unknown,0,0
+66935,199710290010,1997,10,29,Colombia,South America,Caqueta,San Jose del Fragua,1.3325,-75.97608000000001,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+66936,199710290011,1997,10,29,Colombia,South America,Norte de Santander,La Gabarra,8.998496000000001,-72.897243,,Police,National Liberation Army of Colombia (ELN),Unknown,1,1
+66941,199710300005,1997,10,30,Colombia,South America,Antioquia,Puerto Valdivia district,7.287778,-75.394444,,Private Citizens & Property,Paramilitaries,Unknown,12,0
+66956,199711010007,1997,11,1,Colombia,South America,Cordoba,San Andres de Sotavento,9.14513,-75.50938000000001,,Private Citizens & Property,Unknown,Unknown,1,0
+66957,199711010008,1997,11,1,Colombia,South America,Norte de Santander,Convencion district,8.833350999999999,-73.20003100000001,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+66962,199711020005,1997,11,2,Colombia,South America,Valle del Cauca,Cali,3.420628,-76.52211899999999,,Business,Unknown,Firearms,2,3
+66963,199711020006,1997,11,2,Colombia,South America,Cauca,Popayan,2.4418599999999997,-76.60616999999999,,Business,Unknown,Firearms,2,4
+66972,199711050005,1997,11,5,Colombia,South America,Unknown,Puerto Rico,,,,Military,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,2
+66973,199711050006,1997,11,5,Colombia,South America,Putumayo,Unknown,0.43595100000000003,-75.52767,,Business,Revolutionary Armed Forces of Colombia (FARC),Incendiary,0,0
+66986,199711060014,1997,11,6,Colombia,South America,Bolivar,San Jacinto,9.82916,-75.12191999999999,,Government (General),Unknown,Firearms,1,0
+66987,199711060015,1997,11,6,Colombia,South America,Cesar,Agustin Codazzi,10.0355,-73.23725,,Private Citizens & Property,Unknown,Unknown,4,0
+66994,199711070006,1997,11,7,Colombia,South America,Valle del Cauca,Unknown,3.8008889999999997,-76.641271,,Business,Jaime Bateman Cayon Group (JBC),Unknown,0,0
+67003,199711080009,1997,11,8,Colombia,South America,Sucre,Majagual,8.540111999999999,-74.63038399999999,,Journalists & Media,Unknown,Firearms,1,0
+67010,199711100001,1997,11,10,Colombia,South America,Cundinamarca,Villeta district,5.01126,-74.470196,,Business,Revolutionary Armed Forces of Colombia (FARC),Firearms,0,0
+67017,199711110007,1997,11,11,Colombia,South America,Antioquia,Sonson district,5.70905,-75.31102,,Business,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+67018,199711110008,1997,11,11,Colombia,South America,Magdalena,Unknown,10.411301,-74.405661,,Private Citizens & Property,Unknown,Firearms,4,0
+67019,199711110009,1997,11,11,Colombia,South America,Antioquia,Unknown,6.2675,-75.568611,,Private Citizens & Property,National Liberation Army of Colombia (ELN),Firearms,2,0
+67041,199711140006,1997,11,14,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,1,15
+67042,199711140007,1997,11,14,Colombia,South America,Antioquia,Anza,6.30484,-75.88064200000001,,Government (General),Unknown,Firearms,1,0
+67043,199711140008,1997,11,14,Colombia,South America,Antioquia,Currulao,7.992210000000001,-76.63719,,Business,Revolutionary Armed Forces of Colombia (FARC),Incendiary,2,0
+67047,199711150003,1997,11,15,Colombia,South America,Meta,Uribe district,3.24114,-74.35539,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,7,0
+67048,199711150004,1997,11,15,Colombia,South America,Santander,Badillo,7.973864,-73.853844,,Private Citizens & Property,Paramilitaries,Firearms,4,0
+67058,199711160008,1997,11,16,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Private Citizens & Property,Unknown,Firearms,1,0
+67066,199711170007,1997,11,17,Colombia,South America,Antioquia,Anza,6.30484,-75.88064200000001,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+67067,199711170008,1997,11,17,Colombia,South America,Cesar,Unknown,8.343891000000001,-73.597043,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+67068,199711170009,1997,11,17,Colombia,South America,Cesar,Unknown,8.343891000000001,-73.597043,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+67069,199711170010,1997,11,17,Colombia,South America,Cesar,Unknown,8.343891000000001,-73.597043,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+67077,199711180004,1997,11,18,Colombia,South America,Quindio,Calarca,4.5295,-75.64021,,Police,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,1,3
+67078,199711180005,1997,11,18,Colombia,South America,Antioquia,Apartado,7.882318,-76.630626,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+67079,199711180006,1997,11,18,Colombia,South America,Unknown,Unknown,,,,Government (General),Left-Wing Guerrillas,Unknown,6,1
+67080,199711180007,1997,11,18,Colombia,South America,Unknown,Unknown,,,,Government (General),Left-Wing Guerrillas,Unknown,6,1
+67081,199711180008,1997,11,18,Colombia,South America,Cauca,Totoro,2.51379,-76.38945,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,4,11
+67082,199711180009,1997,11,18,Colombia,South America,Norte de Santander,Villa del Rosario,7.83372,-72.474228,,Business,Unknown,Firearms,0,0
+67086,199711190005,1997,11,19,Colombia,South America,Antioquia,Apartado,7.882318,-76.630626,,Business,Revolutionary Armed Forces of Colombia (FARC),Melee,3,0
+67087,199711190006,1997,11,19,Colombia,South America,Cauca,Totoro,2.51379,-76.38945,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,4,11
+67104,199711200016,1997,11,20,Colombia,South America,Choco,Bojaya,6.521111,-76.972222,,Government (General),National Liberation Army of Colombia (ELN),Firearms,1,0
+67105,199711200017,1997,11,20,Colombia,South America,Santander,Unknown,6.643708,-73.653621,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+67110,199711210004,1997,11,21,Colombia,South America,Meta,La Horqueta,3.1,-72.833333,,Private Citizens & Property,Paramilitaries,Unknown,14,0
+67123,199711230008,1997,11,23,Colombia,South America,Antioquia,Urrao district,6.31609,-76.13396999999999,,Transportation,Paramilitaries,Firearms,7,0
+67129,199711250004,1997,11,25,Colombia,South America,Norte de Santander,Tibu,8.63781,-72.73464,,Religious Figures/Institutions,National Liberation Army of Colombia (ELN),Unknown,0,0
+67130,199711250005,1997,11,25,Colombia,South America,Unknown,Concordia,,,,Unknown,Paramilitaries,Unknown,4,0
+67132,199711260002,1997,11,26,Colombia,South America,Antioquia,Dabeiba,7.00063,-76.26572,,Private Citizens & Property,Paramilitaries,Firearms,14,0
+67136,199711270004,1997,11,27,Colombia,South America,Norte de Santander,Tibu,8.63781,-72.73464,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+67142,199711280006,1997,11,28,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,0
+67143,199711280007,1997,11,28,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Business,Unknown,Explosives/Bombs/Dynamite,0,1
+67144,199711280008,1997,11,28,Colombia,South America,Bolivar,Cartagena,10.413711,-75.533549,,Military,Unknown,Explosives/Bombs/Dynamite,0,3
+67145,199711280009,1997,11,28,Colombia,South America,Huila,Pitalito district,1.8519880000000002,-76.046976,,Private Citizens & Property,Unknown,Firearms,7,0
+67146,199711280010,1997,11,28,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Firearms,4,2
+67147,199711280011,1997,11,28,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Private Citizens & Property,Unknown,Firearms,4,2
+67148,199711280012,1997,11,28,Colombia,South America,Magdalena,Unknown,10.411301,-74.405661,,Private Citizens & Property,Paramilitaries,Firearms,7,0
+67164,199711300008,1997,11,30,Colombia,South America,Norte de Santander,Tibu,8.63781,-72.73464,,Government (General),National Liberation Army of Colombia (ELN),Unknown,0,0
+67165,199711300009,1997,11,30,Colombia,South America,Huila,Pitalito,1.8519880000000002,-76.046976,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Melee,1,0
+67192,199712020014,1997,12,2,Colombia,South America,Bolivar,San Jacinto district,9.82916,-75.12191999999999,,Military,Revolutionary Armed Forces of Colombia (FARC),Unknown,3,6
+67193,199712020015,1997,12,2,Colombia,South America,Putumayo,La Hormiga,0.42528999999999995,-76.90507,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+67194,199712020016,1997,12,2,Colombia,South America,Putumayo,La Hormiga,0.42528999999999995,-76.90507,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+67195,199712020017,1997,12,2,Colombia,South America,Cesar,La Paz,10.3879,-73.1698,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,2,0
+67196,199712020018,1997,12,2,Colombia,South America,Bolivar,San Juan Nepomuceno district,9.951201,-75.07945699999999,,Military,Revolutionary Armed Forces of Colombia (FARC),Firearms,5,0
+67199,199712030003,1997,12,3,Colombia,South America,Antioquia,Medellin,6.270526,-75.57217299999999,,Government (General),Unknown,Explosives/Bombs/Dynamite,0,0
+67200,199712030004,1997,12,3,Colombia,South America,Cesar,Jagua de Ibirico,9.56049,-73.33269,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,3,0
+67201,199712030005,1997,12,3,Colombia,South America,Cesar,Casacara,9.83053,-73.26216,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,3,0
+67206,199712040005,1997,12,4,Colombia,South America,Bolivar,Cerro Burgos,7.976389,-73.900278,,Maritime,Paramilitaries,Unknown,2,0
+67207,199712040006,1997,12,4,Colombia,South America,Bogota,Bogota,4.5981,-74.07603,,Government (General),Jaime Bateman Cayon Group (JBC),Unknown,0,0
+67228,199712060009,1997,12,6,Colombia,South America,Antioquia,Peque,7.021039999999999,-75.90933000000001,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Unknown,0,0
+67235,199712070006,1997,12,7,Colombia,South America,Unknown,Puerto Rico,,,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+67239,199712080004,1997,12,8,Colombia,South America,Meta,Villavicencio,4.151269999999999,-73.63871999999999,,Religious Figures/Institutions,Unknown,Firearms,1,0
+67256,199712090018,1997,12,9,Colombia,South America,Antioquia,Peque,7.021039999999999,-75.90933000000001,,Transportation,Peasant Self-Defense Group (ACCU),Unknown,0,0
+67265,199712100006,1997,12,10,Colombia,South America,Cauca,Guachene,3.13256,-76.39211,,Military,Revolutionary Armed Forces of Colombia (FARC),Firearms,2,4
+67272,199712110003,1997,12,11,Colombia,South America,Antioquia,Rio Negro district,6.153669,-75.37416,,Government (General),Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+67280,199712120008,1997,12,12,Colombia,South America,Cesar,Curumani district,9.19974,-73.5433,,Private Citizens & Property,Unknown,Unknown,0,0
+67281,199712120009,1997,12,12,Colombia,South America,Cesar,Aguachica,8.30909,-73.61737099999999,,Government (General),Unknown,Firearms,0,0
+67285,199712130004,1997,12,13,Colombia,South America,Antioquia,Unknown,7.198606,-75.34121800000001,,Journalists & Media,Revolutionary Armed Forces of Colombia (FARC),Unknown,0,0
+67289,199712140005,1997,12,14,Colombia,South America,Arauca,Saravena district,6.952839999999999,-71.87514,,Utilities,Unknown,Explosives/Bombs/Dynamite,0,0
+67301,199712160004,1997,12,16,Colombia,South America,Cundinamarca,Siberia,4.712975,-73.947004,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Unknown,1,0
+67302,199712160005,1997,12,16,Colombia,South America,Meta,Mesetas,3.3846300000000005,-74.04335,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Explosives/Bombs/Dynamite,0,0
+67307,199712170005,1997,12,17,Colombia,South America,Arauca,Unknown,6.547306,-71.00223100000001,,Airports & Aircraft,Unknown,Firearms,1,1
+67308,199712170006,1997,12,17,Colombia,South America,Casanare,Unknown,5.758927,-71.572395,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,1,0
+67309,199712170007,1997,12,17,Colombia,South America,Casanare,Unknown,5.758927,-71.572395,,Private Citizens & Property,Revolutionary Armed Forces of Colombia (FARC),Firearms,1,0
+67310,199712170008,1997,12,17,Colombia,South America,Arauca,Arauquita district,7.0273449999999995,-71.428555,,Utilities,National Liberation Army of Colombia (ELN),Explosives/Bombs/Dynamite,0,0
+67311,199712170009,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67312,199712170010,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67313,199712170011,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67314,199712170012,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67315,199712170013,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67316,199712170014,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67317,199712170015,1997,12,17,Colombia,South America,Antioquia,Pavarando,7.276111,-76.56222199999999,,Private Citizens & Property,Peasant Self-Defense Group (ACCU),Firearms,40,0
+67332,199712190007,1997,12,19,Colombia,South America,Norte de Santander,San Calixto,8.40255,-73.20768000000001,,Private Citizens & Property,Popular Liberation Army (EPL),Unknown,1,0
+67333,199712190008,1997,12,19,Colombia,South America,Meta,Puerto Lleras,3.2694,-73.37616,,Terrorists/Non-State Militia,Paramilitaries,Unknown,0,0
+67345,199712210010,1997,12,21,Colombia,South America,Antioquia,Angostura,6.885714,-75.335003,,Government (General),Unknown,Firearms,1,4
+67346,199712210011,1997,12,21,Colombia,South America,Caldas,Morritos,5.26056,-75.57197,,Police,Unknown,Explosives/Bombs/Dynamite,0,5
+67356,199712220009,1997,12,22,Colombia,South America,Norte de Santander,Palmarito,8.313611,-72.485833,,Government (General),National Liberation Army of Colombia (ELN),Firearms,0,0
+67357,199712220010,1997,12,22,Colombia,South America,Sucre,Majagual,8.540111999999999,-74.63038399999999,,Government (General),People's Revolutionary Army (ERP),Unknown,0,0
+67358,199712220011,1997,12,22,Colombia,South America,Cesar,Aguachica,8.30909,-73.61737099999999,,Police,National Liberation Army of Colombia (ELN),Firearms,3,3
+67379,199712260005,1997,12,26,Colombia,South America,Valle del Cauca,Palmira,3.529901,-76.298006,,Government (General),Unknown,Firearms,1,0
+67403,199712280012,1997,12,28,Colombia,South America,Huila,Unknown,2.535935,-75.52767,,Police,Revolutionary Armed Forces of Colombia (FARC),Unknown,2,0
+67416,199712290011,1997,12,29,Colombia,South America,Valle del Cauca,Florida district,3.322222,-76.23472199999999,,Private Citizens & Property,Paramilitaries,Unknown,6,0
+67417,199712290012,1997,12,29,Colombia,South America,Santander,Barrancabermeja,7.060051,-73.853115,,Business,Paramilitaries,Explosives/Bombs/Dynamite,0,7
+67418,199712290013,1997,12,29,Colombia,South America,Norte de Santander,Unknown,7.946283,-72.89880699999999,,Military,Unknown,Unknown,1,0
+67419,199712290014,1997,12,29,Colombia,South America,Caqueta,Unknown,0.869892,-73.84190600000001,,Government (General),Unknown,Unknown,1,0
+67426,199712300006,1997,12,30,Colombia,South America,Valle del Cauca,Cali,3.4252190000000002,-76.510584,,Business,Unknown,Explosives/Bombs/Dynamite,0,0

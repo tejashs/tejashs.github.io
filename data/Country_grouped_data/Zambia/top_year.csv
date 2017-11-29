@@ -1,0 +1,19 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+36902,198901240005,1989,1,24,Zambia,Sub-Saharan Africa,Lusaka,lusaka,-15.415393,28.284353999999997,,Transportation,Unknown,Explosives/Bombs/Dynamite,1,0
+36967,198901290004,1989,1,29,Zambia,Sub-Saharan Africa,Southern,Livingston,-17.838701,25.854567000000003,,Business,Unknown,Explosives/Bombs/Dynamite,1,0
+36968,198901290006,1989,1,29,Zambia,Sub-Saharan Africa,Southern,Livingston,-17.838701,25.854567000000003,,Business,Unknown,Explosives/Bombs/Dynamite,1,1
+37199,198902170025,1989,2,17,Zambia,Sub-Saharan Africa,Southern,Chikarawa district,-16.035556,28.239444,,Government (General),Mozambique National Resistance Movement (MNR),Firearms,1,1
+37875,198904150002,1989,4,15,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Government (General),African National Congress (South Africa),Firearms,2,0
+37995,198904250005,1989,4,25,Zambia,Sub-Saharan Africa,Lusaka,lusaka,-15.415393,28.284353999999997,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+38200,198905140009,1989,5,14,Zambia,Sub-Saharan Africa,Eastern,Petauke,-14.241182,31.319751,,Private Citizens & Property,Mozambique National Resistance Movement (MNR),Firearms,4,0
+38235,198905170001,1989,5,17,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Private Citizens & Property,African National Congress (South Africa),Firearms,1,0
+38334,198905260003,1989,5,26,Zambia,Sub-Saharan Africa,Eastern,Vubwe district,-14.006110999999999,32.9025,,Private Citizens & Property,Mozambique National Resistance Movement (MNR),Firearms,5,0
+38434,198906040007,1989,6,4,Zambia,Sub-Saharan Africa,Western,Mushawa,-15.466667000000001,23.133333,,Private Citizens & Property,Mozambique National Resistance Movement (MNR),Firearms,1,0
+38441,198906050005,1989,6,5,Zambia,Sub-Saharan Africa,Eastern,Katakwe,-14.433333,31.4,,Private Citizens & Property,Mozambique National Resistance Movement (MNR),Firearms,8,0
+38551,198906190003,1989,6,19,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,0
+38552,198906190004,1989,6,19,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,1,0
+38553,198906190005,1989,6,19,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Business,Unknown,Explosives/Bombs/Dynamite,0,1
+38585,198906220003,1989,6,22,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,3
+38766,198907120005,1989,7,12,Zambia,Sub-Saharan Africa,Eastern,Maputo,-12.840278,32.139444,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+38986,198907310003,1989,7,31,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Violent Political Party,Unknown,Explosives/Bombs/Dynamite,0,0
+40073,198910130004,1989,10,13,Zambia,Sub-Saharan Africa,Lusaka,Lusaka,-15.415393,28.284353999999997,,Government (General),Unknown,Incendiary,7,5

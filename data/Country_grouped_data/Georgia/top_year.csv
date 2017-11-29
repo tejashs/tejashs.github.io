@@ -1,0 +1,40 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+50179,199202200007,1992,2,20,Georgia,Central Asia,,Senaki,42.268768,42.061797999999996,,Military,Unknown,Firearms,3,0
+50188,199202210006,1992,2,21,Georgia,Central Asia,Abkhazia,Unknown,42.973782,41.44218,,Transportation,Supporters of Ex-President Gamsakhurdial,Explosives/Bombs/Dynamite,0,0
+50205,199202230002,1992,2,23,Georgia,Central Asia,Abkhazia,Unknown,42.973782,41.44218,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+50219,199202240007,1992,2,24,Georgia,Central Asia,Abkhazia,Unknown,42.973782,41.44218,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+50349,199203070007,1992,3,7,Georgia,Central Asia,,Zugdidi,42.502066,41.861007,,Government (General),Supporters of Ex-President Gamsakhurdial,Explosives/Bombs/Dynamite,0,0
+50350,199203070008,1992,3,7,Georgia,Central Asia,,Poti,42.141944,41.676389,,Government (General),Supporters of Ex-President Gamsakhurdial,Incendiary,0,0
+50366,199203090005,1992,3,9,Georgia,Central Asia,,Zugdidi,42.502066,41.861007,,Government (General),Unknown,Explosives/Bombs/Dynamite,3,0
+50384,199203100013,1992,3,10,Georgia,Central Asia,,Rustavi,41.541278999999996,45.027699,,Police,Azerbaijan Weapons Smugglers,Firearms,0,0
+50435,199203130001,1992,3,13,Georgia,Central Asia,,Zugdidi,42.502066,41.861007,,Military,Supporters of Ex-President Gamsakhurdial,Incendiary,3,0
+50445,199203130011,1992,3,13,Georgia,Central Asia,,Zugdidi,42.502066,41.861007,,Military,Supporters of Ex-President Gamsakhurdial,Firearms,0,0
+51457,199205200013,1992,5,20,Georgia,Central Asia,,Tskhinvali,42.224159,43.9632,,Transportation,Georgian Militants,Firearms,30,0
+51735,199206130001,1992,6,13,Georgia,Central Asia,,Tbilisi,41.709981,44.792998,,Government (General),Unknown,Explosives/Bombs/Dynamite,3,1
+51773,199206170001,1992,6,17,Georgia,Central Asia,,Tbilisi,41.709981,44.792998,,Terrorists/Non-State Militia,Unknown,Explosives/Bombs/Dynamite,1,0
+51860,199206240009,1992,6,24,Georgia,Central Asia,,tbilisi,41.709981,44.792998,,Telecommunication,Rebels backing deposed Pres. Zviad Gamsakhurdia,Firearms,0,0
+51973,199207060006,1992,7,6,Georgia,Central Asia,,Shamgona,42.526178,41.786343,,Transportation,Supporters of Ex-President Gamsakhurdial,Explosives/Bombs/Dynamite,0,0
+51974,199207060007,1992,7,6,Georgia,Central Asia,,Western Georgia,,,,Transportation,Supporters of Ex-President Gamsakhurdial,Explosives/Bombs/Dynamite,0,0
+51982,199207060015,1992,7,6,Georgia,Central Asia,,Tsalennijikha,42.60503,42.067112,,Military,Supporters of Ex-President Gamsakhurdial,Firearms,1,0
+52029,199207090014,1992,7,9,Georgia,Central Asia,,Kanti,42.65195304,42.06520653,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+52030,199207090015,1992,7,9,Georgia,Central Asia,,Kanti,42.565272,42.087206,,Government (General),Supporters of Ex-President Gamsakhurdial,Firearms,1,0
+52101,199207160009,1992,7,16,Georgia,Central Asia,,Tskhinvali,42.224159,43.9632,,Military,Unknown,Explosives/Bombs/Dynamite,1,3
+52109,199207170004,1992,7,17,Georgia,Central Asia,,tbilisi,41.709981,44.792998,,Military,Unknown,Firearms,0,1
+52301,199207310013,1992,7,31,Georgia,Central Asia,,kartliskari,41.408429999999996,43.53941,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,2,1
+52413,199208080012,1992,8,8,Georgia,Central Asia,,rukhi,42.542334999999994,41.851189,,Police,Georgian extremists,Firearms,0,2
+52414,199208080013,1992,8,8,Georgia,Central Asia,,Chkhorotsku,42.521910999999996,42.127673,,Police,Georgian extremists,Firearms,1,3
+52415,199208080014,1992,8,8,Georgia,Central Asia,,sukhumi,43.00732,40.989151,,Transportation,Unknown,Firearms,0,0
+52416,199208080016,1992,8,8,Georgia,Central Asia,,poti,42.141944,41.676389,,Transportation,Georgian guerrillas,Explosives/Bombs/Dynamite,0,0
+52460,199208110013,1992,8,11,Georgia,Central Asia,,Zugdidi,42.502066,41.861007,,Government (General),Supporters of Ex-President Gamsakhurdial,Unknown,0,0
+52644,199208260015,1992,8,26,Georgia,Central Asia,,Sukhumi,43.00732,40.989151,,NGO,Unknown,Firearms,0,0
+52645,199208260016,1992,8,26,Georgia,Central Asia,,gagra,43.309109,40.253819,,Private Citizens & Property,Unknown,Firearms,4,0
+52923,199209140006,1992,9,14,Georgia,Central Asia,,Kobuleti,41.820135,41.776355,,Transportation,Unknown,Explosives/Bombs/Dynamite,0,0
+52989,199209190006,1992,9,19,Georgia,Central Asia,,Gagra,43.309109,40.253819,,Military,Abkhazian Separatists,Explosives/Bombs/Dynamite,29,1
+53572,199210260010,1992,10,26,Georgia,Central Asia,,Sukhumi,43.00732,40.989151,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+53573,199210260011,1992,10,26,Georgia,Central Asia,,Sukhumi,43.00732,40.989151,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+53574,199210260012,1992,10,26,Georgia,Central Asia,,Sukhumi,43.00732,40.989151,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,0
+53999,199211180002,1992,11,18,Georgia,Central Asia,,Eshera,43.026109999999996,40.930596,,Military,Unknown,Explosives/Bombs/Dynamite,1,0
+54020,199211180023,1992,11,18,Georgia,Central Asia,,Poti,42.141944,41.676389,,Military,Abkhazian Separatists,Unknown,1,1
+54026,199211190006,1992,11,19,Georgia,Central Asia,,tbilisi,41.709981,44.792998,,Military,Unknown,Firearms,1,0
+54219,199212020005,1992,12,2,Georgia,Central Asia,,Sukhumi,43.00732,40.989151,,Private Citizens & Property,Abkhazian Separatists,Explosives/Bombs/Dynamite,8,37
+54604,199212280004,1992,12,28,Georgia,Central Asia,,Ochamchira,42.711201,41.461609,,Military,Abkhazian guerrillas,Firearms,15,0

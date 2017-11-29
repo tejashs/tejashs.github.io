@@ -1,0 +1,16 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+51243,199205060018,1992,5,6,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Educational Institution,Muslim Fundamentalists,Unknown,0,0
+51460,199205200016,1992,5,20,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Business,Unknown,Firearms,0,2
+51498,199205230005,1992,5,23,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Business,Muslim Fundamentalists,Firearms,0,2
+51867,199206250006,1992,6,25,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Government (General),Unknown,Explosives/Bombs/Dynamite,1,0
+51872,199206260001,1992,6,26,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Military,Unknown,Firearms,0,0
+52038,199207110001,1992,7,11,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Religious Figures/Institutions,Unknown,Explosives/Bombs/Dynamite,0,1
+52073,199207130012,1992,7,13,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Religious Figures/Institutions,Unknown,Firearms,0,0
+52684,199208300014,1992,8,30,Kuwait,Middle East & North Africa,Jahra,Unknown,29.834446000000003,47.154053000000005,,Police,Unknown,Firearms,1,1
+52695,199209000001,1992,9,0,Kuwait,Middle East & North Africa,Ahmadi,Unknown,29.083333000000003,48.083333,,Business,Unknown,Unknown,0,1
+52696,199209000002,1992,9,0,Kuwait,Middle East & North Africa,Unknown,Unknown,,,,Business,Unknown,Unknown,0,0
+53205,199210060002,1992,10,6,Kuwait,Middle East & North Africa,Jahra,Bahrat Hoshan,30.0725,47.349722,,Military,Unknown,Firearms,0,3
+53240,199210080008,1992,10,8,Kuwait,Middle East & North Africa,Jahra,Unknown,29.834446000000003,47.154053000000005,,Business,Iraqi extremists,Unknown,0,0
+53314,199210120007,1992,10,12,Kuwait,Middle East & North Africa,Basra,Umm Qasr,30.034178999999998,47.929442,,Government (Diplomatic),Unknown,Melee,0,1
+53315,199210120008,1992,10,12,Kuwait,Middle East & North Africa,Basra,Umm Qasr,30.034178999999998,47.929442,,Government (Diplomatic),Unknown,Unknown,0,0
+54370,199212090018,1992,12,9,Kuwait,Middle East & North Africa,Asimah,Kuwait,29.365,48.001389,,Business,Unknown,Explosives/Bombs/Dynamite,0,0

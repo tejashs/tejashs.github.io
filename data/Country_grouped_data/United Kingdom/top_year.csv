@@ -1,0 +1,286 @@
+,id,year,month,day,country,region,state,city,latitude,longitude,summary,target,tgroup,weapon,fatalities,injuries
+1126,197201050001,1972,1,5,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1137,197201120001,1972,1,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1138,197201130001,1972,1,13,United Kingdom,Western Europe,Northern Ireland,Newtownabbey,54.684823,-5.965868,,Military,Irish Republican Army (IRA),Firearms,1,0
+1146,197201180001,1972,1,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1148,197201210002,1972,1,21,United Kingdom,Western Europe,Northern Ireland,Keady,54.250039,-6.703625,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1155,197201260006,1972,1,26,United Kingdom,Western Europe,Northern Ireland,Castlewellan,54.25569599999999,-5.948804,,Police,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1157,197201270002,1972,1,27,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Police,Irish Republican Army (IRA),Firearms,2,0
+1158,197201280001,1972,1,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1159,197201310001,1972,1,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1160,197202010001,1972,2,1,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,7,17
+1161,197202010002,1972,2,1,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1167,197202020003,1972,2,2,United Kingdom,Western Europe,Northern Ireland,Stewartstown,54.577389000000004,-6.677339,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1170,197202060002,1972,2,6,United Kingdom,Western Europe,Northern Ireland,Keady,54.250039,-6.703625,,Government (General),Irish Republican Extremists,Explosives/Bombs/Dynamite,2,0
+1172,197202080002,1972,2,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Red Hand Commandos,Firearms,1,0
+1173,197202080003,1972,2,8,United Kingdom,Western Europe,Northern Ireland,Armagh,54.347539000000005,-6.656108000000001,,Private Citizens & Property,Unknown,Incendiary,1,0
+1174,197202100001,1972,2,10,United Kingdom,Western Europe,Northern Ireland,Cullyhanna,54.131402,-6.586386999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1175,197202130001,1972,2,13,United Kingdom,Western Europe,Northern Ireland,Newtownbutler,54.184008,-7.360208999999999,,Military,Irish Republican Army (IRA),Firearms,1,0
+1177,197202160002,1972,2,16,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1178,197202160003,1972,2,16,United Kingdom,Western Europe,Northern Ireland,Moira,54.479875,-6.228448,,Military,Irish Republican Army (IRA),Firearms,1,0
+1179,197202170001,1972,2,17,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1181,197202210002,1972,2,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,4,0
+1183,197202220002,1972,2,22,United Kingdom,Western Europe,England,Aldershot,51.248428999999994,-0.755979,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,7,19
+1184,197202220003,1972,2,22,United Kingdom,Western Europe,England,Aldershot,51.248428999999994,-0.755979,,Private Citizens & Property,Official Irish Republican Army (OIRA),Explosives/Bombs/Dynamite,7,0
+1187,197202290001,1972,2,29,United Kingdom,Western Europe,Northern Ireland,Lurgan,54.467967,-6.337967,,Military,Irish Republican Army (IRA),Firearms,1,0
+1188,197202290002,1972,2,29,United Kingdom,Western Europe,Northern Ireland,Newry,54.18006,-6.3339300000000005,,Police,Irish Republican Army (IRA),Firearms,1,0
+1192,197203010001,1972,3,1,United Kingdom,Western Europe,Northern Ireland,Frevagh,54.365171,-8.036373,,Military,Irish Republican Army (IRA),Firearms,1,0
+1194,197203030001,1972,3,3,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1198,197203040004,1972,3,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1199,197203040005,1972,3,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,130
+1200,197203040006,1972,3,4,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1201,197203060001,1972,3,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597267,-5.9258489999999995,"03/06/1972: A bomb planted in a van in the center of Belfast, Northern Ireland, United Kingdom detonated, injuring 56 people. The explosives were in a car parked near ABC Cinema. Approximately 30 minutes before the bomb exploded, authorities evacuated and searched the area in response to a telephone warning. Police did not find the explosives, which they suggested were driven to the site in the van following the search. The explosion damaged eight cars and shattered windows up to 300 yards away. No group claimed responsibility for the attack.",Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,0,56
+1202,197203060002,1972,3,6,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99600600000001,-7.308575,"03/06/1972: Three masked gunmen planted a bomb at the Ardowen Hotel in Londonderry, Northern Ireland, United Kingdom. The assailants told hotel staff they had 25 minutes to evacuate, after which the bomb detonated and ""wrecked"" the hotel, but caused no casualties. No group claimed responsibility for the attack.",Business,Unknown,Explosives/Bombs/Dynamite,0,0
+1203,197203080001,1972,3,8,United Kingdom,Western Europe,Northern Ireland,Middletown,54.293234999999996,-6.842351,,Military,Irish Republican Army (IRA),Firearms,1,0
+1205,197203120001,1972,3,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1206,197203130001,1972,3,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1207,197203150001,1972,3,15,United Kingdom,Western Europe,Northern Ireland,Coalisland,54.536706,-6.70361,,Police,Irish Republican Army (IRA),Firearms,1,0
+1208,197203150002,1972,3,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1209,197203160001,1972,3,16,United Kingdom,Western Europe,Northern Ireland,Lurgan,54.467967,-6.337967,,Private Citizens & Property,Irish Republican Extremists,Explosives/Bombs/Dynamite,1,0
+1213,197203200002,1972,3,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,7,0
+1214,197203200003,1972,3,20,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1216,197203230001,1972,3,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Incendiary,1,0
+1217,197203250001,1972,3,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Firearms,1,0
+1219,197203260002,1972,3,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Ulster Freedom Fighters (UFF),Firearms,1,0
+1222,197203280002,1972,3,28,United Kingdom,Western Europe,Northern Ireland,Ballykelly,55.043617000000005,-7.0239270000000005,,Police,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1225,197203290003,1972,3,29,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1226,197203300001,1972,3,30,United Kingdom,Western Europe,Northern Ireland,"Andersontown, Belfast",54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1230,197204070002,1972,4,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1232,197204100002,1972,4,10,United Kingdom,Western Europe,Northern Ireland,Rosemount,55.007206999999994,-7.341944,,Military,Official Irish Republican Army (OIRA),Explosives/Bombs/Dynamite,1,0
+1236,197204130002,1972,4,13,United Kingdom,Western Europe,Northern Ireland,Ballymoney,55.07071800000001,-6.514895,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1237,197204150001,1972,4,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1238,197204150002,1972,4,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1239,197204160001,1972,4,16,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1240,197204160002,1972,4,16,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1242,197204190002,1972,4,19,United Kingdom,Western Europe,Northern Ireland,Newtownhamilton,54.192933999999994,-6.576051,,Military,Irish Republican Army (IRA),Firearms,1,0
+1243,197204190003,1972,4,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1245,197204200002,1972,4,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1246,197204210001,1972,4,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1248,197204290001,1972,4,29,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1249,197205010001,1972,5,1,United Kingdom,Western Europe,Northern Ireland,Carrickfergus,54.713641,-5.808233,,Business,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1259,197205040003,1972,5,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Melee,1,0
+1266,197205110002,1972,5,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1272,197205130001,1972,5,13,United Kingdom,Western Europe,Northern Ireland,"Ballymurphy, Belfast",54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1273,197205130002,1972,5,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1274,197205130003,1972,5,13,United Kingdom,Western Europe,Northern Ireland,"Ballymurphy, Belfast",54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1275,197205130004,1972,5,13,United Kingdom,Western Europe,Northern Ireland,"Ballymurphy, Belfast",54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Explosives/Bombs/Dynamite,1,0
+1276,197205140001,1972,5,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1277,197205140002,1972,5,14,United Kingdom,Western Europe,Northern Ireland,"Ballymurphy, Belfast",54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1279,197205150002,1972,5,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1282,197205170001,1972,5,17,United Kingdom,Western Europe,Northern Ireland,Greenisland,54.692119999999996,-5.863265,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1283,197205170002,1972,5,17,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313000000004,-6.6087869999999995,,Military,Irish Republican Army (IRA),Firearms,1,0
+1288,197205190003,1972,5,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1290,197205200001,1972,5,20,United Kingdom,Western Europe,Northern Ireland,Unknown,54.787715000000006,-6.492314,,Military,Irish Republican Army (IRA),Firearms,1,0
+1293,197205210001,1972,5,21,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1294,197205210002,1972,5,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1295,197205220001,1972,5,22,United Kingdom,Western Europe,Northern Ireland,Unknown,54.787715000000006,-6.492314,,Police,Irish Republican Army (IRA),Firearms,1,0
+1296,197205230001,1972,5,23,United Kingdom,Western Europe,Northern Ireland,"Ballymurphy, Belfast",54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1297,197205230002,1972,5,23,United Kingdom,Western Europe,Northern Ireland,Finaghy,54.560124,-5.983657,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1305,197205260001,1972,5,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1308,197205270003,1972,5,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1310,197205280001,1972,5,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1311,197205280002,1972,5,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,8,0
+1312,197205280003,1972,5,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1314,197205300002,1972,5,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1315,197205300003,1972,5,30,United Kingdom,Western Europe,Northern Ireland,"Andersontown, Belfast",54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1325,197206020003,1972,6,2,United Kingdom,Western Europe,Northern Ireland,Rosslea,54.238631000000005,-7.170908,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1326,197206040001,1972,6,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1327,197206050001,1972,6,5,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1328,197206060001,1972,6,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1329,197206060002,1972,6,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1330,197206080001,1972,6,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1331,197206080002,1972,6,8,United Kingdom,Western Europe,Northern Ireland,Unknown,54.787715000000006,-6.492314,,Police,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1333,197206090002,1972,6,9,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1335,197206100002,1972,6,10,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1336,197206110001,1972,6,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1337,197206110002,1972,6,11,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1338,197206120001,1972,6,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1342,197206160001,1972,6,16,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1343,197206180001,1972,6,18,United Kingdom,Western Europe,Northern Ireland,Craigavon,54.44811800000001,-6.387579,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,3,0
+1345,197206190002,1972,6,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Firearms,1,0
+1346,197206190003,1972,6,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1348,197206210002,1972,6,21,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1349,197206230001,1972,6,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1350,197206240001,1972,6,24,United Kingdom,Western Europe,Northern Ireland,Dungiven,54.927953,-6.925872999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,3,0
+1351,197206240002,1972,6,24,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Ulster Freedom Fighters (UFF),Firearms,1,0
+1352,197206260001,1972,6,26,United Kingdom,Western Europe,Northern Ireland,Newry,54.18006,-6.3339300000000005,,Police,Irish Republican Army (IRA),Firearms,1,0
+1353,197206260002,1972,6,26,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1354,197206260003,1972,6,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1355,197206270001,1972,6,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1356,197206270002,1972,6,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1357,197207010001,1972,7,1,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1358,197207010002,1972,7,1,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1359,197207020001,1972,7,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,2,0
+1360,197207020002,1972,7,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,2,0
+1361,197207030001,1972,7,3,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1362,197207050001,1972,7,5,United Kingdom,Western Europe,Northern Ireland,Ardoyne,54.616602,-5.965891,,Private Citizens & Property,Protestant extremists,Firearms,2,0
+1363,197207050002,1972,7,5,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1364,197207070001,1972,7,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1365,197207090001,1972,7,9,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,3,0
+1366,197207090002,1972,7,9,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1367,197207090003,1972,7,9,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Firearms,1,0
+1368,197207110001,1972,7,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1369,197207110002,1972,7,11,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1370,197207120001,1972,7,12,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1371,197207120002,1972,7,12,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,2,0
+1372,197207120003,1972,7,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1373,197207120004,1972,7,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1374,197207130001,1972,7,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1375,197207130002,1972,7,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1376,197207130003,1972,7,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1377,197207130004,1972,7,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Protestant extremists,Firearms,1,0
+1379,197207140003,1972,7,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1380,197207140004,1972,7,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.60236999999999,-5.9756,,Military,Irish Republican Army (IRA),Firearms,1,0
+1381,197207140005,1972,7,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1382,197207140006,1972,7,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1387,197207150005,1972,7,15,United Kingdom,Western Europe,Northern Ireland,Silverbridge,54.101529000000006,-6.526441999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1388,197207150006,1972,7,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1389,197207160001,1972,7,16,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313000000004,-6.6087869999999995,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1390,197207160002,1972,7,16,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1392,197207180001,1972,7,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1393,197207180002,1972,7,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1394,197207190001,1972,7,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1395,197207190002,1972,7,19,United Kingdom,Western Europe,Northern Ireland,Strabane,54.823432,-7.468374000000001,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1396,197207190003,1972,7,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1397,197207200001,1972,7,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1399,197207210002,1972,7,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1400,197207210003,1972,7,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,6,0
+1401,197207210004,1972,7,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Firearms,1,0
+1402,197207210005,1972,7,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,3,0
+1403,197207220001,1972,7,22,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,2,0
+1404,197207220002,1972,7,22,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1405,197207230001,1972,7,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1406,197207240001,1972,7,24,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1407,197207240002,1972,7,24,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1408,197207250001,1972,7,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Official Irish Republican Army (OIRA),Firearms,1,0
+1409,197207260001,1972,7,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1410,197207260002,1972,7,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,2,0
+1411,197207270001,1972,7,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1413,197207280002,1972,7,28,United Kingdom,Western Europe,Northern Ireland,Dundonald,54.595455,-5.797763,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1414,197207290001,1972,7,29,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1415,197207300001,1972,7,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1417,197207310002,1972,7,31,United Kingdom,Western Europe,Northern Ireland,Claudy,54.910864000000004,-7.15523,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,9,0
+1419,197208030001,1972,8,3,United Kingdom,Western Europe,Northern Ireland,Strabane,54.823432,-7.468374000000001,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1420,197208040001,1972,8,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1421,197208040002,1972,8,4,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Melee,1,0
+1423,197208070001,1972,8,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1424,197208070002,1972,8,7,United Kingdom,Western Europe,Northern Ireland,Lisnaskea,54.253718000000006,-7.44106,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1425,197208070003,1972,8,7,United Kingdom,Western Europe,Northern Ireland,Newtownbutler,54.184008,-7.360208999999999,,Military,Irish Republican Army (IRA),Firearms,1,0
+1427,197208120001,1972,8,12,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1428,197208130001,1972,8,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Melee,1,0
+1430,197208140002,1972,8,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1431,197208140003,1972,8,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1433,197208160002,1972,8,16,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Ulster Volunteer Force (UVF),Firearms,1,0
+1434,197208170001,1972,8,17,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1437,197208180001,1972,8,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1438,197208180002,1972,8,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1439,197208180003,1972,8,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1440,197208180004,1972,8,18,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1444,197208190001,1972,8,19,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1445,197208200001,1972,8,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1446,197208220001,1972,8,22,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1450,197208230003,1972,8,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1451,197208240001,1972,8,24,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313000000004,-6.6087869999999995,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1452,197208250001,1972,8,25,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1453,197208250002,1972,8,25,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1454,197208260001,1972,8,26,United Kingdom,Western Europe,Northern Ireland,Enniskillen,54.346531000000006,-7.640403999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1455,197208260002,1972,8,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1456,197208260003,1972,8,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1457,197208270001,1972,8,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1458,197208270002,1972,8,27,United Kingdom,Western Europe,Northern Ireland,Creggan,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1459,197208280001,1972,8,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1460,197208280002,1972,8,28,United Kingdom,Western Europe,Northern Ireland,Newtownbutler,54.184008,-7.360208999999999,,Private Citizens & Property,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1464,197208300002,1972,8,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1465,197208310001,1972,8,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1466,197208310002,1972,8,31,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Private Citizens & Property,Protestant extremists,Melee,1,0
+1469,197209050003,1972,9,5,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Military,Protestant extremists,Explosives/Bombs/Dynamite,1,0
+1470,197209060001,1972,9,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Explosives/Bombs/Dynamite,1,0
+1471,197209100001,1972,9,10,United Kingdom,Western Europe,Northern Ireland,Dungannon,54.502852000000004,-6.769568,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,3,0
+1473,197209130001,1972,9,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Government (General),Protestant extremists,Firearms,1,0
+1474,197209140002,1972,9,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Ulster Volunteer Force (UVF),Explosives/Bombs/Dynamite,3,0
+1475,197209140003,1972,9,14,United Kingdom,Western Europe,Northern Ireland,Derry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1479,197209170002,1972,9,17,United Kingdom,Western Europe,Northern Ireland,Derry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1480,197209180001,1972,9,18,United Kingdom,Western Europe,Northern Ireland,Unknown,54.201137,-6.361129,,Private Citizens & Property,Unknown,Explosives/Bombs/Dynamite,1,0
+1481,197209190001,1972,9,19,United Kingdom,Western Europe,England,London,51.500152,-0.126236,,Government (Diplomatic),Black September,Explosives/Bombs/Dynamite,1,0
+1484,197209200001,1972,9,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1485,197209200002,1972,9,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1487,197209220001,1972,9,22,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Melee,1,0
+1488,197209220002,1972,9,22,United Kingdom,Western Europe,Northern Ireland,Crossmaglen,54.077313000000004,-6.6087869999999995,,Military,Irish Republican Army (IRA),Firearms,1,0
+1489,197209230001,1972,9,23,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1490,197209260001,1972,9,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1491,197209260002,1972,9,26,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Explosives/Bombs/Dynamite,1,0
+1492,197209270001,1972,9,27,United Kingdom,Western Europe,Northern Ireland,Derry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1493,197209270002,1972,9,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.625868999999994,-5.982754,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1494,197209270003,1972,9,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1495,197209280001,1972,9,28,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1496,197209290002,1972,9,29,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,2,0
+1498,197209300001,1972,9,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1499,197209300002,1972,9,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1500,197209300003,1972,9,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1501,197209300004,1972,9,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Explosives/Bombs/Dynamite,2,0
+1503,197210020002,1972,10,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1504,197210020003,1972,10,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Firearms,1,0
+1505,197210020004,1972,10,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Irish Republican Army (IRA),Unknown,2,0
+1507,197210040002,1972,10,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Journalists & Media,Irish Republican Army (IRA),Firearms,1,0
+1508,197210040003,1972,10,4,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1509,197210040004,1972,10,4,United Kingdom,Western Europe,Northern Ireland,Portadown,54.42071,-6.443767,,Private Citizens & Property,Ulster Volunteer Force (UVF),Explosives/Bombs/Dynamite,1,0
+1510,197210050001,1972,10,5,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Business,Ulster Freedom Fighters (UFF),Explosives/Bombs/Dynamite,1,0
+1512,197210060002,1972,10,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1514,197210070002,1972,10,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Explosives/Bombs/Dynamite,1,0
+1517,197210100003,1972,10,10,United Kingdom,Western Europe,Northern Ireland,Newry,54.18006,-6.3339300000000005,,Military,Irish Republican Army (IRA),Firearms,1,0
+1520,197210140002,1972,10,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1521,197210140003,1972,10,14,United Kingdom,Western Europe,Northern Ireland,Armagh,54.338570999999995,-6.658278999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1522,197210140004,1972,10,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,2,0
+1524,197210210001,1972,10,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Ulster Freedom Fighters (UFF),Firearms,1,0
+1525,197210220001,1972,10,22,United Kingdom,Western Europe,Northern Ireland,Derrydoon,54.151612,-7.39232,,Military,Irish Republican Army (IRA),Firearms,1,0
+1527,197210240001,1972,10,24,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1528,197210250001,1972,10,25,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Government (General),Irish Republican Army (IRA),Firearms,1,0
+1531,197210280001,1972,10,28,United Kingdom,Western Europe,Northern Ireland,Derry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1532,197210290001,1972,10,29,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1534,197210310001,1972,10,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Red Hand Commandos,Firearms,1,0
+1535,197210310002,1972,10,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1536,197210310003,1972,10,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Explosives/Bombs/Dynamite,2,0
+1537,197210310004,1972,10,31,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Transportation,Ulster Freedom Fighters (UFF),Firearms,1,0
+1538,197211000001,1972,11,0,United Kingdom,Western Europe,England,London,51.500152,-0.126236,,Business,Black September,Explosives/Bombs/Dynamite,0,1
+1543,197211080001,1972,11,8,United Kingdom,Western Europe,Northern Ireland,Lurgan,54.467967,-6.337967,,Military,Irish Republican Army (IRA),Firearms,1,0
+1546,197211100001,1972,11,10,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1547,197211110001,1972,11,11,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Red Hand Commandos,Firearms,1,0
+1549,197211140002,1972,11,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1550,197211140003,1972,11,14,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1552,197211150002,1972,11,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1553,197211160001,1972,11,16,United Kingdom,Western Europe,Northern Ireland,Enniskillen,54.346531000000006,-7.640403999999999,,Police,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1554,197211200001,1972,11,20,United Kingdom,Western Europe,Northern Ireland,Cullyhanna,54.131402,-6.586386999999999,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,2,0
+1555,197211210001,1972,11,21,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1556,197211220001,1972,11,22,United Kingdom,Western Europe,Northern Ireland,Ballynahone,54.818982999999996,-6.663403,,Military,Irish Republican Army (IRA),Firearms,1,0
+1557,197211220002,1972,11,22,United Kingdom,Western Europe,Northern Ireland,Brough,54.77811,-6.55922,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1558,197211220003,1972,11,22,United Kingdom,Western Europe,Northern Ireland,Finvoy,55.009510999999996,-6.504562,,Private Citizens & Property,Ulster Freedom Fighters (UFF),Firearms,1,0
+1561,197211270001,1972,11,27,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1563,197211280002,1972,11,28,United Kingdom,Western Europe,Northern Ireland,Belleek,54.482055,-8.088244,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1564,197211280004,1972,11,28,United Kingdom,Western Europe,Northern Ireland,Derry,54.99451,-7.319996000000001,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1566,197211300002,1972,11,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1570,197212020001,1972,12,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1571,197212020002,1972,12,2,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1572,197212030001,1972,12,3,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1573,197212050001,1972,12,5,United Kingdom,Western Europe,Northern Ireland,Lurgan,54.467967,-6.337967,,Military,Official Irish Republican Army (OIRA),Explosives/Bombs/Dynamite,1,0
+1574,197212050002,1972,12,5,United Kingdom,Western Europe,Northern Ireland,Killeter,54.669045,-7.681661999999999,,Military,Irish Republican Army (IRA),Firearms,1,0
+1576,197212060003,1972,12,6,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Extremists,Firearms,1,0
+1578,197212070002,1972,12,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Terrorists/Non-State Militia,Ulster Freedom Fighters (UFF),Firearms,1,0
+1579,197212070003,1972,12,7,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Irish Republican Army (IRA),Unknown,1,0
+1581,197212080003,1972,12,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Firearms,1,0
+1582,197212080004,1972,12,8,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1583,197212100002,1972,12,10,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Military,Irish Republican Army (IRA),Explosives/Bombs/Dynamite,1,0
+1586,197212130001,1972,12,13,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Police,Irish Republican Army (IRA),Firearms,1,0
+1588,197212140002,1972,12,14,United Kingdom,Western Europe,Northern Ireland,Killeter,54.669045,-7.681661999999999,,Private Citizens & Property,Ulster Volunteer Force (UVF),Explosives/Bombs/Dynamite,1,0
+1590,197212150003,1972,12,15,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1591,197212150004,1972,12,15,United Kingdom,Western Europe,Northern Ireland,Lurgan,54.467967,-6.337967,,Police,Official Irish Republican Army (OIRA),Firearms,1,0
+1592,197212150005,1972,12,15,United Kingdom,Western Europe,Northern Ireland,Armagh,54.347539000000005,-6.656108000000001,,Military,Official Irish Republican Army (OIRA),Firearms,1,0
+1593,197212160001,1972,12,16,United Kingdom,Western Europe,Northern Ireland,Derrylin,54.190675,-7.562948,,Terrorists/Non-State Militia,Protestant extremists,Firearms,1,0
+1594,197212160002,1972,12,16,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1595,197212180001,1972,12,18,United Kingdom,Western Europe,Northern Ireland,Armagh,54.338570999999995,-6.658278999999999,,Government (General),Irish Republican Army (IRA),Firearms,1,0
+1597,197212200002,1972,12,20,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1598,197212200003,1972,12,20,United Kingdom,Western Europe,Northern Ireland,Claudy,54.910864000000004,-7.15523,,Military,Irish Republican Army (IRA),Firearms,1,0
+1599,197212200004,1972,12,20,United Kingdom,Western Europe,Northern Ireland,Clonmore,54.483304000000004,-6.640803999999999,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
+1600,197212200005,1972,12,20,United Kingdom,Western Europe,Northern Ireland,Londonderry,54.99451,-7.319996000000001,,Private Citizens & Property,Protestant extremists,Firearms,5,0
+1601,197212210001,1972,12,21,United Kingdom,Western Europe,Northern Ireland,Bangor,54.655480000000004,-5.674815,,Private Citizens & Property,Protestant extremists,Firearms,1,0
+1610,197212270004,1972,12,27,United Kingdom,Western Europe,Northern Ireland,Strabane,54.823432,-7.468374000000001,,Military,Irish Republican Army (IRA),Firearms,1,0
+1615,197212300001,1972,12,30,United Kingdom,Western Europe,Northern Ireland,Belfast,54.597269,-5.930109,,Private Citizens & Property,Ulster Volunteer Force (UVF),Firearms,1,0
