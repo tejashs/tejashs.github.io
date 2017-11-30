@@ -42,7 +42,6 @@ path {
     fill-opacity: .5;
 }
 
-
 .yearCircle {
     fill: #08A723;
 }
@@ -55,4 +54,23 @@ path {
 .yearSelected {
     stroke: #FF5151;
     stroke-width: 4px;
+}
+
+.graticule {
+  fill: none;
+  stroke: none;
+  stroke-width: 0.5px;
+  stroke-opacity: 0.5;
+}
+
+.land {
+  fill: lightgray;
+  stroke: gray;
+  stroke-width: 0.5px;
+}
+
+.boundary {
+  fill: none;
+  stroke: gray;
+  stroke-width: 0.5px;
 }

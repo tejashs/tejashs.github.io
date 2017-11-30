@@ -18,8 +18,8 @@ d3.csv("data/gtd_by_countries.csv", function(error, data) {
 
 d3.csv("data/united_states_gtd.csv", function(error, us) {
   if (error) throw error;
-  usMap.setEntireData(us);
-  usMap.plotStates(us);
+  // usMap.setEntireData(us);
+  // usMap.plotStates(us);
   yearchart.update(us);
 });
 
