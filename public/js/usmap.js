@@ -119,12 +119,19 @@ class USMap {
       if(years.length > 0){
         let fData = this.filterDataByYear(years, allData);
         this.plotStates(fData);
+        this.logData(fData);
       }
       else{
         this.plotStates(allData);
       }
     }
 
+    logData(data){
+        for(var i=0; i<data.length; i++){
+          console.log();
+          console.log(data[i]["month"] + "/" + data[i]["day"] + "/" + data[i]["year"] + " -- "+ data[i]["city"]);
+        }
+    }
     filterDataByYear(years, data){
       let yearData = data.filter(function(d){
         return years.includes(d.year);

@@ -14,7 +14,6 @@ class BarChart {
      * Render and update the bar chart based on the selection of the data type in the drop-down box
      */
     updateBarChart(selectedDimension) {
-
         var regions = ['Central America & Caribbean', 'North America', 'Southeast Asia',
         'Western Europe','East Asia','South America','Eastern Europe',
         'Sub-Saharan Africa','Middle East & North Africa','Australasia & Oceania',
