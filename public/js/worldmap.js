@@ -7,12 +7,16 @@ class WorldMap {
     .translate([width / 2, height / 2])
     .precision(0.1);
 
+    this.colorScale = d3.scaleLinear()
+    .range(["#FFE600 ", "#8B0000"]);
+
     this.path = d3.geoPath().projection(this.projection);
   }
 
-  setCountriesMappings(id_name_map, id_region_map){
+  setCountriesMappings(id_name_map, id_region_map, region_countries_map){
     this.id_name_map = id_name_map
     this.id_region_map = id_region_map;
+    this.region_countries_map = region_countries_map;
   }
 
   drawMap(world){
@@ -45,7 +49,8 @@ class WorldMap {
     })
     .on("click", function(d){
       let region = self.id_region_map[d.id];
-      console.log("Region Clicked " + region + " - " + self.id_name_map[d.id] + " - " + d.id);
+      let countries = self.region_countries_map[region];
+      console.log(countries);
     });
     paths.classed("countries_hovered", false);
   }

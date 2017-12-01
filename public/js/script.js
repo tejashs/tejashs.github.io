@@ -9,12 +9,22 @@ d3.csv("data/group_final.csv", function(error, countries) {
 	if (error) throw error;
   var id_name_map = new Object();
   var id_region_map = new Object();
+	var region_countries_map = new Object();
   for(var i=0; i < countries.length; i++){
       let c = countries[i];
       id_name_map[c.id] = c["name"];
-      id_region_map[c.id] = c["region"];
+			let region = c["region"];
+      id_region_map[c.id] = region;
+			if(region in region_countries_map){
+				cns = region_countries_map[region];
+			}
+			else {
+				cns = []
+			}
+			cns.push(c["name"]);
+			region_countries_map[region] = cns
   }
-  worldMap.setCountriesMappings(id_name_map, id_region_map);
+  worldMap.setCountriesMappings(id_name_map, id_region_map, region_countries_map);
 });
 
 // #################  Data for US map
