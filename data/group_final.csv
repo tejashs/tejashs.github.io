@@ -20,7 +20,7 @@ BHS,The Bahamas,North_America
 BIH,Bosnia and Herzegovina,Eastern_Europe
 BLR,Belarus,Eastern_Europe
 BLZ,Belize,Central_America_Caribbean
-BMU,Bermuda,region
+BMU,Bermuda,North_America
 BOL,Bolivia,South_America
 BRA,Brazil,South_America
 BRN,Brunei,Southeast_Asia
@@ -37,8 +37,8 @@ COD,Democratic Republic of the Congo,Sub-Saharan_Africa
 COG,Republic of the Congo,Sub-Saharan_Africa
 COL,Colombia,South_America
 CRI,Costa Rica,Central_America_Caribbean
+CS-KM,Kosovo,Eastern_Europe
 CUB,Cuba,Central_America_Caribbean
--99,Northern Cyprus,region
 CYP,Cyprus,Western_Europe
 CZE,Czech Republic,Eastern_Europe
 DEU,Germany,Western_Europe
@@ -49,6 +49,7 @@ DZA,Algeria,Middle_East_North_Africa
 ECU,Ecuador,South_America
 EGY,Egypt,Middle_East_North_Africa
 ERI,Eritrea,Sub-Saharan_Africa
+ESH,Western Sahara,Middle_East_North_Africa
 ESP,Spain,Western_Europe
 EST,Estonia,Eastern_Europe
 ETH,Ethiopia,Sub-Saharan_Africa
@@ -65,7 +66,7 @@ GMB,Gambia,Sub-Saharan_Africa
 GNB,Guinea Bissau,Sub-Saharan_Africa
 GNQ,Equatorial Guinea,Sub-Saharan_Africa
 GRC,Greece,Western_Europe
-GRL,Greenland,region
+GRL,Greenland,North_America
 GTM,Guatemala,Central_America_Caribbean
 GUF,French Guiana,South_America
 GUY,Guyana,South_America
@@ -89,7 +90,6 @@ KEN,Kenya,Sub-Saharan_Africa
 KGZ,Kyrgyzstan,Central_Asia
 KHM,Cambodia,Southeast_Asia
 KOR,South Korea,East_Asia
-CS-KM,Kosovo,Eastern_Europe
 KWT,Kuwait,Middle_East_North_Africa
 LAO,Laos,Southeast_Asia
 LBN,Lebanon,Middle_East_North_Africa
@@ -130,25 +130,24 @@ PER,Peru,South_America
 PHL,Philippines,Southeast_Asia
 PNG,Papua New Guinea,Australasia_Oceania
 POL,Poland,Eastern_Europe
-PRI,Puerto Rico,region
+PRI,Puerto Rico,North_America
 PRK,North Korea,East_Asia
 PRT,Portugal,Western_Europe
 PRY,Paraguay,South_America
+PSE,West Bank,Middle_East_North_Africa
 QAT,Qatar,Middle_East_North_Africa
 ROU,Romania,Eastern_Europe
 RUS,Russia,Eastern_Europe
 RWA,Rwanda,Sub-Saharan_Africa
-ESH,Western Sahara,Middle_East_North_Africa
 SAU,Saudi Arabia,Middle_East_North_Africa
 SDN,Sudan,Sub-Saharan_Africa
-SDS,South Sudan,Sub-Saharan_Africa
 SEN,Senegal,Sub-Saharan_Africa
 SLB,Solomon Islands,Australasia_Oceania
 SLE,Sierra Leone,Sub-Saharan_Africa
 SLV,El Salvador,Central_America_Caribbean
--99,Somaliland,region
 SOM,Somalia,Sub-Saharan_Africa
 SRB,Republic of Serbia,Eastern_Europe
+SSD,South Sudan,Sub-Saharan_Africa
 SUR,Suriname,South_America
 SVK,Slovakia,Eastern_Europe
 SVN,Slovenia,Eastern_Europe
@@ -174,8 +173,9 @@ UZB,Uzbekistan,Central_Asia
 VEN,Venezuela,South_America
 VNM,Vietnam,Southeast_Asia
 VUT,Vanuatu,Australasia_Oceania
-PSE,West Bank,Middle_East_North_Africa
+XXX,Northern Cyprus,Middle_East_North_Africa
 YEM,Yemen,Middle_East_North_Africa
+YYY,Somaliland,Middle_East_North_Africa
 ZAF,South Africa,Sub-Saharan_Africa
 ZMB,Zambia,Sub-Saharan_Africa
 ZWE,Zimbabwe ,Sub-Saharan_Africa
