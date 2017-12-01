@@ -25,3 +25,5 @@ function changeData() {
     let metric = document.getElementById('metric').value;
     barChart.updateBarChart(metric)
 }
+
+getTopYearInfo("United States")
