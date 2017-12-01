@@ -1,5 +1,7 @@
 class WorldMap {
-  constructor(){
+  constructor(linechart){
+
+    this.linechart=linechart;
     let width = 1000;
     let height = 600;
 
@@ -67,6 +69,7 @@ class WorldMap {
         return self.colorScale(attacks);
       });
       let countries = self.region_countries_map[region];
+      self.linechart.dropMenu(countries)
       console.log(countries);
     });
     paths.classed("countries_hovered", false);

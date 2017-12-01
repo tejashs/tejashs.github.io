@@ -1,7 +1,9 @@
 let summary = new Summary();
 let usMap = new USMap(summary);
-let worldMap = new WorldMap();
+let linechart = new LineChart();
+let worldMap = new WorldMap(linechart);
 let yearchart = new YearChart(usMap);
+
 let barChart = null;
 
 // #################  Data for World Countries Mapping
