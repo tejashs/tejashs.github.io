@@ -32,6 +32,20 @@ class WorldMap {
     })
     .attr("id", function(d){
       return d.id;
+    })
+    .on("mouseover", function(d){
+      let region = self.id_region_map[d.id];
+      region = "." + region;
+      svg.select("#worldmap").selectAll(region).classed("countries_hovered", true);
+    }).
+    on("mouseout", function(d){
+      let region = self.id_region_map[d.id];
+      region = "." + region;
+      svg.select("#worldmap").selectAll(region).classed("countries_hovered", false);
+    })
+    .on("click", function(d){
+      let region = self.id_region_map[d.id];
+      console.log("Region Clicked " + region);
     });
     paths.classed("countries_hovered", false);
   }
