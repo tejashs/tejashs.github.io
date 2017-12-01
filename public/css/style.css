@@ -1,22 +1,22 @@
 path {
-    fill: none;
-    stroke-width: 1px;
-    stroke: #222;
+  fill: none;
+  stroke-width: 1px;
+  stroke: #222;
 }
 
 .lineChart{
-    stroke:#000;
-    stroke-dasharray:4;
+  stroke:#000;
+  stroke-dasharray:4;
 }
 
 .yeartext{
-    text-anchor:start;
-    font-size: 18px;
-    fill: #404040;
-    stroke-width: 4.8px;
-    font-weight:bold;
-    /*font-size:4.9em*/
-    /*stroke: #e5e5e5;*/
+  text-anchor:start;
+  font-size: 18px;
+  fill: #404040;
+  stroke-width: 4.8px;
+  font-weight:bold;
+  /*font-size:4.9em*/
+  /*stroke: #e5e5e5;*/
 }
 .d3-tip {
   line-height: 1;
@@ -28,39 +28,52 @@ path {
 }
 
 .sideBar {
-    display: inline-block;
-    width: 30%;
-    float:right;
+  display: inline-block;
+  width: 30%;
+  float:right;
 }
 
 .content {
-    display: inline-block;
-    width: 70%;
+  display: inline-block;
+  width: 70%;
 }
 
 .brush .selection {
-    fill-opacity: .5;
+  fill-opacity: .5;
 }
 
 .yearCircle {
-    fill: #08A723;
+  fill: #08A723;
 }
 
 .attackSelected {
-    stroke: #08A723;
-    stroke-width: 4px;
+  stroke: #08A723;
+  stroke-width: 4px;
 }
 
 .yearSelected {
-    stroke: #FF5151;
-    stroke-width: 4px;
+  stroke: #FF5151;
+  stroke-width: 4px;
 }
 .countries {
   stroke: #f7f7f7;
-  fill: #d9d9d9;
+  fill: #C0C0C0;
+}
+/*For gradient styling*/
+.stop-left {
+  stop-color: #FFE600;
 }
 
-.countries_hovered {
-  /*fill: #F7E5CC;*/
-  fill: red;
+.stop-right {
+  stop-color: #8B0000;
+}
+
+.filled {
+  fill: url(#mainGradient);
+}
+
+.outlined {
+  fill:   none;
+  stroke: url(#mainGradient);
+  stroke-width: 4;
 }
