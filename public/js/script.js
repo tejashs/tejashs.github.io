@@ -5,14 +5,14 @@ let yearchart = new YearChart(usMap);
 let barChart = null;
 
 // #################  Data for World Countries Mapping
-d3.csv("data/world_id_name_mapping.csv", function(error, countries) {
+d3.csv("data/group_final.csv", function(error, countries) {
 	if (error) throw error;
   var id_name_map = new Object();
   var id_region_map = new Object();
   for(var i=0; i < countries.length; i++){
       let c = countries[i];
       id_name_map[c.id] = c["name"];
-      id_region_map[c.id] = "crap";//c["region"];
+      id_region_map[c.id] = c["region"];
   }
   worldMap.setCountriesMappings(id_name_map, id_region_map);
 });

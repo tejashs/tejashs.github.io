@@ -61,5 +61,6 @@ path {
 }
 
 .countries_hovered {
-  fill: #F7E5CC;
+  /*fill: #F7E5CC;*/
+  fill: red;
 }

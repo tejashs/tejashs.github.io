@@ -45,7 +45,7 @@ class WorldMap {
     })
     .on("click", function(d){
       let region = self.id_region_map[d.id];
-      console.log("Region Clicked " + region);
+      console.log("Region Clicked " + region + " - " + self.id_name_map[d.id] + " - " + d.id);
     });
     paths.classed("countries_hovered", false);
   }
