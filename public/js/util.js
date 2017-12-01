@@ -12,32 +12,28 @@
       }
   }
 
-  function getTopYearInfo(country){
-    var f = "../data/Country_grouped_data/" + country + "/top_year.csv"
-
-    d3.csv(f, function(error, data) {
-      
-      if (error) throw error;
-      
-      data.sort(function(a, b) {
-        return  parseInt(b['fatalities']) - parseInt(a['fatalities']);
-      });
-
-      if (data.length < 10)
-        console.log("Not enough data")
-      else{
-        groupBy(data, "tgroup")
-        groupBy(data, "target")
-        groupBy(data, "weapon")
-      }
+  function getTopYearInfo(countryData){
     
-    });
+    var tgroups = groupBy(countryData, "tgroup")
+    var targets = groupBy(countryData, "target")
+    var weapons = groupBy(countryData, "weapon")
+
+    return [tgroups, targets, weapons]
+
   }
 
   function groupBy(data, colName){
-    var bytgroup = d3.nest()
+    var group = d3.nest()
     .key(function(d) { if (d[colName] != "Unknown") return d[colName]; })
+    .rollup(function(v) { return v.length; })
     .entries(data);
 
-    console.log(bytgroup)
+    group.sort(function(a, b) {
+      return  parseInt(b['value']) - parseInt(a['value']);
+    });
+
+    if (group.length > 10)
+      group = group.slice(0, 10)
+    
+    return group
   }
