@@ -1,0 +1,181 @@
+id,name,region,injuries,fatalities,counts
+AFG,Afghanistan,South_Asia,38228,33146,11306
+AGO,Angola,Sub-Saharan_Africa,2044,3036,493
+ALB,Albania,Eastern_Europe,126,42,79
+ARE,United Arab Emirates,Middle_East_North_Africa,27,123,22
+ARG,Argentina,South_America,755,489,806
+ARM,Armenia,Central_Asia,71,37,24
+ATA,Antarctica,region,0,0,0
+ATF,French Southern and Antarctic Lands,region,0,0,0
+AUS,Australia,Australasia_Oceania,92,19,104
+AUT,Austria,Western_Europe,126,28,109
+AZE,Azerbaijan,Central_Asia,185,253,47
+BDI,Burundi,Sub-Saharan_Africa,2325,4182,587
+BEL,Belgium,Western_Europe,514,77,148
+BEN,Benin,Sub-Saharan_Africa,8,0,8
+BFA,Burkina Faso,Sub-Saharan_Africa,174,81,20
+BGD,Bangladesh,South_Asia,7999,1207,1605
+BGR,Bulgaria,Eastern_Europe,36,28,52
+BHS,The Bahamas,North_America,0,0,0
+BIH,Bosnia and Herzegovina,Eastern_Europe,0,0,0
+BLR,Belarus,Eastern_Europe,212,14,13
+BLZ,Belize,Central_America_Caribbean,0,3,8
+BMU,Bermuda,North_America,0,0,0
+BOL,Bolivia,South_America,166,42,314
+BRA,Brazil,South_America,160,203,268
+BRN,Brunei,Southeast_Asia,1,0,1
+BTN,Bhutan,South_Asia,5,9,6
+BWA,Botswana,Sub-Saharan_Africa,11,11,10
+CAF,Central African Republic,Sub-Saharan_Africa,702,1389,235
+CAN,Canada,North_America,121,359,84
+CHE,Switzerland,Western_Europe,94,74,108
+CHL,Chile,South_America,753,226,2351
+CHN,China,East_Asia,1777,994,247
+CIV,Ivory Coast,Sub-Saharan_Africa,169,265,61
+CMR,Cameroon,Sub-Saharan_Africa,819,2091,234
+COD,Democratic Republic of the Congo,Sub-Saharan_Africa,1165,3460,628
+COG,Republic of the Congo,Sub-Saharan_Africa,53,182,34
+COL,Colombia,South_America,10199,14600,8163
+CRI,Costa Rica,Central_America_Caribbean,38,17,67
+CS-KM,Kosovo,Eastern_Europe,361,83,188
+CUB,Cuba,Central_America_Caribbean,10,8,30
+CYP,Cyprus,Western_Europe,41,45,132
+CZE,Czech Republic,Eastern_Europe,29,6,29
+DEU,Germany,Western_Europe,673,83,703
+DJI,Djibouti,Sub-Saharan_Africa,162,274,21
+DNK,Denmark,Western_Europe,29,5,41
+DOM,Dominican Republic,Central_America_Caribbean,123,32,89
+DZA,Algeria,Middle_East_North_Africa,9064,11091,2729
+ECU,Ecuador,South_America,72,54,217
+EGY,Egypt,Middle_East_North_Africa,4141,2947,2165
+ERI,Eritrea,Sub-Saharan_Africa,62,46,10
+ESH,Western Sahara,Middle_East_North_Africa,4,1,5
+ESP,Spain,Western_Europe,4818,1261,3245
+EST,Estonia,Eastern_Europe,11,3,16
+ETH,Ethiopia,Sub-Saharan_Africa,1161,1698,163
+FIN,Finland,Western_Europe,17,9,18
+FJI,Fiji,Australasia_Oceania,18,8,17
+FLK,Falkland Islands,South_America,0,0,1
+FRA,France,Western_Europe,2488,527,2642
+GAB,Gabon,Sub-Saharan_Africa,1,6,4
+GBR,United Kingdom,Western_Europe,5799,3367,5098
+GEO,Georgia,Central_Asia,387,278,216
+GHA,Ghana,Sub-Saharan_Africa,13,19,19
+GIN,Guinea,Sub-Saharan_Africa,57,213,25
+GMB,Gambia,Sub-Saharan_Africa,2,13,3
+GNB,Guinea Bissau,Sub-Saharan_Africa,0,0,0
+GNQ,Equatorial Guinea,Sub-Saharan_Africa,3,2,2
+GRC,Greece,Western_Europe,726,324,1231
+GRL,Greenland,North_America,0,0,0
+GTM,Guatemala,Central_America_Caribbean,1231,5167,2050
+GUF,French Guiana,South_America,13,1,7
+GUY,Guyana,South_America,24,41,26
+HND,Honduras,Central_America_Caribbean,240,305,322
+HRV,Croatia,Eastern_Europe,73,248,57
+HTI,Haiti,Central_America_Caribbean,300,336,213
+HUN,Hungary,Eastern_Europe,17,6,46
+IDN,Indonesia,Southeast_Asia,2418,1218,735
+IND,India,South_Asia,28241,18842,10978
+IRL,Ireland,Western_Europe,31,117,290
+IRN,Iran,Middle_East_North_Africa,4064,1638,676
+IRQ,Iraq,Middle_East_North_Africa,129437,71082,22130
+ISL,Iceland,Western_Europe,0,0,4
+ISR,Israel,Middle_East_North_Africa,7726,1666,2133
+ITA,Italy,Western_Europe,1178,413,1556
+JAM,Jamaica,Central_America_Caribbean,36,42,34
+JOR,Jordan,Middle_East_North_Africa,259,129,101
+JPN,Japan,East_Asia,6998,66,401
+KAZ,Kazakhstan,Central_Asia,21,39,27
+KEN,Kenya,Sub-Saharan_Africa,6166,1816,582
+KGZ,Kyrgyzstan,Central_Asia,25,10,32
+KHM,Cambodia,Southeast_Asia,786,543,258
+KOR,South Korea,East_Asia,134,10,38
+KWT,Kuwait,Middle_East_North_Africa,300,63,76
+LAO,Laos,Southeast_Asia,73,26,26
+LBN,Lebanon,Middle_East_North_Africa,10853,4038,2454
+LBR,Liberia,Sub-Saharan_Africa,36,177,33
+LBY,Libya,Middle_East_North_Africa,3132,2308,2053
+LKA,Sri Lanka,South_Asia,15558,15528,2981
+LSO,Lesotho,Sub-Saharan_Africa,34,46,29
+LTU,Lithuania,Eastern_Europe,2,1,8
+LUX,Luxembourg,Western_Europe,6,0,16
+LVA,Latvia,Eastern_Europe,36,2,16
+MAR,Morocco,Middle_East_North_Africa,200,292,36
+MDA,Moldova,Eastern_Europe,88,13,21
+MDG,Madagascar,Sub-Saharan_Africa,185,31,27
+MEX,Mexico,North_America,677,757,504
+MKD,Macedonia,Eastern_Europe,60,49,117
+MLI,Mali,Sub-Saharan_Africa,1004,1015,417
+MLT,Malta,Western_Europe,12,4,20
+MMR,Myanmar,Southeast_Asia,1592,1060,430
+MNE,Montenegro,Eastern_Europe,0,1,5
+MNG,Mongolia,East_Asia,0,0,0
+MOZ,Mozambique,Sub-Saharan_Africa,1506,2689,351
+MRT,Mauritania,Sub-Saharan_Africa,28,43,18
+MWI,Malawi,Sub-Saharan_Africa,0,33,4
+MYS,Malaysia,Southeast_Asia,99,148,95
+NAM,Namibia,Sub-Saharan_Africa,406,220,151
+NCL,New Caledonia,Australasia_Oceania,23,35,31
+NER,Niger,Sub-Saharan_Africa,396,1320,139
+NGA,Nigeria,Sub-Saharan_Africa,9289,20665,3418
+NIC,Nicaragua,Central_America_Caribbean,1731,10598,1970
+NLD,Netherlands,Western_Europe,58,36,128
+NOR,Norway,Western_Europe,88,79,18
+NPL,Nepal,South_Asia,2054,1968,967
+NZL,New Zealand,Australasia_Oceania,2,1,20
+OMN,Oman,Middle_East_North_Africa,0,0,0
+PAK,Pakistan,South_Asia,39925,22734,13634
+PAN,Panama,Central_America_Caribbean,83,38,127
+PER,Peru,South_America,4074,12763,6088
+PHL,Philippines,Southeast_Asia,12694,9058,6212
+PNG,Papua New Guinea,Australasia_Oceania,88,79,81
+POL,Poland,Eastern_Europe,31,7,36
+PRI,Puerto Rico,North_America,0,0,0
+PRK,North Korea,East_Asia,4,3,1
+PRT,Portugal,Western_Europe,95,32,139
+PRY,Paraguay,South_America,68,54,104
+PSE,West Bank,Middle_East_North_Africa,0,0,0
+QAT,Qatar,Middle_East_North_Africa,13,7,7
+ROU,Romania,Eastern_Europe,9,4,6
+RUS,Russia,Eastern_Europe,7332,4246,2158
+RWA,Rwanda,Sub-Saharan_Africa,914,3234,157
+SAU,Saudi Arabia,Middle_East_North_Africa,1597,640,317
+SDN,Sudan,Sub-Saharan_Africa,1993,3801,861
+SEN,Senegal,Sub-Saharan_Africa,323,325,118
+SLB,Solomon Islands,Australasia_Oceania,0,4,4
+SLE,Sierra Leone,Sub-Saharan_Africa,122,840,98
+SLV,El Salvador,Central_America_Caribbean,5062,12053,5320
+SOM,Somalia,Sub-Saharan_Africa,7516,8254,3482
+SRB,Republic of Serbia,Eastern_Europe,0,0,0
+SSD,South Sudan,Sub-Saharan_Africa,1065,2053,171
+SUR,Suriname,South_America,24,29,66
+SVK,Slovakia,Eastern_Europe,0,0,0
+SVN,Slovenia,Eastern_Europe,2,1,6
+SWE,Sweden,Western_Europe,48,17,118
+SWZ,Swaziland,Sub-Saharan_Africa,3,6,16
+SYR,Syria,Middle_East_North_Africa,12726,13132,1949
+TCD,Chad,Sub-Saharan_Africa,1680,1057,85
+TGO,Togo,Sub-Saharan_Africa,34,76,48
+THA,Thailand,Southeast_Asia,7547,2670,3668
+TJK,Tajikistan,Central_Asia,1109,305,185
+TKM,Turkmenistan,Central_Asia,3,3,2
+TLS,East Timor,Southeast_Asia,7,9,10
+TTO,Trinidad and Tobago,Central_America_Caribbean,35,6,22
+TUN,Tunisia,Middle_East_North_Africa,402,352,104
+TUR,Turkey,Middle_East_North_Africa,9572,6664,4106
+TWN,Taiwan,East_Asia,86,60,48
+TZA,United Republic of Tanzania,Sub-Saharan_Africa,0,0,0
+UGA,Uganda,Sub-Saharan_Africa,1143,3058,381
+UKR,Ukraine,Eastern_Europe,2776,2221,1650
+URY,Uruguay,South_America,6,6,76
+USA,United States of America,North_America,0,0,0
+UZB,Uzbekistan,Central_Asia,200,68,21
+VEN,Venezuela,South_America,208,222,275
+VNM,Vietnam,Southeast_Asia,27,1,10
+VUT,Vanuatu,Australasia_Oceania,0,0,2
+XXX,Northern Cyprus,Middle_East_North_Africa,0,0,0
+YEM,Yemen,Middle_East_North_Africa,8616,8011,3109
+YYY,Somaliland,Middle_East_North_Africa,0,0,0
+ZAF,South Africa,Sub-Saharan_Africa,4538,2653,1987
+ZMB,Zambia,Sub-Saharan_Africa,62,70,60
+ZWE,Zimbabwe ,Sub-Saharan_Africa,0,0,0
