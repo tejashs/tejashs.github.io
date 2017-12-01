@@ -55,22 +55,12 @@ path {
     stroke: #FF5151;
     stroke-width: 4px;
 }
-
-.graticule {
-  fill: none;
-  stroke: none;
-  stroke-width: 0.5px;
-  stroke-opacity: 0.5;
+.countries {
+  stroke: #f7f7f7;
+  fill: #d9d9d9;
 }
 
-.land {
-  fill: lightgray;
-  stroke: gray;
-  stroke-width: 0.5px;
-}
-
-.boundary {
-  fill: none;
-  stroke: gray;
-  stroke-width: 0.5px;
+.countries_hovered {
+  /*fill: #F7E5CC;*/
+  fill: red;
 }

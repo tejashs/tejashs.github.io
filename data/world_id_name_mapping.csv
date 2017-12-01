@@ -1,4 +1,4 @@
-id,name
+id,name,region
 AFG,Afghanistan
 AGO,Angola
 ALB,Albania
@@ -178,4 +178,4 @@ PSE,West Bank
 YEM,Yemen
 ZAF,South Africa
 ZMB,Zambia
-ZWE,Zimbabwe 
+ZWE,Zimbabwe
