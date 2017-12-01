@@ -9,6 +9,7 @@
     <script src="http://d3js.org/queue.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
     <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 </head>
 
 <body>
@@ -22,9 +23,10 @@
 <div id="year-chart" class="view">
 </div>
 
-<div id="usmapdiv" width="1000" height="600" class="content">
-  <svg id="usmapsvg" width="1000" height="600">
+<div id="mapDiv" width="1000" height="600" class="content">
+  <svg id="mapSvg" width="1000" height="600">
       <g id="usmap"></g>
+      <g id="worldmap"></g>
       <g id="circleGroup"></g>
   </svg>
 </div>
@@ -53,11 +55,26 @@
   </svg>
 </div>
 
+<div class="view">
+    <h2 class="">Line Chart</h2>
+    <div id="country-selector">
+        <label>Country:</label>
+        <select id="country">
+            <!--<option selected value="attendance">Attendance</option>-->
+            <!--<option value="teams">Teams</option>-->
+            <!--<option value="matches">Matches</option>-->
+            <!--<option value="goals">Goals</option>-->
+        </select>
+    </div>
+        <div id="line-chart" class="view">
 
+    </div>
+</div>
 
 <script type="application/javascript" src="public/js/util.js"></script>
 <script type="application/javascript" src="public/js/summary.js"></script>
 <script type="application/javascript" src="public/js/barchart.js"></script>
+    <script type="application/javascript" src="public/js/linechart.js"></script>
 <script type="application/javascript" src="public/js/worldmap.js"></script>
 <script type="application/javascript" src="public/js/usmap.js"></script>
 <script type="application/javascript" src="public/js/yearchart.js"></script>

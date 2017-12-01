@@ -38,17 +38,19 @@ class USMap {
 
     drawMap(data){
       let self = this;
-      d3.select("#usmap").selectAll("path")
+      self.svg = d3.select("#mapSvg");
+      self.svg.select("#usmap").selectAll("path")
       .data(data.features)
       .enter()
       .append("path")
+      .attr("class", "countries")
       .attr("d", self.path);
     }
 
     plotStates(data){
       let self = this;
       let crapGps = [];
-      var circles = d3.select("#circleGroup").selectAll("circle").data(data);
+      var circles = self.svg.select("#circleGroup").selectAll("circle").data(data);
       let circlesEnter = circles.enter().append("circle");
       circles.exit().remove();
       circles = circlesEnter.merge(circles);
@@ -119,12 +121,19 @@ class USMap {
       if(years.length > 0){
         let fData = this.filterDataByYear(years, allData);
         this.plotStates(fData);
+        this.logData(fData);
       }
       else{
         this.plotStates(allData);
       }
     }
 
+    logData(data){
+        for(var i=0; i<data.length; i++){
+          console.log();
+          console.log(data[i]["month"] + "/" + data[i]["day"] + "/" + data[i]["year"] + " -- "+ data[i]["city"]);
+        }
+    }
     filterDataByYear(years, data){
       let yearData = data.filter(function(d){
         return years.includes(d.year);
