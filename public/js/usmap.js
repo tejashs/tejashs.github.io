@@ -38,17 +38,19 @@ class USMap {
 
     drawMap(data){
       let self = this;
-      d3.select("#usmap").selectAll("path")
+      self.svg = d3.select("#mapSvg");
+      self.svg.select("#usmap").selectAll("path")
       .data(data.features)
       .enter()
       .append("path")
+      .attr("class", "countries")
       .attr("d", self.path);
     }
 
     plotStates(data){
       let self = this;
       let crapGps = [];
-      var circles = d3.select("#circleGroup").selectAll("circle").data(data);
+      var circles = self.svg.select("#circleGroup").selectAll("circle").data(data);
       let circlesEnter = circles.enter().append("circle");
       circles.exit().remove();
       circles = circlesEnter.merge(circles);
