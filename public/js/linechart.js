@@ -71,7 +71,7 @@ class LineChart {
                     .y(function(d,i) {
                         // console.log(attackScale(parseInt(d["count"])))
                         return attackScale(parseInt(d["count"])); })
-                    .curve(d3.curveBasis);
+                    .curve(d3.curveCatmullRom);
                     // .
 
                 let lineGraph=line.selectAll("path").data([data_year]).style("opacity", 1)
