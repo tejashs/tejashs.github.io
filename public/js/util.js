@@ -52,7 +52,7 @@
 
   function groupBy(data, colName){
     var group = d3.nest()
-    .key(function(d) { if (d[colName] != "Unknown") return d[colName]; })
+    .key(function(d) { return d[colName]; })
     .rollup(function(v) { return v.length; })
     .entries(data);
 
