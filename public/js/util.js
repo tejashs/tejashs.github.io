@@ -1,6 +1,6 @@
   keys = {};
   keys["fatalities"] = "Fatalities";
-  keys["num_attacks"] = "Attacks";
+  keys["counts"] = "Attacks";
   keys["injuries"] = "Injuries";
 
   regions = {};
@@ -20,11 +20,15 @@
   currentRegionSelected = null;
 
   function setRegionSelected(region){
-    currentRegionSelected = regions[region];
+    currentRegionSelected = region;
   }
 
   function getRegionSelected(){
     return currentRegionSelected;
+  }
+
+  function getRegionForKey(regionKey){
+    return regions[regionKey];
   }
 
   function getStringForKey(key){

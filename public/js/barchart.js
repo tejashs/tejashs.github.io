@@ -21,7 +21,7 @@ class BarChart {
         let self = this;
 
         let selectedRegion = getRegionSelected();
-        
+
         var data = self.getCountries(this.data, selectedRegion)
 
         var selectedData = []
@@ -42,10 +42,10 @@ class BarChart {
 
         console.log(d3.max(selectedData))
         console.log(selectedData)
-        
+
         var y = d3.scaleBand()
         .range([height, 0]);
-        
+
         let colorScale = d3.scaleLinear()
         .domain([0, d3.max(selectedData)])
         .range(["#D46A6A", "#550000"]);
@@ -54,7 +54,7 @@ class BarChart {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
         // x.domain([0, d3.max(data, function(d) { return d[selectedDimension]; })]);
-        y.domain(data.map(function(d) { return d.country; })).padding(0.1);
+        y.domain(data.map(function(d) { return d.name; })).padding(0.1);
 
          var xAxis = svg.select("#xAxis")
         .attr("transform", "translate(" + margin.left + "," + (600 - margin.bottom) + ")")
@@ -64,7 +64,7 @@ class BarChart {
 
         var bars = svg.select("#bars")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        
+
         xAxis.transition().duration(1000).call(d3.axisBottom(x));
 
         yAxis
@@ -80,7 +80,7 @@ class BarChart {
         .transition().duration(1000)
         .attr("x", 0)
         .attr("y", function(d) {
-            return y(d.country);
+            return y(d.name);
         })
         .attr("height", y.bandwidth())
         .attr("width", function(d) {

@@ -150,7 +150,7 @@ function showWorld(){
 	############
 	*/
 	if(barChartData == null){
-		d3.csv("data/gtd_by_countries.csv", function(error, data) {
+		d3.csv("data/group_by_counts.csv", function(error, data) {
 			if (error) throw error;
 			barChartData = data;
 			barChart.setData(barChartData);
