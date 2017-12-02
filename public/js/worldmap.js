@@ -16,8 +16,7 @@ class WorldMap {
     this.path = d3.geoPath().projection(this.projection);
   }
 
-  setCountriesMappings(id_name_map, id_region_map, region_countries_map, id_counts_map){
-    this.id_name_map = id_name_map
+  setCountriesMappings(id_region_map, region_countries_map, id_counts_map){
     this.id_region_map = id_region_map;
     this.region_countries_map = region_countries_map;
     this.id_counts_map = id_counts_map;

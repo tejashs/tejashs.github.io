@@ -19,6 +19,11 @@ worldCountriesData = null;
 //Bar Chart related data
 barChartData = null;
 
+loadDataAsync();
+
+//#################################################################################
+// All Functions Below this line
+
 function mainButtonClicked(value){
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
@@ -42,124 +47,116 @@ function mainButtonClicked(value){
 		showWorld();
 	}
 }
-/*
-###########
-USA MAP
-############
-*/
-function showUSA(){
-	// #################  Data for US map
 
-	if(usEntireData == null){
-	// 	d3.csv("data/united_states_gtd.csv", function(error, us) {
-	// 		if (error) throw error;
-	// 		usEntireData = us;
-	// 		usMap.setEntireData(usEntireData);
-	// 		usMap.plotStates(usEntireData);
-	// 		yearchart.update(usEntireData);
-	// 	});
-	// }
-	// else {
-	// 	usMap.setEntireData(usEntireData);
-	// 	usMap.plotStates(usEntireData);
-	// 	yearchart.update(usEntireData);
-	// }
-	d3.csv("data/us_attacks_agg.csv", function(error, us) {
-		if (error) throw error;
-		aggData = Object();
-		for(var i=0; i < us.length; i++){
-				aggData[us[i]["state"]] = us[i];
-		}
-		usEntireData = aggData;
-		usMap.colorStates(aggData);
-	});
-}
-else {
-	usMap.colorStates(aggData);
-}
-if(usMapData == null){
-	d3.json("data/ustopo.json", function(error, us) {
-		if (error) throw error;
-		usMapData = us;
-		usMap.drawMap(usMapData);
-	});
-}
-else{
-	usMap.drawMap(usMapData);
-}
-}
-
-
-
-/*
-###########
-WORLD MAP
-############
-*/
 function showWorld(){
-	// Load World Map Data
-	if (worldMapData == null){
-		d3.json("data/world.json", function (error, world) {
-			if (error) throw error;
-			worldMapData = world;
-			worldMap.drawMap(worldMapData);
-		});
-	}
-	else {
-		worldMap.drawMap(worldMapData);
-	}
-
-	// Load other Data for World Countries Mapping
-	if(worldCountriesData == null){
-		d3.csv("data/group_by_counts.csv", function(error, countries) {
-			if (error) throw error;
-			var id_name_map = new Object();
-			var id_region_map = new Object();
-			var region_countries_map = new Object();
-			var id_counts_map = new Object();
-			for(var i=0; i < countries.length; i++){
-				let c = countries[i];
-				id_name_map[c.id] = c["name"];
-				let region = c["region"];
-				id_region_map[c.id] = region;
-				id_counts_map[c.id] = c.counts;
-				if(region in region_countries_map){
-					cns = region_countries_map[region];
-				}
-				else {
-					cns = []
-				}
-				cns.push(c["name"]);
-				region_countries_map[region] = cns
-			}
-			worldCountriesData = Object();
-			worldCountriesData["id_name_map"] = id_name_map;
-			worldCountriesData["id_region_map"] = id_region_map;
-			worldCountriesData["region_countries_map"] = region_countries_map;
-			worldCountriesData["id_counts_map"] = id_counts_map;
-			worldMap.setCountriesMappings(worldCountriesData["id_name_map"], worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_counts_map"]);
-		});
-	}
-	else {
-		worldMap.setCountriesMappings(worldCountriesData["id_name_map"], worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_counts_map"]);
-	}
-
-	/*
-	###########
-	Bar Charts
-	############
-	*/
-	if(barChartData == null){
-		d3.csv("data/group_by_counts.csv", function(error, data) {
-			if (error) throw error;
-			barChartData = data;
-			barChart.setData(barChartData);
-			// barChart.updateBarChart("num_attacks", 'East Asia');
-		});
-	}
+	worldMap.setCountriesMappings(worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_counts_map"]);
+	worldMap.drawMap(worldMapData);
+	barChart.setData(barChartData);
+}
+function showUSA(){
+	usMap.setStateAggData(aggData);
+	usMap.drawMap(usMapData);
 }
 
 function changeData() {
 	let metric = document.getElementById('metric').value;
 	barChart.updateBarChart(metric, 'East Asia')
+}
+
+/*
+###########
+LOAD WORLD MAP DATA
+############
+*/
+function loadWorldMapData(callback){
+	d3.json("data/world.json", function (error, world) {
+		if (error) throw error;
+		worldMapData = world;
+		console.log("World Map - Map Data Loaded!");
+		callback(null);
+	});
+}
+function loadWorldMapFullData(callback){
+	d3.csv("data/group_by_counts.csv", function(error, countries) {
+		if (error) throw error;
+		var id_region_map = new Object();
+		var region_countries_map = new Object();
+		var id_counts_map = new Object();
+		for(var i=0; i < countries.length; i++){
+			let c = countries[i];
+			let region = c.region
+			id_region_map[c.id] = region;
+			id_counts_map[c.id] = c.counts;
+			if(region in region_countries_map){
+				cns = region_countries_map[region];
+			}
+			else {
+				cns = []
+			}
+			cns.push(c["name"]);
+			region_countries_map[region] = cns
+		}
+		worldCountriesData = Object();
+		worldCountriesData["id_region_map"] = id_region_map;
+		worldCountriesData["region_countries_map"] = region_countries_map;
+		worldCountriesData["id_counts_map"] = id_counts_map;
+		console.log("World Map - Full Data Loaded!");
+		callback(null);
+
+	});
+}
+/*
+###########
+LOAD BAR CHART DATA
+############
+*/
+function loadBarChartData(callback){
+	d3.csv("data/group_by_counts.csv", function(error, data) {
+		if (error) throw error;
+		barChartData = data;
+		console.log("World Map - Bar Chart Data Loaded!");
+		callback(null);
+	});
+}
+/*
+###########
+LOAD US MAP DATA
+############
+*/
+function loadUSMapData(callback){
+	d3.json("data/ustopo.json", function(error, us) {
+		if (error) throw error;
+		usMapData = us;
+		console.log("US Map - Map Data Loaded!");
+		callback(null);
+	});
+}
+function loadUSMapFullData(callback){
+	d3.csv("data/us_attacks_agg.csv", function(error, us) {
+		if (error) throw error;
+		aggData = Object();
+		for(var i=0; i < us.length; i++){
+			aggData[us[i]["state"]] = us[i];
+		}
+		usEntireData = aggData;
+		console.log("US Map - Full Data Loaded!");
+		callback(null);
+	});
+}
+/*
+###########
+LOAD ENTIRE DATA ASYNC
+############
+*/
+function loadDataAsync(){
+	var q = d3.queue();
+	q.defer(loadWorldMapData);
+	q.defer(loadWorldMapFullData);
+	q.defer(loadUSMapData);
+	q.defer(loadUSMapFullData);
+	q.defer(loadBarChartData);
+	q.awaitAll(function(error) {
+		if (error) throw error;
+		console.log("All Data Loaded!");
+	});
 }
