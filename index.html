@@ -5,28 +5,63 @@
     <meta charset="UTF-8">
     <title>Visualization - Project - Global Terrorism</title>
     <link rel="stylesheet" href="public/css/style.css"/>
-    <!-- Ext Javascript Files -->
-    <script type="application/javascript" src="bower_components/ext/d3.v4.js"></script>
-    <script type="application/javascript" src="bower_components/ext/queue.v1.min.js"></script>
-    <script type="application/javascript" src="bower_components/ext/topojson.min.js"></script>
-    <script type="application/javascript" src="bower_components/ext/d3.tip.v0.6.3.js"></script>
-    <script type="application/javascript" src="bower_components/d3-tip/index.js"></script>
-    <script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script>
-    <script type="application/javascript" src="bower_components/cloud.js"></script>
+    <!-- Bootstrap core CSS -->
+    <link href="public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="public/bootstrap/css/justified-nav.css" rel="stylesheet">
   </head>
 
 <body>
 
-<h1>Global Terrorism Visualization</h1>
-<p class="info">Name: Akshay Khatwani; E-Mail: akshay.khatwani@utah.edu ; UID:u1071619 </p>
-<p class="info">Name: Giorgi Kvernadze; E-Mail: ; UID:</p>
-<p class="info">Name: Tejas Hirekatur Sreedhar; E-Mail: tejashs@cs.utah.edu; UID: U1077667</p>
+  <div class="container">
 
+      <div class="masthead">
+        <h3 class="text-muted">Project name</h3>
 
-<form id="mainButton" action="">
-  <input type="radio" name="main" value="usa">U.S.A<br>
-  <input type="radio" name="main" value="world">World<br>
-</form>
+        <nav class="navbar navbar-light bg-faded rounded mb-3">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-toggleable-md" id="navbarCollapse">
+            <ul class="nav navbar-nav text-md-center justify-content-md-between">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Projects</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Downloads</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown01">
+                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Jumbotron -->
+      <div id="fJumbo" class="jumbotron" width="1000" height="100" >
+        <h1>Global Terrorism</h1>
+        <p class="lead">Fuck this shit, I'm out!</p>
+
+        <div class="btn-group">
+        </div>
+        <a id="mainButton1" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('usa')" role="button">USA</a>
+        <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">World</a>
+      </div>
 
 <div id="year-chart" class="view">
 </div>
@@ -39,11 +74,11 @@
   </svg>
 </div>
 
-<div id="summaryDiv" width="400" height="400">
+<!-- <div id="summaryDiv" width="400" height="400">
     <h3>Attack Summary: </h3>
     <span id="summarytext">
   </span>
-</div>
+</div> -->
 
 <h2>Countries with highest number of terrorist attacks</h2>
 <span>
@@ -83,8 +118,6 @@
 
     </div>
 </div>
-
-
 <div id="info-Panel" class="view">
     <h2 class="">Info Panel</h2>
     <div id="word-cloud" class="view">
@@ -92,9 +125,21 @@
     <svg width="800" height="700">
     </svg>
     </div>
-
-
 </div>
+</div> <!-- /container -->
+<!-- Ext Javascript Files -->
+<script type="application/javascript" src="bower_components/ext/d3.v4.js"></script>
+<script type="application/javascript" src="bower_components/ext/queue.v1.min.js"></script>
+<script type="application/javascript" src="bower_components/ext/topojson.min.js"></script>
+<script type="application/javascript" src="bower_components/ext/d3.tip.v0.6.3.js"></script>
+<script type="application/javascript" src="bower_components/d3-tip/index.js"></script>
+<script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script>
+<script type="application/javascript" src="bower_components/ext/cloud.js"></script>
+<!--  Bootstrap related files -->
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script type="application/javascript" src="public/bootstrap/js/bootstrap.min.js"></script>
 <!-- Own Javascript Files -->
 <script type="application/javascript" src="public/js/util.js"></script>
 <script type="application/javascript" src="public/js/summary.js"></script>

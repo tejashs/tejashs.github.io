@@ -112,6 +112,10 @@ class LineChart {
                         self.infoPanel.WordCloud(keywords)
                     });
 
+                    d3.csv("data/Country_grouped_data/" + sel_country + "/top_year.csv", function (error, topYear) {
+                        self.infoPanel.TopLists(topYear)
+                    });
+
                 });
 
                 });
