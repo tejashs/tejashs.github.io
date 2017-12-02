@@ -4,7 +4,8 @@ class InfoPanel{
     }
     
     WordCloud(data){
-        console.log(data)
+        console.log("Hello");
+        console.log(data);
         
     }
     

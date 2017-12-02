@@ -32,10 +32,17 @@ class LineChart {
                 if (error) throw error;
                 let year = []
                 let attacks = []
+                let max_attacks=0
+                let max_year=0
                 for (let i of data_year) {
                     year.push(parseInt(i["year"]))
                     attacks.push(parseInt(i["count"]))
+                    if(parseInt(i["count"])>max_attacks){
+                        max_attacks=parseInt(i["count"]);
+                        max_year=parseInt(i["year"])
+                    }
                 }
+
                 let svg = d3.select("#line-chart")
                 let yearScale = d3
                     .scaleLinear()
@@ -82,17 +89,34 @@ class LineChart {
                 let lineEnter = lineGraph.enter().append("path");
                 lineGraph = lineEnter.merge(lineGraph);
 
-
                 lineGraph
                     .transition().duration(500)
                     .attr("class", "line")
                     .attr("d", valueline);
 
+                    line.selectAll("circle").remove()
+                    let node_m=line.append("circle")
 
-            });
-            d3.csv("data/Country_grouped_data/" + sel_country + "/top_keywords.csv", function (error, keywords) {
-                self.infoPanel.WordCloud(keywords)
-            });
+                // let node_m=line.selectAll("circle").data(1)
+                // node_m.exit().remove();
+                // let nodeEnter = node_m.enter().append("circle");
+                // node_m = nodeEnter.merge(node_m);
+                //
+                node_m.attr("cx", yearScale(max_year))
+                        .attr("cy", attackScale(max_attacks)+5)
+                                     .attr("r", 10)
+                                      .style("fill", "#2F4F4F");
+
+                var hover=line.selectAll('circle').on("click", function(){
+                    d3.csv("data/Country_grouped_data/" + sel_country + "/top_keywords.csv", function (error, keywords) {
+                        self.infoPanel.WordCloud(keywords)
+                    });
+
+                });
+
+                });
+
+
         }
 
 
