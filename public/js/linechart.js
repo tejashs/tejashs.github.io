@@ -1,9 +1,10 @@
 class LineChart {
 
-    constructor(){
+    constructor(infoPanel){
     this.margin = {top: 30, right: 30, bottom: 30, left: 60};
         this.width = 1000 - this.margin.left - this.margin.right;
         this.height = 550 - this.margin.top - this.margin.bottom;
+        this.infoPanel=infoPanel;
 
     }
 
@@ -21,40 +22,41 @@ class LineChart {
 
 
 
-        function chooseData(){
-            var si   = select.property('selectedIndex');
-            let s = options.filter(function (d, i) { return i === si });
+        function chooseData() {
+            var si = select.property('selectedIndex');
+            let s = options.filter(function (d, i) {
+                return i === si
+            });
             let sel_country = s.datum();
-            d3.csv("data/Country_grouped_data/"+sel_country+"/data.csv", function(error, data_year) {
+            d3.csv("data/Country_grouped_data/" + sel_country + "/data.csv", function (error, data_year) {
                 if (error) throw error;
-                let year=[]
-                let attacks=[]
-                for (let i of data_year){
+                let year = []
+                let attacks = []
+                for (let i of data_year) {
                     year.push(parseInt(i["year"]))
                     attacks.push(parseInt(i["count"]))
                 }
-                let svg=d3.select("#line-chart")
+                let svg = d3.select("#line-chart")
                 let yearScale = d3
                     .scaleLinear()
-                    .domain([year[0],year[year.length-1]])
-                    .range([0,self.width]);
+                    .domain([year[0], year[year.length - 1]])
+                    .range([0, self.width]);
                 let attackScale = d3
                     .scaleLinear()
-                    .domain([0,d3.max(attacks)])
-                    .range([self.height,0]);
+                    .domain([0, d3.max(attacks)])
+                    .range([self.height, 0]);
 
                 var line = svg.select("#line")
                     .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
 
-            let xAxis= svg.select("#xAxis_L")
-                .attr("transform", "translate(" + self.margin.left + "," + (550 - self.margin.bottom) + ")");
+                let xAxis = svg.select("#xAxis_L")
+                    .attr("transform", "translate(" + self.margin.left + "," + (550 - self.margin.bottom) + ")");
 
 
-            let yAxis= svg.select("#yAxis_L")
-                .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
+                let yAxis = svg.select("#yAxis_L")
+                    .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
 
-                xAxis.transition().duration(500).
-                call(d3.axisBottom(yearScale).tickFormat(d3.format("d")));
+                xAxis.transition().duration(500).call(d3.axisBottom(yearScale).tickFormat(d3.format("d")));
 
 
                 yAxis
@@ -62,19 +64,20 @@ class LineChart {
                     .call(d3.axisLeft(attackScale))
 
 
-
                 var valueline = d3.line()
-                    // .interpolate("basis")
-                    .x(function(d,i) {
+                // .interpolate("basis")
+                    .x(function (d, i) {
                         // console.log(yearScale(parseInt(d["year"])));
-                        return yearScale(parseInt(d["year"])); })
-                    .y(function(d,i) {
+                        return yearScale(parseInt(d["year"]));
+                    })
+                    .y(function (d, i) {
                         // console.log(attackScale(parseInt(d["count"])))
-                        return attackScale(parseInt(d["count"])); })
+                        return attackScale(parseInt(d["count"]));
+                    })
                     .curve(d3.curveCatmullRom);
-                    // .
+                // .
 
-                let lineGraph=line.selectAll("path").data([data_year]).style("opacity", 1)
+                let lineGraph = line.selectAll("path").data([data_year]).style("opacity", 1)
                 lineGraph.exit().transition().duration(500).style("opacity", 0).remove()
                 let lineEnter = lineGraph.enter().append("path");
                 lineGraph = lineEnter.merge(lineGraph);
@@ -87,8 +90,9 @@ class LineChart {
 
 
             });
-
-
+            d3.csv("data/Country_grouped_data/" + sel_country + "/top_keywords.csv", function (error, keywords) {
+                self.infoPanel.WordCloud(keywords)
+            });
         }
 
 
