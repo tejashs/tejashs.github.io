@@ -2,6 +2,10 @@ class InfoPanel{
     constructor(){
         
     }
+
+    TopLists(data){
+    	console.log(getTopYearInfo(data))
+    }
     
     WordCloud(data){
         var word_count = {};
