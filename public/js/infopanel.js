@@ -55,9 +55,9 @@ class InfoPanel{
             //     .selectAll("g").remove();
 
 	        var texts = svg
-	        .selectAll("text").data(words);
+	        .selectAll("text").data(words)
 
-                enter().append("text");
+				.enter().append("text");
 
 
 
