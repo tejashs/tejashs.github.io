@@ -37,9 +37,8 @@ class BarChart {
         let height = 600 - margin.top - margin.bottom
 
         var x = d3.scaleLinear()
-        .domain([0, d3.max(selectedData)])
+                .domain([0, d3.max(selectedData)])
         .range([0, width]);
-
 
         console.log(d3.max(selectedData))
         console.log(selectedData)
@@ -66,7 +65,7 @@ class BarChart {
         var bars = svg.select("#bars")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
         
-        xAxis.call(d3.axisBottom(x))
+        xAxis.transition().duration(1000).call(d3.axisBottom(x));
 
         yAxis
         .transition().duration(1000)
