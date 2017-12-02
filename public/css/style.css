@@ -77,3 +77,9 @@ path {
   stroke: url(#mainGradient);
   stroke-width: 4;
 }
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 4px;
+}

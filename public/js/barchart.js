@@ -50,15 +50,6 @@ class BarChart {
         .domain([0, d3.max(selectedData)])
         .range(["#D46A6A", "#550000"]);
 
-        // let xScale = d3.scaleBand()
-        //     .range([0, width])
-        //     .paddingInner(0.05)
-        //     .domain(data.map(d => d.country))
-
-        // let yScale = d3.scaleLinear()
-        //     .range([height, 0])
-        //     .domain([0, d3.max(selectedData)])
-
         var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 

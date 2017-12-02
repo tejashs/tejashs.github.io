@@ -5,13 +5,14 @@
     <meta charset="UTF-8">
     <title>Visualization - Project - Global Terrorism</title>
     <link rel="stylesheet" href="public/css/style.css"/>
-    <script src="https://d3js.org/d3.v4.js"></script>
-    <script src="http://d3js.org/queue.v1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
-    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
-    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
-
-</head>
+    <!-- Ext Javascript Files -->
+    <script type="application/javascript" src="bower_components/ext/d3.v4.js"></script>
+    <script type="application/javascript" src="bower_components/ext/queue.v1.min.js"></script>
+    <script type="application/javascript" src="bower_components/ext/topojson.min.js"></script>
+    <script type="application/javascript" src="bower_components/ext/d3.tip.v0.6.3.js"></script>
+    <script type="application/javascript" src="bower_components/d3-tip/index.js"></script>
+    <script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script>
+  </head>
 
 <body>
 
@@ -68,10 +69,16 @@
         </select>
     </div>
         <div id="line-chart" class="view">
+            <svg width="1100" height="550">
+                <g id="xAxis_L"></g>
+                <g id="yAxis_L"></g>
+                <g id="line"></g>
+            </svg>
 
     </div>
 </div>
 
+<!-- Own Javascript Files -->
 <script type="application/javascript" src="public/js/util.js"></script>
 <script type="application/javascript" src="public/js/summary.js"></script>
 <script type="application/javascript" src="public/js/barchart.js"></script>
@@ -81,9 +88,5 @@
 <script type="application/javascript" src="public/js/yearchart.js"></script>
 <script type="text/javascript" src="bower_components/d3-tip/index.js"></script>
 <script type="application/javascript" src="public/js/script.js"></script>
-
-
-
-</script>
 </body>
 </html>
