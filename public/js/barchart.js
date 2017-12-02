@@ -6,19 +6,22 @@ class BarChart {
      * @param infoPanel
      * @param allData
      */
-    constructor(data) {
-        this.data = data
+    constructor() {
+        this.data = null;
     }
 
+    setData(data){
+      this.data = data;
+    }
     /**
      * Render and update the bar chart based on the selection of the data type in the drop-down box
      */
-    updateBarChart(selectedDimension, selectedRegion) {
+    updateBarChart(selectedDimension) {
 
         let self = this;
 
-        console.log(selectedRegion)
-
+        let selectedRegion = getRegionSelected();
+        
         var data = self.getCountries(this.data, selectedRegion)
 
         var selectedData = []

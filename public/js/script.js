@@ -3,8 +3,7 @@ let usMap = new USMap(summary);
 let linechart = new LineChart();
 let worldMap = new WorldMap(linechart);
 let yearchart = new YearChart(usMap);
-
-let barChart = null;
+let barChart = new BarChart();
 
 // #################  Data for World Countries Mapping
 d3.csv("data/group_by_counts.csv", function(error, countries) {
@@ -49,8 +48,8 @@ d3.csv("data/group_by_counts.csv", function(error, countries) {
 
 d3.csv("data/gtd_by_countries.csv", function(error, data) {
 	if (error) throw error;
-  	barChart = new BarChart(data);
-    barChart.updateBarChart("num_attacks", 'East Asia');
+  	barChart.setData(data);
+    // barChart.updateBarChart("num_attacks", 'East Asia');
 });
 //
 // function changeData() {
@@ -68,8 +67,7 @@ function changeData() {
 var f = "../data/Country_grouped_data/United States/top_year.csv"
 
 d3.csv(f, function(error, data) {
-  if (error) throw error;
-  console.log(getTopYearInfo(data))
+  if (error) throw error;  
 });
 
 d3.json("data/world.json", function (error, world) {

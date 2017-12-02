@@ -68,9 +68,9 @@ class WorldMap {
         }
         return self.colorScale(attacks);
       });
+      setRegionSelected(region);
       let countries = self.region_countries_map[region];
-      self.linechart.dropMenu(countries)
-      console.log(countries);
+      self.linechart.dropMenu(countries);
     });
     paths.classed("countries_hovered", false);
   }
