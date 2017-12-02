@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Visualization - Project - Global Terrorism</title>
+    <link rel="icon" href="data:,">  <!-- Hack to stop favicon -->
     <link rel="stylesheet" href="public/css/style.css"/>
     <!-- Bootstrap core CSS -->
     <link href="public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -128,12 +129,17 @@
 </div>
 </div> <!-- /container -->
 <!-- Ext Javascript Files -->
-<script type="application/javascript" src="bower_components/ext/d3.v4.js"></script>
-<script type="application/javascript" src="bower_components/ext/queue.v1.min.js"></script>
-<script type="application/javascript" src="bower_components/ext/topojson.min.js"></script>
+<!-- <script type="application/javascript" src="bower_components/ext/d3.v4.js"></script> -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<!-- <script type="application/javascript" src="bower_components/ext/queue.v1.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+<!-- <script type="application/javascript" src="bower_components/ext/topojson.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 <script type="application/javascript" src="bower_components/ext/d3.tip.v0.6.3.js"></script>
 <script type="application/javascript" src="bower_components/d3-tip/index.js"></script>
-<script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script>
+<!-- <script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo-projection/2.3.1/d3-geo-projection.min.js"></script>
+
 <script type="application/javascript" src="bower_components/ext/cloud.js"></script>
 <!--  Bootstrap related files -->
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
