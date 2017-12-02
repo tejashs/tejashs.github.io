@@ -1,13 +1,9 @@
 class LineChart {
 
     constructor(){
-    this.margin = {top: 50, right: 20, bottom: 30, left: 160};
+    this.margin = {top: 30, right: 30, bottom: 30, left: 60};
         this.width = 1000 - this.margin.left - this.margin.right;
         this.height = 550 - this.margin.top - this.margin.bottom;
-        let divlinechart=d3.select("#line-chart")
-        this.svg = divlinechart.append("svg")
-            .attr("width", this.width)
-            .attr("height", this.height)
 
     }
 
@@ -21,24 +17,81 @@ class LineChart {
         options.text(function(d) { return d });
 
         // Set the dimensions of the canvas / graph
-        let yearScale = d3
-            .scaleLinear()
-            .domain([1973,2016])
-            .range([self.margin.left,self.margin.left+self.width]);
-
-        let attackScale = d3
-            .scaleLinear()
-            .domain([0,2000])
-            .range([self.height+self.margin.bottom,self.margin.bottom]);
 
 
 
 
         function chooseData(){
-            console.log("hello")
+            var si   = select.property('selectedIndex');
+            let s = options.filter(function (d, i) { return i === si });
+            let sel_country = s.datum();
+            d3.csv("data/Country_grouped_data/"+sel_country+"/data.csv", function(error, data_year) {
+                if (error) throw error;
+                let year=[]
+                let attacks=[]
+                for (let i of data_year){
+                    year.push(parseInt(i["year"]))
+                    attacks.push(parseInt(i["count"]))
+                }
+                let svg=d3.select("#line-chart")
+                let yearScale = d3
+                    .scaleLinear()
+                    .domain([year[0],year[year.length-1]])
+                    .range([0,self.width]);
+                let attackScale = d3
+                    .scaleLinear()
+                    .domain([0,d3.max(attacks)])
+                    .range([self.height,0]);
+
+                var line = svg.select("#line")
+                    .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
+
+            let xAxis= svg.select("#xAxis_L")
+                .attr("transform", "translate(" + self.margin.left + "," + (550 - self.margin.bottom) + ")");
+
+
+            let yAxis= svg.select("#yAxis_L")
+                .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
+
+                xAxis.transition().duration(500).
+                call(d3.axisBottom(yearScale).tickFormat(d3.format("d")));
+
+
+                yAxis
+                    .transition().duration(500)
+                    .call(d3.axisLeft(attackScale))
+
+
+
+                var valueline = d3.line()
+                    // .interpolate("basis")
+                    .x(function(d,i) {
+                        // console.log(yearScale(parseInt(d["year"])));
+                        return yearScale(parseInt(d["year"])); })
+                    .y(function(d,i) {
+                        // console.log(attackScale(parseInt(d["count"])))
+                        return attackScale(parseInt(d["count"])); })
+                    .curve(d3.curveCatmullRom);
+                    // .
+
+                let lineGraph=line.selectAll("path").data([data_year]).style("opacity", 1)
+                lineGraph.exit().transition().duration(500).style("opacity", 0).remove()
+                let lineEnter = lineGraph.enter().append("path");
+                lineGraph = lineEnter.merge(lineGraph);
+
+
+                lineGraph
+                    .transition().duration(500)
+                    .attr("class", "line")
+                    .attr("d", valueline);
+
+
+            });
+
+
         }
 
-        // console.log(countries)
+
     }
 
 }
