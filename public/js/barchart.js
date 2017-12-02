@@ -37,8 +37,8 @@ class BarChart {
         let height = 600 - margin.top - margin.bottom
 
         var x = d3.scaleLinear()
-        .range([0, width])
-        .domain([0, d3.max(selectedData)]);
+                .domain([0, d3.max(selectedData)])
+        .range([0, width]);
 
         console.log(d3.max(selectedData))
         console.log(selectedData)
@@ -53,7 +53,7 @@ class BarChart {
         var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-        x.domain([0, d3.max(data, function(d) { return d[selectedDimension]; })]);
+        // x.domain([0, d3.max(data, function(d) { return d[selectedDimension]; })]);
         y.domain(data.map(function(d) { return d.country; })).padding(0.1);
 
          var xAxis = svg.select("#xAxis")
@@ -65,7 +65,7 @@ class BarChart {
         var bars = svg.select("#bars")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
         
-        xAxis.call(d3.axisBottom(x))
+        xAxis.transition().duration(1000).call(d3.axisBottom(x));
 
         yAxis
         .transition().duration(1000)
