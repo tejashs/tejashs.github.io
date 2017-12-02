@@ -80,8 +80,9 @@ class WorldMap {
     height = 50,
     padding = 15;
 
-    var div = d3.select('#mapDiv'),
-    svg = div.append('svg');
+    var div = d3.select('#mapDiv');
+    div.select("#gradient").remove();
+    let svg = div.append('svg');
 
     svg.attr("id", "gradient").attr('width', width).attr('height', height);
     var svgDefs = svg.append('defs');
