@@ -3,8 +3,69 @@ class InfoPanel{
         
     }
 
-    TopLists(data){
-    	console.log(getTopYearInfo(data))
+    TopLists(data) {
+        console.log(getTopYearInfo(data)[0][0]['key'])
+        // console.log(getTopYearInfo(data)[0][0])
+        // console.log(getTopYearInfo(data)[0]['key'])
+        let panel=getTopYearInfo(data)[0]
+
+        let tgroups = d3.select("#tgroups").selectAll("ul").data(panel);
+        let Entertgroups = tgroups.enter().append("ul").text(function (d, i) {
+
+        		// console.log("Hi");
+        		// console.log(d["key"]);
+        		return d['key'];}
+
+
+        );
+
+
+        tgroups.exit().remove();
+        tgroups = tgroups.merge(Entertgroups);
+
+        tgroups.text(function (d,i) {
+            return d["key"]
+        });
+
+        let panel2=getTopYearInfo(data)[2]
+
+        let weapons = d3.select("#weapons").selectAll("ul").data(panel2);
+        let Enterweapons = weapons.enter().append("ul").text(function (d, i) {
+
+            // console.log("Hi");
+            // console.log(d["key"]);
+            return d['key'];}
+
+
+        );
+
+
+        weapons.exit().remove();
+        weapons = weapons.merge(Enterweapons);
+
+        weapons.text(function (d,i) {
+            return d["key"]
+        });
+
+        let panel3=getTopYearInfo(data)[1]
+
+        let targets = d3.select("#targets").selectAll("ul").data(panel3);
+        let Entertargets = targets.enter().append("ul").text(function (d, i) {
+
+            // console.log("Hi");
+            // console.log(d["key"]);
+            return d['key'];}
+
+
+        );
+
+
+        weapons.exit().remove();
+        weapons = weapons.merge(Entertargets);
+
+        weapons.text(function (d,i) {
+            return d["key"]
+        });
     }
     
     WordCloud(data){
