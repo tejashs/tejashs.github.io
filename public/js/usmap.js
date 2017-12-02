@@ -7,6 +7,10 @@ class USMap {
 
       this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height /3]).scale([1200]);
       this.path = d3.geoPath().projection(this.projection);
+      this.aggData = null;
+      this.colorScale = d3.scaleLinear()
+      .range(["#D46A6A", "#550000"])
+      .domain([0,500]);
     }
 
     tooltip_render(tooltip_data) {
@@ -39,12 +43,19 @@ class USMap {
     drawMap(data){
       let self = this;
       self.svg = d3.select("#mapSvg");
-      self.svg.select("#usmap").selectAll("path")
+      let paths = self.svg.select("#usmap").selectAll("path")
       .data(data.features)
       .enter()
       .append("path")
       .attr("class", "countries")
-      .attr("d", self.path);
+      .attr("d", self.path)
+
+      if(self.aggData != null){
+          paths.style("fill", function(d){
+            let attacks = self.aggData[d["properties"]["name"]]["attacks"];
+            return self.colorScale(attacks);
+          });
+      }
     }
 
     plotStates(data){
@@ -129,16 +140,26 @@ class USMap {
     }
 
     logData(data){
-        for(var i=0; i<data.length; i++){
-          console.log();
-          console.log(data[i]["month"] + "/" + data[i]["day"] + "/" + data[i]["year"] + " -- "+ data[i]["city"]);
-        }
+        // for(var i=0; i<data.length; i++){
+        //   console.log();
+        //   console.log(data[i]["month"] + "/" + data[i]["day"] + "/" + data[i]["year"] + " -- "+ data[i]["city"]);
+        // }
     }
     filterDataByYear(years, data){
       let yearData = data.filter(function(d){
         return years.includes(d.year);
       });
       return yearData;
+    }
+    colorStates(aggData){
+      self = this;
+      self.aggData = aggData;
+      d3.select("#usmap").selectAll("path")
+      .style("fill", function(d){
+        let attacks = self.aggData[d["properties"]["name"]]["attacks"];
+        return self.colorScale(attacks);
+      });
+
     }
 
 }

@@ -1,0 +1,54 @@
+state,fatalities,injuries,attacks
+Alabama,5,16,15
+Alaska,0,0,1
+Arizona,4,80,34
+Arkansas,2,1,5
+California,79,154,582
+Colorado,21,39,42
+Connecticut,2,4,17
+Delaware,0,0,3
+District of Columbia,17,20,83
+Florida,64,65,153
+Georgia,7,133,29
+Hawaii,2,16,4
+Idaho,0,0,14
+Illinois,6,36,110
+Indiana,4,3,20
+Iowa,0,40,23
+Kansas,4,6,13
+Kentucky,0,0,2
+Louisiana,18,37,18
+Maine,0,0,4
+Maryland,8,8,34
+Massachusetts,12,317,55
+Michigan,5,8,44
+Minnesota,2,17,24
+Mississippi,1,1,8
+Missouri,2,19,36
+Montana,0,0,5
+Nebraska,1,7,23
+Nevada,6,1,16
+New Hampshire,0,0,10
+New Jersey,11,10,47
+New Mexico,0,0,21
+New York,2823,15112,500
+North Carolina,9,19,31
+North Dakota,2,1,4
+Ohio,8,20,49
+Oklahoma,170,677,15
+Oregon,0,783,64
+Pennsylvania,51,14,30
+Puerto Rico,22,42,243
+Rhode Island,0,0,2
+South Carolina,9,0,5
+South Dakota,2,2,9
+Tennessee,12,25,22
+Texas,43,223,59
+Unknown,0,0,1
+Utah,3,5,20
+Vermont,0,1,5
+Virginia,196,115,35
+Washington,6,7,97
+West Virginia,0,0,2
+Wisconsin,8,9,35
+Wyoming,0,0,2

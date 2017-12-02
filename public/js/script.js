@@ -6,8 +6,6 @@ let worldMap = new WorldMap(linechart);
 let yearchart = new YearChart(usMap);
 let barChart = new BarChart();
 
-
-
 selectedMainOption = null;
 
 // US Map related Data
@@ -51,32 +49,48 @@ USA MAP
 */
 function showUSA(){
 	// #################  Data for US map
-	if(usMapData == null){
-		d3.json("data/ustopo.json", function(error, us) {
-			if (error) throw error;
-			usMapData = us;
-			usMap.drawMap(usMapData);
-		});
-	}
-	else{
-		usMap.drawMap(usMapData);
-	}
 
 	if(usEntireData == null){
-		d3.csv("data/united_states_gtd.csv", function(error, us) {
-			if (error) throw error;
-			usEntireData = us;
-			usMap.setEntireData(usEntireData);
-			usMap.plotStates(usEntireData);
-			yearchart.update(usEntireData);
-		});
-	}
-	else {
-		usMap.setEntireData(usEntireData);
-		usMap.plotStates(usEntireData);
-		yearchart.update(usEntireData);
-	}
+	// 	d3.csv("data/united_states_gtd.csv", function(error, us) {
+	// 		if (error) throw error;
+	// 		usEntireData = us;
+	// 		usMap.setEntireData(usEntireData);
+	// 		usMap.plotStates(usEntireData);
+	// 		yearchart.update(usEntireData);
+	// 	});
+	// }
+	// else {
+	// 	usMap.setEntireData(usEntireData);
+	// 	usMap.plotStates(usEntireData);
+	// 	yearchart.update(usEntireData);
+	// }
+	d3.csv("data/us_attacks_agg.csv", function(error, us) {
+		if (error) throw error;
+		aggData = Object();
+		for(var i=0; i < us.length; i++){
+				aggData[us[i]["state"]] = us[i];
+		}
+		usEntireData = aggData;
+		usMap.colorStates(aggData);
+	});
 }
+else {
+	usMap.colorStates(aggData);
+}
+if(usMapData == null){
+	d3.json("data/ustopo.json", function(error, us) {
+		if (error) throw error;
+		usMapData = us;
+		usMap.drawMap(usMapData);
+	});
+}
+else{
+	usMap.drawMap(usMapData);
+}
+}
+
+
+
 /*
 ###########
 WORLD MAP
