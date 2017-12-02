@@ -10,7 +10,7 @@ class WorldMap {
     .precision(0.1);
 
     this.colorScale = d3.scaleLinear()
-    .range(["#FFE600", "#8B0000"])
+    .range(["#D46A6A", "#550000"])
     .domain([0,Math.log(22130)]);
 
     this.path = d3.geoPath().projection(this.projection);
@@ -68,9 +68,9 @@ class WorldMap {
         }
         return self.colorScale(attacks);
       });
+      setRegionSelected(region);
       let countries = self.region_countries_map[region];
-      self.linechart.dropMenu(countries)
-      console.log(countries);
+      self.linechart.dropMenu(countries);
     });
     paths.classed("countries_hovered", false);
   }
