@@ -33,8 +33,6 @@ class BarChart {
         let width = 800 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
 
-        // var c20b = d3.schemeCategory20
-
         let xScale = d3.scaleBand()
             .range([0, width])
             .paddingInner(0.05)
@@ -103,18 +101,6 @@ class BarChart {
     getToolTipText(data, selectedDimension){
         let val = getStringForKey(selectedDimension) + " : " + data[selectedDimension];
         return val;
-    }
-
-    shuffle(a){
-        var j, x, i;
-        for (i = a.length - 1; i > 0; i--) {
-            j = Math.floor(Math.random() * (i + 1));
-            x = a[i];
-            a[i] = a[j];
-            a[j] = x;
-        }
-
-        return a
     }
 
     getCountries(data, region){
