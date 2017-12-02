@@ -39,23 +39,36 @@ class InfoPanel{
 	    .start();
 
         function draw(words) {
+
+            d3.select(svg_location).select("svg").selectAll("g").remove();
 	        var svg = d3.select(svg_location).select("svg")
 	        .attr("width", width)
 	        .attr("height", height)
 	        .append("g")
 	        .attr("transform", "translate(" + [width >> 1, height >> 1] + ")")
-	        
+
+            // svg
+            //     .selectAll("g").remove();
+
 	        var texts = svg
-	        .selectAll("text")
-	        .data(words).style("opacity", 1)
+	        .selectAll("text").data(words);
 
-	        texts.exit().transition().duration(1000).style("opacity", 0).remove()
+                enter().append("text");
 
-       		var mergedTexts = texts.enter().append("text").merge(texts)
+
+
+
+	        // .data(words).style("opacity", 1)
+            // texts.
+
+	        // texts.exit().transition().duration(1000).style("opacity", 0).remove();
+
+
+       		// texts = textsEnter.merge(texts);
 	        
-	        mergedTexts
-	        .transition()
-	        .duration(1000)
+	        texts
+	        // .transition()
+	        // .duration(1000)
 	        .style("font-size", function(d) { return xScale(d.value) + "px"; })
 	        .style("font-family", "Impact")
 	        .style("fill", function(d) { return colorScale(d.value); })
