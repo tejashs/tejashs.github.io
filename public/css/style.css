@@ -32,6 +32,11 @@ path {
   width: 30%;
   float:right;
 }
+#barchartspan {
+  display: inline-block;
+  width: 30%;
+  float:right;
+}
 
 .content {
   display: inline-block;
@@ -83,6 +88,19 @@ path {
   stroke: steelblue;
   stroke-width: 4px;
 }
+
+.one {
+  margin-left: 50px;
+}
+.two {
+  margin-left: 25px;
+  margin-right: 20px;
+}
+
+
+
+
+/*###########################################################*/
 /*Boot strap tweaks*/
 .mainButton {
   display: inline-block;

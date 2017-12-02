@@ -24,12 +24,16 @@ loadDataAsync();
 //#################################################################################
 // All Functions Below this line
 
+/*
+Main Button Click on the page
+*/
 function mainButtonClicked(value){
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
 		//USA Components
 		d3.select("#usmap").style("opacity", 1);
 		d3.select("#year-chart").style("opacity", 1);
+		toggleYearHeight(true);
 		d3.select("#circleGroup").style("opacity", 1);
 		//World Components
 		d3.select("#worldmap").style("opacity", 0);
@@ -40,11 +44,25 @@ function mainButtonClicked(value){
 		//USA Components
 		d3.select("#usmap").style("opacity", 0);
 		d3.select("#year-chart").style("opacity", 0);
+		toggleYearHeight(false);
 		d3.select("#circleGroup").style("opacity", 0);
 		//World Components
 		d3.select("#worldmap").style("opacity", 1);
 		d3.select("#gradient").style("opacity", 0);
 		showWorld();
+	}
+}
+
+/*
+Main Button Click on the page
+*/
+function toggleYearHeight(show){
+	let self = this;
+	if(show){
+		d3.select("#year-chart").style("height", self.svgHeight);
+	}
+	else {
+		d3.select("#year-chart").style("height", "1px");
 	}
 }
 

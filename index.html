@@ -7,7 +7,7 @@
     <link rel="icon" href="data:,">  <!-- Hack to stop favicon -->
     <link rel="stylesheet" href="public/css/style.css"/>
     <!-- Bootstrap core CSS -->
-    <link href="public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Custom styles for this template -->
     <link href="public/bootstrap/css/justified-nav.css" rel="stylesheet">
   </head>
@@ -15,64 +15,38 @@
 <body>
 
   <div class="container">
-
-      <div class="masthead">
-        <h3 class="text-muted">Project name</h3>
-
-        <nav class="navbar navbar-light bg-faded rounded mb-3">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-toggleable-md" id="navbarCollapse">
-            <ul class="nav navbar-nav text-md-center justify-content-md-between">
-              <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Projects</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Services</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Downloads</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown01">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </nav>
-      </div>
-
       <!-- Jumbotron -->
       <div id="fJumbo" class="jumbotron" width="1000" height="100" >
         <h1>Global Terrorism</h1>
-        <p class="lead">Fuck this shit, I'm out!</p>
+        <p class="lead">1970-2016</p>
 
         <div class="btn-group">
         </div>
         <a id="mainButton1" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('usa')" role="button">USA</a>
         <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">World</a>
       </div>
-
+</div> <!-- /container -->
 <div id="year-chart" class="view">
 </div>
 
-<div id="mapDiv" width="1000" height="600" class="content">
-  <svg id="mapSvg" width="1000" height="600">
-      <g id="usmap"></g>
-      <g id="worldmap"></g>
-      <g id="circleGroup"></g>
-  </svg>
+<div class="container-fluid">
+    <div class="row">
+      <div id="mapDiv" width="800" height="600" class="col-md-6 one">
+        <svg id="mapSvg" width="800" height="600">
+            <g id="usmap"></g>
+            <g id="worldmap"></g>
+            <g id="circleGroup"></g>
+        </svg>
+      </div>
+
+      <div id="barchartdiv" class = "col-md-4 two">
+        <svg id = "barchart" width="700" height="600">
+        	  <g id="xAxis"></g>
+            <g id="yAxis"></g>
+            <g id="bars"></g>
+        </svg>
+      </div>
+    </div>
 </div>
 
 <!-- <div id="summaryDiv" width="400" height="400">
@@ -91,13 +65,7 @@
     </select>
 </span>
 
-<div id="barchart" class = "view">
-  <svg width="800" height="600">
-  	  <g id="xAxis"></g>
-      <g id="yAxis"></g>
-      <g id="bars"></g>
-  </svg>
-</div>
+
 
 <div class="view">
     <h2 class="">Line Chart</h2>
@@ -127,7 +95,7 @@
     </svg>
     </div>
 </div>
-</div> <!-- /container -->
+
 <!-- Ext Javascript Files -->
 <!-- <script type="application/javascript" src="bower_components/ext/d3.v4.js"></script> -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -139,13 +107,12 @@
 <script type="application/javascript" src="bower_components/d3-tip/index.js"></script>
 <!-- <script type="application/javascript" src="bower_components/ext/d3-geo-projection.v2.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo-projection/2.3.1/d3-geo-projection.min.js"></script>
-
 <script type="application/javascript" src="bower_components/ext/cloud.js"></script>
 <!--  Bootstrap related files -->
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-<script type="application/javascript" src="public/bootstrap/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- Own Javascript Files -->
 <script type="application/javascript" src="public/js/util.js"></script>
 <script type="application/javascript" src="public/js/summary.js"></script>

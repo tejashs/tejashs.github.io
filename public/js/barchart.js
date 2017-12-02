@@ -31,9 +31,9 @@ class BarChart {
 
         var svg = d3.select("#barchart")
 
-        let margin = {top: 50, right: 20, bottom: 70, left: 110}
+        let margin = {top: 50, right: 40, bottom: 50, left: 120}
 
-        let width = 800 - margin.left - margin.right
+        let width = 700 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
 
         var x = d3.scaleLinear()
