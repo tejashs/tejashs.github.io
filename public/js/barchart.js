@@ -13,17 +13,18 @@ class BarChart {
     /**
      * Render and update the bar chart based on the selection of the data type in the drop-down box
      */
-    updateBarChart(selectedDimension) {
-        var regions = ['Central America & Caribbean', 'North America', 'Southeast Asia',
-        'Western Europe','East Asia','South America','Eastern Europe',
-        'Sub-Saharan Africa','Middle East & North Africa','Australasia & Oceania',
-        'South Asia','Central Asia']
+    updateBarChart(selectedDimension, selectedRegion) {
 
-        this.data.sort(function(a, b) {
-            return parseInt(b[selectedDimension]) - parseInt(a[selectedDimension]);
+        let self = this;
+
+        console.log(selectedRegion)
+
+        var data = self.getCountries(this.data, selectedRegion)
+
+        var selectedData = []
+        data.forEach(function(d){
+            selectedData.push(parseInt(d[selectedDimension]))
         });
-
-        var data = this.data.slice(0, 20)
 
         var svg = d3.select("#barchart")
 
@@ -32,7 +33,7 @@ class BarChart {
         let width = 800 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
 
-        var c20b = d3.schemeCategory20
+        // var c20b = d3.schemeCategory20
 
         let xScale = d3.scaleBand()
             .range([0, width])
@@ -41,7 +42,11 @@ class BarChart {
 
         let yScale = d3.scaleLinear()
             .range([height, 0])
-            .domain([0, data[0][selectedDimension]])
+            .domain([0, d3.max(selectedData)])
+
+        let colorScale = d3.scaleLinear()
+        .domain([0, d3.max(selectedData)])
+        .range(["#D46A6A", "#550000"]);
 
         var tooltip = d3.select("body").append("div").attr("class", "toolTip");
 
@@ -69,6 +74,7 @@ class BarChart {
         bar.exit().transition().duration(1000).style("opacity", 0).remove()
 
         var mergedBar = bar.enter().append("rect").merge(bar)
+
         mergedBar
         .transition().duration(1000)
         .attr("x", function(d) {
@@ -82,10 +88,9 @@ class BarChart {
             return height - yScale(d[selectedDimension]);
         })
         .attr("fill", function(d){
-            return c20b[regions.indexOf(d.region)];
-        });
+            return colorScale(d[selectedDimension]);
+        })
 
-        let self = this;
         let tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
                     return [-100,0];
                 }).html((d)=>{
@@ -93,11 +98,32 @@ class BarChart {
                 });
         mergedBar.call(tip);
         mergedBar.on('mouseover', tip.show).on('mouseout', tip.hide);
-
     }
 
     getToolTipText(data, selectedDimension){
         let val = getStringForKey(selectedDimension) + " : " + data[selectedDimension];
         return val;
+    }
+
+    shuffle(a){
+        var j, x, i;
+        for (i = a.length - 1; i > 0; i--) {
+            j = Math.floor(Math.random() * (i + 1));
+            x = a[i];
+            a[i] = a[j];
+            a[j] = x;
+        }
+
+        return a
+    }
+
+    getCountries(data, region){
+        var countries = []
+        data.forEach(function(d){
+            if (d.region == region)
+                countries.push(d)
+        })
+
+        return countries
     }
 }

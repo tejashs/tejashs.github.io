@@ -61,11 +61,11 @@ path {
 }
 /*For gradient styling*/
 .stop-left {
-  stop-color: #FFE600;
+  stop-color: #D46A6A;
 }
 
 .stop-right {
-  stop-color: #8B0000;
+  stop-color: #550000;
 }
 
 .filled {

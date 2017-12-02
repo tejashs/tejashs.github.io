@@ -50,7 +50,7 @@ d3.csv("data/group_by_counts.csv", function(error, countries) {
 d3.csv("data/gtd_by_countries.csv", function(error, data) {
 	if (error) throw error;
   	barChart = new BarChart(data);
-    barChart.updateBarChart("num_attacks");
+    barChart.updateBarChart("num_attacks", 'East Asia');
 });
 //
 // function changeData() {
@@ -62,7 +62,7 @@ d3.csv("data/gtd_by_countries.csv", function(error, data) {
 
 function changeData() {
     let metric = document.getElementById('metric').value;
-    barChart.updateBarChart(metric)
+    barChart.updateBarChart(metric, 'East Asia')
 }
 
 var f = "../data/Country_grouped_data/United States/top_year.csv"
