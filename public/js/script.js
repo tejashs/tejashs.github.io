@@ -18,8 +18,8 @@ worldCountriesData = null;
 //Bar Chart related data
 barChartData = null;
 
-d3.selectAll("input").on("change", function(){
-	selectedMainOption = this.value;
+function mainButtonClicked(value){
+	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
 		//USA Components
 		d3.select("#usmap").style("opacity", 1);
@@ -40,7 +40,7 @@ d3.selectAll("input").on("change", function(){
 		d3.select("#gradient").style("opacity", 0);
 		showWorld();
 	}
-});
+}
 /*
 ###########
 USA MAP

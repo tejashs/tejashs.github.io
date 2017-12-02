@@ -1,7 +1,7 @@
 class USMap {
 
     constructor(summary){
-      this.summary = summary;
+      // this.summary = summary;
       let width = 1200;
       let height = 800;
 
@@ -108,12 +108,12 @@ class USMap {
     }
 
     showSummary(data){
-      if(!data || data.length == 0){
-        this.summary.updateText("");
-      }
-      else {
-        this.summary.updateText(data.summary);
-      }
+      // if(!data || data.length == 0){
+      //   this.summary.updateText("");
+      // }
+      // else {
+      //   this.summary.updateText(data.summary);
+      // }
     }
 
     plotFilteredData(years){
