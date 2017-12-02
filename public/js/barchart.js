@@ -54,12 +54,13 @@ class BarChart {
         var bars = svg.select("#bars")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-        xAxis.call(d3.axisBottom(xScale))
-        .selectAll("text")
-        .attr("dy", "-0.7em")
-        .attr("dx", "1em")
-        .attr("transform", "rotate(90)")
-        .style("text-anchor", "start");
+        xAxis.
+        call(d3.axisBottom(xScale))
+        // .selectAll("text")
+        // .attr("dy", "-0.7em")
+        // .attr("dx", "1em")
+        // .attr("transform", "rotate(90)")
+        // .style("text-anchor", "start");
 
         yAxis
         .transition().duration(1000)
