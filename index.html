@@ -24,6 +24,19 @@
         </div>
         <a id="mainButton1" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('usa')" role="button">USA</a>
         <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">World</a>
+        <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">Aggregate</a>
+      </br>
+      </br>
+      </br>
+      </br>
+        <div id="metricDiv" class="chide cshow">
+            <label>Metric:</label>
+            <select id="metric" onchange="changeData(this);">
+                <option value="counts">Number of Attacks</option>
+                <option value="fatalities">Number of Fatalities</option>
+                <option value="injuries">Number of Injuries</option>
+            </select>
+        </div>
       </div>
 </div> <!-- /container -->
 <div id="year-chart" class="view">
@@ -31,23 +44,28 @@
 
 <div class="container-fluid">
     <div class="row">
-      <div id="mapDiv" width="800" height="600" class="col-md-6 one">
-        <svg id="mapSvg" width="800" height="600">
+      <div id="mapDiv" width="650" height="600" class="col-md-6 one">
+        <svg id="mapSvg">
             <g id="usmap"></g>
             <g id="worldmap"></g>
             <g id="circleGroup"></g>
         </svg>
       </div>
-
-      <div id="barchartdiv" class = "col-md-4 two">
-        <svg id = "barchart" width="700" height="600">
+      <div id="barchartdiv" width="600" height="600" class = "col-md-4 two">
+        <svg id = "barchart">
         	  <g id="xAxis"></g>
             <g id="yAxis"></g>
             <g id="bars"></g>
         </svg>
       </div>
     </div>
+    <div class="row">
+      <div id="gradientDiv" width="1200" height="50">
+      </div>
+    </div>
 </div>
+
+
 
 <!-- <div id="summaryDiv" width="400" height="400">
     <h3>Attack Summary: </h3>
@@ -55,21 +73,9 @@
   </span>
 </div> -->
 
-<h2>Countries with highest number of terrorist attacks</h2>
-<span>
-    <label>Metric:</label>
-    <select id="metric" onchange="changeData(this);">
-        <option value="counts">Number of Attacks</option>
-        <option value="fatalities">Number of Fatalities</option>
-        <option value="injuries">Number of Injuries</option>
-    </select>
-</span>
-
-
-
 <div class="view">
-    <h2 class="">Line Chart</h2>
-    <div id="country-selector">
+    <h2 class=""></h2>
+    <div id="country-selector" class="chide cshow">
         <label>Country:</label>
         <select id="country">
             <!--<option selected value="attendance">Attendance</option>-->
@@ -87,7 +93,7 @@
 
     </div>
 </div>
-<div id="info-Panel" class="view">
+<div id="info-Panel" class="view chide cshow">
     <h2 class="">Info Panel</h2>
     <div id="word-cloud" class="view">
 

@@ -33,15 +33,15 @@ class BarChart {
 
         let margin = {top: 50, right: 40, bottom: 50, left: 120}
 
-        let width = 700 - margin.left - margin.right
+        let width = 600 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
-
+        svg.attr("width", 600).attr("height", 600);
         var x = d3.scaleLinear()
                 .domain([0, d3.max(selectedData)])
         .range([0, width]);
 
-        console.log(d3.max(selectedData))
-        console.log(selectedData)
+        // console.log(d3.max(selectedData))
+        // console.log(selectedData)
 
         var y = d3.scaleBand()
         .range([height, 0]);

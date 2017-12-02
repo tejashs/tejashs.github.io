@@ -93,8 +93,14 @@ path {
   margin-left: 50px;
 }
 .two {
-  margin-left: 25px;
-  margin-right: 20px;
+  margin-right: 50px;
+  margin-right: 100px;
+}
+.cshow {
+  visibility: visible;
+}
+.chide {
+  visibility: hidden;
 }
 
 

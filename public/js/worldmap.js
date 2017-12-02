@@ -3,13 +3,15 @@ class WorldMap {
 
     this.linechart=linechart;
     let margin = {left:50};
-    let width = 750 - margin.left;
+    let width = 650 - margin.left;
     let height = 600;
 
-    d3.select("#mapSvg").attr("y", margin.left)
+
+    let svg = d3.select("#mapSvg").attr("y", margin.left)
     this.projection = d3.geoPatterson().scale(150)
     .translate([width / 2, height / 2])
     .precision(0.1);
+    svg.attr("width", width).attr("height", height);
 
     this.colorScale = d3.scaleLinear()
     .range(["#D46A6A", "#550000"])
@@ -76,12 +78,21 @@ class WorldMap {
     paths.classed("countries_hovered", false);
   }
 
+  getCountriesForRegion(region){
+    if(self.region_countries_map != null){
+        return self.region_countries_map[region];
+    }
+    else{
+        return [];
+    }
+  }
   createGradient(){
-    var width  = 800,
+    let margin = {left:50};
+    var width  = 1200 - margin.left,
     height = 50,
-    padding = 15;
+    padding = 200;
 
-    var div = d3.select('#mapDiv');
+    var div = d3.select('#gradientDiv');
     div.select("#gradient").remove();
     let svg = div.append('svg');
 
@@ -104,17 +115,9 @@ class WorldMap {
     // Use the gradient to set the shape fill, via CSS.
     svg.append('rect')
     .classed('filled', true)
-    .attr('x', 100)
-    .attr('y', padding)
+    .attr('x', width/4)
+    .attr('y', 0)
     .attr('width', width)
     .attr('height', height);
-
-    // Use the gradient to set the shape stroke, via CSS.
-    // svg.append('rect')
-    // .classed('outlined', true)
-    // .attr('x', width / 2 + padding / 2)
-    // .attr('y', padding)
-    // .attr('width', (width / 2) - 1.5 * padding)
-    // .attr('height', height - 2 * padding);
   }
 }
