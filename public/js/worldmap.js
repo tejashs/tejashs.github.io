@@ -3,10 +3,10 @@ class WorldMap {
 
     this.linechart=linechart;
     let margin = {left:50};
-    let width = 650 - margin.left;
+    let width = 850 - margin.left;
     let height = 600;
     let svg = d3.select("#mapSvg").attr("y", margin.left).attr("width", width).attr("height", height);
-    this.projection = d3.geoPatterson().scale(150)
+    this.projection = d3.geoPatterson().scale(130)
     .translate([width / 2, height / 2])
     .precision(0.1);
 
