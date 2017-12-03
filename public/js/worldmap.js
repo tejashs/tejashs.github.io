@@ -5,13 +5,11 @@ class WorldMap {
     let margin = {left:50};
     let width = 650 - margin.left;
     let height = 600;
-
-
-    let svg = d3.select("#mapSvg").attr("y", margin.left)
+    let svg = d3.select("#mapSvg").attr("y", margin.left).attr("width", width).attr("height", height);
     this.projection = d3.geoPatterson().scale(150)
     .translate([width / 2, height / 2])
     .precision(0.1);
-    svg.attr("width", width).attr("height", height);
+
 
     this.colorScale = d3.scaleLinear()
     .range(["#D46A6A", "#550000"])

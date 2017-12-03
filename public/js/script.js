@@ -10,7 +10,8 @@ selectedMainOption = null;
 
 // US Map related Data
 usMapData = null;
-usEntireData = null;
+usAggData = null;
+usYearsData = null;
 
 //World Map related data
 worldMapData = null;
@@ -96,8 +97,11 @@ function showWorld(){
 	linechart.dropMenu(countries);
 }
 function showUSA(){
-	usMap.setStateAggData(aggData);
+	yearchart.update(usMapData);
+	usMap.setStateAggData(usAggData);
+	usMap.setEntireData(usYearsData);
 	usMap.drawMap(usMapData);
+	usMap.plotStates(usYearsData);
 }
 
 function changeData() {
@@ -173,6 +177,14 @@ function loadUSMapData(callback){
 		callback(null);
 	});
 }
+function loadUSYearsData(callback){
+	d3.csv("data/united_states_gtd.csv", function(error, us) {
+		if (error) throw error;
+		usYearsData = us;
+		// console.log("US Map - Map Data Loaded!");
+		callback(null);
+	});
+}
 function loadUSMapFullData(callback){
 	d3.csv("data/us_attacks_agg.csv", function(error, us) {
 		if (error) throw error;
@@ -180,7 +192,7 @@ function loadUSMapFullData(callback){
 		for(var i=0; i < us.length; i++){
 			aggData[us[i]["state"]] = us[i];
 		}
-		usEntireData = aggData;
+		usAggData = aggData;
 		// console.log("US Map - Full Data Loaded!");
 		callback(null);
 	});
@@ -195,6 +207,7 @@ function loadDataAsync(){
 	q.defer(loadWorldMapData);
 	q.defer(loadWorldMapFullData);
 	q.defer(loadUSMapData);
+	q.defer(loadUSYearsData);
 	q.defer(loadUSMapFullData);
 	q.defer(loadBarChartData);
 	q.awaitAll(function(error) {
