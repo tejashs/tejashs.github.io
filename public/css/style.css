@@ -45,10 +45,6 @@ path {
   stroke-width: 4px;
 }
 
-.region_clicked {
-  fill : steelblue;
-}
-
 .yearSelected {
   fill: #AA3939;
   stroke: #AA3939;
@@ -75,10 +71,6 @@ path {
   fill:   none;
   stroke: url(#mainGradient);
   stroke-width: 4;
-}
-.countries_hovered {
-  stroke: #D3D3D3 ;
-  stroke-width: 1px;
 }
 
 .line {
