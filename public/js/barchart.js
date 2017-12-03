@@ -16,10 +16,9 @@ class BarChart {
     /**
      * Render and update the bar chart based on the selection of the data type in the drop-down box
      */
-    updateBarChart(selectedDimension) {
-
+    updateBarChart(){
         let self = this;
-
+        let selectedDimension = getMetricsSelected();
         let selectedRegion = getRegionSelected();
 
         var data = self.getCountries(this.data, selectedRegion)

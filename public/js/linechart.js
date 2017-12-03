@@ -19,9 +19,6 @@ class LineChart {
 
     // Set the dimensions of the canvas / graph
 
-
-
-
     function chooseData() {
       var si = select.property('selectedIndex');
       let s = options.filter(function (d, i) {

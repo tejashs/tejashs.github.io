@@ -1,6 +1,6 @@
 class WorldMap {
-  constructor(linechart){
-
+  constructor(linechart, barChart){
+    this.barchart=barChart;
     this.linechart=linechart;
     let margin = {left:50};
     let width = 850 - margin.left;
@@ -9,7 +9,6 @@ class WorldMap {
     this.projection = d3.geoPatterson().scale(130)
     .translate([width / 2, height / 2])
     .precision(0.1);
-
 
     this.colorScale = d3.scaleLinear()
     .range(["#D46A6A", "#550000"])
@@ -72,6 +71,7 @@ class WorldMap {
       setRegionSelected(region);
       let countries = self.region_countries_map[region];
       self.linechart.dropMenu(countries);
+      self.barchart.updateBarChart();
     });
     paths.classed("countries_hovered", false);
   }

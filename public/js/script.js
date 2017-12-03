@@ -2,9 +2,10 @@ let summary = new Summary();
 let usMap = new USMap(summary);
 let infoPanel = new InfoPanel();
 let linechart = new LineChart(infoPanel);
-let worldMap = new WorldMap(linechart);
-let yearchart = new YearChart(usMap);
 let barChart = new BarChart();
+let worldMap = new WorldMap(linechart, barChart);
+let yearchart = new YearChart(usMap);
+
 
 selectedMainOption = null;
 
@@ -35,11 +36,14 @@ function toggleCommonElements(value){
 		d3.select("#metricDiv").classed("cshow", false).classed("chide", true);
 		d3.select("#country-selector").classed("cshow", false).classed("chide", true);
 		d3.select("#info-Panel").classed("cshow", false).classed("chide", true);
+		d3.select("#list-panel").classed("cshow", false).classed("chide", true);
+
 	}
 	else {
 		d3.select("#metricDiv").classed("cshow", true).classed("chide", false);
 		d3.select("#country-selector").classed("cshow", true).classed("chide", false);
 		d3.select("#info-Panel").classed("cshow", true).classed("chide", false);
+		d3.select("#list-panel").classed("cshow", true).classed("chide", false);
 	}
 }
 
@@ -125,7 +129,7 @@ function changeData() {
 	let metric = document.getElementById('metric').value;
 	setMetricSelected(metric);
 	usMap.updateColors();
-	barChart.updateBarChart(metric, 'East Asia')
+	barChart.updateBarChart();
 }
 
 /*
