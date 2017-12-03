@@ -43,6 +43,30 @@ function toggleCommonElements(value){
 	}
 }
 
+function toggleUSElements(value){
+	if(value == 0){
+		d3.select("#usmap").classed("cshow", false).classed("chide", true);
+		d3.select("#year-chart").classed("cshow", false).classed("chide", true);
+		d3.select("#circleGroup").classed("cshow", false).classed("chide", true);
+	}
+	else {
+		d3.select("#usmap").classed("cshow", true).classed("chide", false);
+		d3.select("#year-chart").classed("cshow", true).classed("chide", false);
+		d3.select("#circleGroup").classed("cshow", true).classed("chide", false);
+	}
+}
+
+function toggleWorldElements(value){
+	if(value == 0){
+		d3.select("#worldmap").classed("cshow", false).classed("chide", true);
+		d3.select("#gradient").classed("cshow", false).classed("chide", true);
+	}
+	else {
+		d3.select("#worldmap").classed("cshow", true).classed("chide", false);
+		d3.select("#gradient").classed("cshow", true).classed("chide", false);
+	}
+}
+
 /*
 Main Button Click on the page
 */
@@ -50,25 +74,15 @@ function mainButtonClicked(value){
 	toggleCommonElements(1);
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
-		//USA Components
-		d3.select("#usmap").style("opacity", 1);
-		d3.select("#year-chart").style("opacity", 1);
 		toggleYearHeight(true);
-		d3.select("#circleGroup").style("opacity", 1);
-		//World Components
-		d3.select("#worldmap").style("opacity", 0);
-		d3.select("#gradient").style("opacity", 0);
+		toggleUSElements(1);
+		toggleWorldElements(0);
 		showUSA();
 	}
 	else{
-		//USA Components
-		d3.select("#usmap").style("opacity", 0);
-		d3.select("#year-chart").style("opacity", 0);
 		toggleYearHeight(false);
-		d3.select("#circleGroup").style("opacity", 0);
-		//World Components
-		d3.select("#worldmap").style("opacity", 1);
-		d3.select("#gradient").style("opacity", 0);
+		toggleWorldElements(1);
+		toggleUSElements(0);
 		showWorld();
 	}
 }
@@ -106,6 +120,8 @@ function showUSA(){
 
 function changeData() {
 	let metric = document.getElementById('metric').value;
+	setMetricSelected(metric);
+	usMap.updateColors();
 	barChart.updateBarChart(metric, 'East Asia')
 }
 
