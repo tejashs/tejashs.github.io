@@ -31,6 +31,8 @@ class BarChart {
        
         data = data.filter(d => d[selectedDimension]*2 > sum/data.length);
 
+        data.sort(function(a, b){return a[selectedDimension] - b[selectedDimension]});
+
         var selectedData = []
         data.forEach(function(d){
             selectedData.push(parseInt(d[selectedDimension]));
@@ -59,13 +61,15 @@ class BarChart {
         .range(["#D46A6A", "#550000"]);
 
         svg.append("g")
-          .attr("class", "legendLinear")
-          .attr("transform", "translate(80, 10)");
+        .attr("class", "legendLinear")
+        .attr("transform", "translate(120, 10)")
+        .style("font-size","8px");
 
         var legendLinear = d3.legendColor()
         .shapeWidth(width/data.length)
         .cells(data.length)
         .orient('horizontal')
+        .labelAlign("start")
         .scale(colorScale);
 
         svg.select(".legendLinear")
