@@ -51,8 +51,9 @@ class USMap {
       .attr("class", "countries")
       .attr("d", self.path)
       .style("fill", function(d){
-        let attacks = self.aggData[d["properties"]["name"]]["attacks"];
-        return self.colorScale(attacks);
+        let metric = getMetricsSelected();
+        let num = self.aggData[d["properties"]["name"]][metric];
+        return self.colorScale(num);
       });
     }
 
@@ -152,6 +153,15 @@ class USMap {
     }
     setStateAggData(aggData){
       this.aggData = aggData;
+    }
+
+    updateColors(){
+      let self = this;
+      d3.select("#usmap").selectAll("path").style("fill", function(d){
+        let metric = getMetricsSelected();
+        let num = self.aggData[d["properties"]["name"]][metric];
+        return self.colorScale(num);
+      });
     }
 
 }
