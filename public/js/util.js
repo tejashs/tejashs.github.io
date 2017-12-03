@@ -18,11 +18,20 @@
   regions["Central_Asia"] = "Central Asia";
 
   currentRegionSelected = null;
+  currentMetricSelected = "counts";
 
   function setRegionSelected(region){
     currentRegionSelected = region;
   }
 
+  function setMetricSelected(metric){
+    currentMetricSelected = metric;
+  }
+
+  function getMetricsSelected(){
+    return currentMetricSelected;
+  }
+  
   function getRegionSelected(){
     return currentRegionSelected;
   }
