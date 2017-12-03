@@ -9,19 +9,21 @@ class WorldMap {
     this.projection = d3.geoPatterson().scale(150)
     .translate([width / 2, height / 2])
     .precision(0.1);
-
-
-    this.colorScale = d3.scaleLinear()
-    .range(["#D46A6A", "#550000"])
-    .domain([0,Math.log(22130)]);
-
+    // Counts from IRAQ
+    this.fcolorScale = Object();
+    this.fcolorScale["injuries"] = d3.scaleLog().range(["#D46A6A", "#550000"]).domain([1,129437]);
+    this.fcolorScale["fatalities"] = d3.scaleLog().range(["#D46A6A", "#550000"]).domain([1,71082]);
+    this.fcolorScale["counts"] = d3.scaleLog().range(["#D46A6A", "#550000"]).domain([1,22130]);
     this.path = d3.geoPath().projection(this.projection);
   }
 
-  setCountriesMappings(id_region_map, region_countries_map, id_counts_map){
+  colorScale(val, metric){
+    return this.fcolorScale[metric](val);
+  }
+  setCountriesMappings(id_region_map, region_countries_map, id_metrics_map){
     this.id_region_map = id_region_map;
     this.region_countries_map = region_countries_map;
-    this.id_counts_map = id_counts_map;
+    this.id_metrics_map = id_metrics_map;
   }
 
   drawMap(world){
@@ -36,39 +38,42 @@ class WorldMap {
     .append("path")
     .attr("d", path)
     .attr("class", function(d){
-      let classes = "countries countries_hovered ";
+      let classes = "countries countries_hovered region_clicked ";
       classes += self.id_region_map[d.id];
       return classes;
     })
     .attr("id", function(d){
       return d.id;
     })
+    .style("fill", function(d){
+      let metric = getMetricsSelected();
+      let country = self.id_metrics_map[d.id];
+      let val = 0;
+      try {
+        val = country[metric];
+      }
+      catch (e) {
+      }
+      return self.colorScale(val, metric);
+    })
     .on("mouseover", function(d){
       let region = self.id_region_map[d.id];
+      if (region == getRegionSelected()){
+        return;
+      }
       region = "." + region;
-      svg.select("#worldmap").selectAll(region).classed("countries_hovered", true).style("fill", function(d){
-        let attacks = self.id_counts_map[d.id];
-        if (attacks != 0){
-          attacks = Math.log(attacks);
-        }
-        return self.colorScale(attacks);
-      });
-    }).
-    on("mouseout", function(d){
+      svg.select("#worldmap").selectAll(region).style("fill", "steelblue");
+    })
+    .on("mouseout", function(d){
       let region = self.id_region_map[d.id];
       region = "." + region;
-      svg.select("#worldmap").selectAll(region).style("fill","#C0C0C0").classed("countries_hovered", false);
+      svg.select("#worldmap").selectAll(region).classed("countries_hovered", false);
     })
     .on("click", function(d){
       let region = self.id_region_map[d.id];
-      svg.select("#worldmap").selectAll(region).classed("countries_hovered", true).style("fill", function(d){
-        let attacks = self.id_counts_map[d.id];
-        if (attacks != 0){
-          attacks = Math.log(attacks);
-        }
-        return self.colorScale(attacks);
-      });
       setRegionSelected(region);
+      let rClass = "." + region;
+      svg.select("#worldmap").selectAll(rClass).style("fill", "green");
       let countries = self.region_countries_map[region];
       self.linechart.dropMenu(countries);
       self.barChart.updateBarChart();
@@ -78,10 +83,10 @@ class WorldMap {
 
   getCountriesForRegion(region){
     if(self.region_countries_map != null){
-        return self.region_countries_map[region];
+      return self.region_countries_map[region];
     }
     else{
-        return [];
+      return [];
     }
   }
   createGradient(){
@@ -120,11 +125,19 @@ class WorldMap {
   }
 
   updateColors(){
-    let self = this;
-    d3.select("#worldmap").selectAll("path").style("fill", function(d){
+    var self = this;
+    d3.select("#worldmap").selectAll("path")
+    .style("fill", function(d){
       let metric = getMetricsSelected();
-      let num = self.id_counts_map[metric];
-      return self.colorScale(num);
-    });
+      let country = self.id_metrics_map[d.id];
+      let val = 0;
+      try {
+        val = country[metric];
+      }
+      catch (e) {
+        val = 0;
+      }
+      return self.colorScale(val, metric);
+    })
   }
 }

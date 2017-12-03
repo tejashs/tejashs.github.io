@@ -101,12 +101,11 @@ function toggleYearHeight(show){
 }
 
 function showWorld(){
-	worldMap.setCountriesMappings(worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_counts_map"]);
+	worldMap.setCountriesMappings(worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_metrics_map"]);
 	worldMap.drawMap(worldMapData);
 	barChart.setData(barChartData);
 	let default_region = "Eastern_Europe";
 	setRegionSelected(default_region);
-	changeData();
 	let countries = worldCountriesData["region_countries_map"][default_region];
 	linechart.dropMenu(countries);
 }
@@ -122,6 +121,7 @@ function changeData() {
 	let metric = document.getElementById('metric').value;
 	setMetricSelected(metric);
 	usMap.updateColors();
+	worldMap.updateColors();
 	barChart.updateBarChart(metric, 'East Asia')
 }
 
@@ -143,12 +143,15 @@ function loadWorldMapFullData(callback){
 		if (error) throw error;
 		var id_region_map = new Object();
 		var region_countries_map = new Object();
-		var id_counts_map = new Object();
+		var id_metrics_map = new Object();
 		for(var i=0; i < countries.length; i++){
 			let c = countries[i];
 			let region = c.region
 			id_region_map[c.id] = region;
-			id_counts_map[c.id] = c.counts;
+			id_metrics_map[c.id] = Object()
+			id_metrics_map[c.id]["counts"]= c.counts;
+			id_metrics_map[c.id]["fatalities"]= c.fatalities;
+			id_metrics_map[c.id]["injuries"]= c.injuries;
 			if(region in region_countries_map){
 				cns = region_countries_map[region];
 			}
@@ -161,7 +164,7 @@ function loadWorldMapFullData(callback){
 		worldCountriesData = Object();
 		worldCountriesData["id_region_map"] = id_region_map;
 		worldCountriesData["region_countries_map"] = region_countries_map;
-		worldCountriesData["id_counts_map"] = id_counts_map;
+		worldCountriesData["id_metrics_map"] = id_metrics_map;
 		// console.log("World Map - Full Data Loaded!");
 		callback(null);
 
