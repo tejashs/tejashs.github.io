@@ -60,10 +60,12 @@ function toggleWorldElements(value){
 	if(value == 0){
 		d3.select("#worldmap").classed("cshow", false).classed("chide", true);
 		d3.select("#gradient").classed("cshow", false).classed("chide", true);
+		d3.select("#barchartdiv").classed("cshow", false).classed("chide", true);
 	}
 	else {
 		d3.select("#worldmap").classed("cshow", true).classed("chide", false);
 		d3.select("#gradient").classed("cshow", true).classed("chide", false);
+		d3.select("#barchartdiv").classed("cshow", false).classed("chide", false);
 	}
 }
 
@@ -71,15 +73,16 @@ function toggleWorldElements(value){
 Main Button Click on the page
 */
 function mainButtonClicked(value){
-	toggleCommonElements(1);
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
+		toggleCommonElements(0);
 		toggleYearHeight(true);
 		toggleUSElements(1);
 		toggleWorldElements(0);
 		showUSA();
 	}
 	else{
+		toggleCommonElements(1);
 		toggleYearHeight(false);
 		toggleWorldElements(1);
 		toggleUSElements(0);
