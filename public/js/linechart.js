@@ -1,7 +1,7 @@
 class LineChart {
 
   constructor(infoPanel){
-    this.margin = {top: 10, right: 10, bottom: 10, left: 50};
+    this.margin = {top: 10, right: 10, bottom: 20, left: 50};
     this.width = 500 - this.margin.left - this.margin.right;
     this.height = 500 - this.margin.top - this.margin.bottom;
     this.infoPanel=infoPanel;
@@ -57,7 +57,7 @@ class LineChart {
         .attr("transform", "translate(" + self.margin.left + "," + self.margin.top + ")");
 
         let xAxis = svg.select("#xAxis_L")
-        .attr("transform", "translate(" + self.margin.left + "," + self.height + ")");
+        .attr("transform", "translate(" + self.margin.left + "," + (500-self.margin.bottom) + ")");
 
 
         let yAxis = svg.select("#yAxis_L")
