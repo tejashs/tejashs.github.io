@@ -100,8 +100,39 @@ path {
 
 
 
+
+
 /*###########################################################*/
 /*Boot strap tweaks*/
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  width: 500px;
+  overflow-x: auto; /* change to hidden if that's what you want */
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+ul {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  white-space: nowrap;
+  padding: 1px;
+}
+.list-group-item{
+  font-size: 1.5rem;
+  justify-content: flex-start;
+  display: inline-block;
+}
+#list-panel > h4{
+  margin-left: 10px;
+}
+#list-panel > h2{
+  margin-left: 5px;
+}
+
 .mainButton {
   display: inline-block;
 }
