@@ -1,85 +1,108 @@
 class InfoPanel{
     constructor(){
-        
+
     }
 
     TopLists(data) {
-        console.log(getTopYearInfo(data)[0][0]['key'])
+        // console.log("here")
+        // console.log(getTopYearInfo(data)[0][0]['value'])
         // console.log(getTopYearInfo(data)[0][0])
         // console.log(getTopYearInfo(data)[0]['key'])
         let panel=getTopYearInfo(data)[0]
 
-        let tgroups = d3.select("#tgroups").selectAll("ul").data(panel);
-        let Entertgroups = tgroups.enter().append("ul").text(function (d, i) {
-
-        		// console.log("Hi");
-        		// console.log(d["key"]);
-        		return d['key'];}
-
-
-        );
+        let tgroups = d3.select("#tgroups").selectAll("li").data(panel);
+        let Entertgroups = tgroups.enter().append("li")
 
 
         tgroups.exit().remove();
         tgroups = tgroups.merge(Entertgroups);
 
-        tgroups.text(function (d,i) {
+        tgroups
+            .attr("class","list-group-item d-flex justify-content-between align-items-start")
+            .text(function (d,i) {
             return d["key"]
         });
+        let tgroupsS=d3.select("#tgroups").selectAll("li").append("span")
+            .attr("class","badge badge-primary badge-pill")
+            .attr("justify-content","flex-start")
+            // .attr("display","inline-block")
+            .text(function (d,i) {
+                return panel[i]["value"];
+            });
+
 
         let panel2=getTopYearInfo(data)[2]
 
-        let weapons = d3.select("#weapons").selectAll("ul").data(panel2);
-        let Enterweapons = weapons.enter().append("ul").text(function (d, i) {
+        let weapons = d3.select("#weapons").selectAll("li").data(panel2);
+        let Enterweapons = weapons.enter().append("li");
 
-            // console.log("Hi");
-            // console.log(d["key"]);
-            return d['key'];}
-
-
-        );
 
 
         weapons.exit().remove();
         weapons = weapons.merge(Enterweapons);
 
-        weapons.text(function (d,i) {
-            return d["key"]
+        weapons
+            .attr("class","list-group-item d-flex justify-content-between align-items-start")
+
+            .text(function (d,i) {
+            return d["key"];
         });
+
+        let weaponsS=d3.select("#weapons").selectAll("li").append("span")
+            .attr("class","badge badge-primary badge-pill")
+            .attr("justify-content","flex-start")
+            // .attr("display","inline-block")
+            .text(function (d,i) {
+            return panel2[i]["value"];
+        });
+
+
+            // .attr("class","badge badge-primary badge-pill")
+            // .text(function(d){
+            //     return d["value"];
+            // })
+
 
         let panel3=getTopYearInfo(data)[1]
 
-        let targets = d3.select("#targets").selectAll("ul").data(panel3);
-        let Entertargets = targets.enter().append("ul").text(function (d, i) {
-
-            // console.log("Hi");
-            // console.log(d["key"]);
-            return d['key'];}
+        let targets = d3.select("#targets").selectAll("li").data(panel3);
+        let Entertargets = targets.enter().append("li");
 
 
-        );
+
+        targets.exit().remove();
+        targets= targets.merge(Entertargets);
+
+        targets
+            .attr("class","list-group-item d-flex justify-content-between align-items-start")
+
+            .text(function (d,i) {
+                return d["key"];
+            });
+
+        let TargetS=d3.select("#targets").selectAll("li").append("span")
+            .attr("class","badge badge-primary badge-pill")
+            .attr("justify-content","flex-start")
+            // .attr("display","inline-block")
+            .text(function (d,i) {
+                return panel3[i]["value"];
+            });
 
 
-        weapons.exit().remove();
-        weapons = weapons.merge(Entertargets);
-
-        weapons.text(function (d,i) {
-            return d["key"]
-        });
     }
-    
+
     WordCloud(data){
         var word_count = {};
         data.forEach(function(d){
             word_count[d.keyword] = parseFloat(d.val);
       	})
 
-      	console.log(data)
-      	console.log(word_count)
+      	// console.log(data)
+      	// console.log(word_count)
 
 	    var svg_location = "#word-cloud"
-	    var width = 600
-	    var height = 800
+	    var width = 500
+	    var height = 600
 
 	    console.log(d3.max(Object.values(word_count)))
 
@@ -130,7 +153,7 @@ class InfoPanel{
 
 
        		// texts = textsEnter.merge(texts);
-	        
+
 	        texts
 	        // .transition()
 	        // .duration(1000)
@@ -145,5 +168,5 @@ class InfoPanel{
         }
 
 	      d3.layout.cloud().stop();
-	    }  
+	    }
 }
