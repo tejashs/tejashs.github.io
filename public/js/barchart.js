@@ -57,6 +57,19 @@ class BarChart {
         .domain([0, d3.max(selectedData)])
         .range(["#D46A6A", "#550000"]);
 
+        svg.append("g")
+          .attr("class", "legendLinear")
+          .attr("transform", "translate(80, 10)");
+
+        var legendLinear = d3.legendColor()
+        .shapeWidth(width/data.length)
+        .cells(data.length)
+        .orient('horizontal')
+        .scale(colorScale);
+
+        svg.select(".legendLinear")
+        .call(legendLinear);
+
         var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
