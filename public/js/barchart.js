@@ -24,9 +24,16 @@ class BarChart {
 
         var data = self.getCountries(this.data, selectedRegion)
 
+        var sum = 0
+        data.forEach(function(d){
+            sum += parseInt(d[selectedDimension])
+        })
+       
+        data = data.filter(d => d[selectedDimension]*2 > sum/data.length);
+
         var selectedData = []
         data.forEach(function(d){
-            selectedData.push(parseInt(d[selectedDimension]))
+            selectedData.push(parseInt(d[selectedDimension]));
         });
 
         var svg = d3.select("#barchart")
@@ -37,7 +44,7 @@ class BarChart {
         let height = 600 - margin.top - margin.bottom
         svg.attr("width", 600).attr("height", 600);
         var x = d3.scaleLinear()
-                .domain([0, d3.max(selectedData)])
+        .domain([0, d3.max(selectedData)])
         .range([0, width]);
 
         // console.log(d3.max(selectedData))
