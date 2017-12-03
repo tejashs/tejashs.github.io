@@ -10,7 +10,8 @@ selectedMainOption = null;
 
 // US Map related Data
 usMapData = null;
-usEntireData = null;
+usAggData = null;
+usYearsData = null;
 
 //World Map related data
 worldMapData = null;
@@ -20,14 +21,33 @@ worldCountriesData = null;
 barChartData = null;
 
 loadDataAsync();
+toggleCommonElements(0);
 
 //#################################################################################
 // All Functions Below this line
+/*
+Toggle Common Elements
+value 0 - Hidden
+value 1 - Shown
+*/
+function toggleCommonElements(value){
+	if(value == 0){
+		d3.select("#metricDiv").classed("cshow", false).classed("chide", true);
+		d3.select("#country-selector").classed("cshow", false).classed("chide", true);
+		d3.select("#info-Panel").classed("cshow", false).classed("chide", true);
+	}
+	else {
+		d3.select("#metricDiv").classed("cshow", true).classed("chide", false);
+		d3.select("#country-selector").classed("cshow", true).classed("chide", false);
+		d3.select("#info-Panel").classed("cshow", true).classed("chide", false);
+	}
+}
 
 /*
 Main Button Click on the page
 */
 function mainButtonClicked(value){
+	toggleCommonElements(1);
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
 		//USA Components
@@ -70,10 +90,18 @@ function showWorld(){
 	worldMap.setCountriesMappings(worldCountriesData["id_region_map"], worldCountriesData["region_countries_map"] , worldCountriesData["id_counts_map"]);
 	worldMap.drawMap(worldMapData);
 	barChart.setData(barChartData);
+	let default_region = "Eastern_Europe";
+	setRegionSelected(default_region);
+	changeData();
+	let countries = worldCountriesData["region_countries_map"][default_region];
+	linechart.dropMenu(countries);
 }
 function showUSA(){
-	usMap.setStateAggData(aggData);
+	yearchart.update(usMapData);
+	usMap.setStateAggData(usAggData);
+	usMap.setEntireData(usYearsData);
 	usMap.drawMap(usMapData);
+	usMap.plotStates(usYearsData);
 }
 
 function changeData() {
@@ -90,7 +118,7 @@ function loadWorldMapData(callback){
 	d3.json("data/world.json", function (error, world) {
 		if (error) throw error;
 		worldMapData = world;
-		console.log("World Map - Map Data Loaded!");
+		// console.log("World Map - Map Data Loaded!");
 		callback(null);
 	});
 }
@@ -118,7 +146,7 @@ function loadWorldMapFullData(callback){
 		worldCountriesData["id_region_map"] = id_region_map;
 		worldCountriesData["region_countries_map"] = region_countries_map;
 		worldCountriesData["id_counts_map"] = id_counts_map;
-		console.log("World Map - Full Data Loaded!");
+		// console.log("World Map - Full Data Loaded!");
 		callback(null);
 
 	});
@@ -132,7 +160,7 @@ function loadBarChartData(callback){
 	d3.csv("data/group_by_counts.csv", function(error, data) {
 		if (error) throw error;
 		barChartData = data;
-		console.log("World Map - Bar Chart Data Loaded!");
+		// console.log("World Map - Bar Chart Data Loaded!");
 		callback(null);
 	});
 }
@@ -145,7 +173,15 @@ function loadUSMapData(callback){
 	d3.json("data/ustopo.json", function(error, us) {
 		if (error) throw error;
 		usMapData = us;
-		console.log("US Map - Map Data Loaded!");
+		// console.log("US Map - Map Data Loaded!");
+		callback(null);
+	});
+}
+function loadUSYearsData(callback){
+	d3.csv("data/united_states_gtd.csv", function(error, us) {
+		if (error) throw error;
+		usYearsData = us;
+		// console.log("US Map - Map Data Loaded!");
 		callback(null);
 	});
 }
@@ -156,8 +192,8 @@ function loadUSMapFullData(callback){
 		for(var i=0; i < us.length; i++){
 			aggData[us[i]["state"]] = us[i];
 		}
-		usEntireData = aggData;
-		console.log("US Map - Full Data Loaded!");
+		usAggData = aggData;
+		// console.log("US Map - Full Data Loaded!");
 		callback(null);
 	});
 }
@@ -171,6 +207,7 @@ function loadDataAsync(){
 	q.defer(loadWorldMapData);
 	q.defer(loadWorldMapFullData);
 	q.defer(loadUSMapData);
+	q.defer(loadUSYearsData);
 	q.defer(loadUSMapFullData);
 	q.defer(loadBarChartData);
 	q.awaitAll(function(error) {

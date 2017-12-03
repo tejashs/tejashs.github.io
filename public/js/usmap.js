@@ -2,10 +2,11 @@ class USMap {
 
     constructor(summary){
       // this.summary = summary;
-      let width = 1200;
-      let height = 800;
-
-      this.projection = d3.geoAlbersUsa().translate([width/ 2.5, height /3]).scale([1200]);
+      let margin = {left:50};
+      let width = 650 - margin.left;
+      let height = 600;
+      let svg = d3.select("#mapSvg").attr("y", margin.left).attr("width", width).attr("height", height);
+      this.projection = d3.geoAlbersUsa().translate([width/2, height /2]).scale([800]);
       this.path = d3.geoPath().projection(this.projection);
       this.aggData = null;
       this.colorScale = d3.scaleLinear()
@@ -62,7 +63,7 @@ class USMap {
       let circlesEnter = circles.enter().append("circle");
       circles.exit().remove();
       circles = circlesEnter.merge(circles);
-      circles.attr("r", 5)
+      circles.attr("r", 3)
       .attr("cx", function(d){
         let proj = self.projection([d.longitude, d.latitude]);
         if(proj){
@@ -87,7 +88,7 @@ class USMap {
           return 0;
         }
       })
-      .style("fill", "#D22727");
+      .style("fill", "red");
       //for reference:https://github.com/Caged/d3-tip
       self.tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
                   return [20,30];

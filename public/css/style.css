@@ -26,29 +26,18 @@ path {
   color: #fff;
   border-radius: 2px;
 }
-
-.sideBar {
-  display: inline-block;
-  width: 30%;
-  float:right;
-}
 #barchartspan {
   display: inline-block;
   width: 30%;
   float:right;
 }
-
-.content {
-  display: inline-block;
-  width: 70%;
-}
-
 .brush .selection {
   fill-opacity: .5;
 }
 
 .yearCircle {
-  fill: #08A723;
+  /*fill: #08A723;*/
+  fill : steelblue;
 }
 
 .attackSelected {
@@ -93,11 +82,15 @@ path {
   margin-left: 50px;
 }
 .two {
-  margin-left: 25px;
-  margin-right: 20px;
+  margin-right: 50px;
+  margin-right: 100px;
 }
-
-
+.cshow {
+  visibility: visible;
+}
+.chide {
+  visibility: hidden;
+}
 
 
 

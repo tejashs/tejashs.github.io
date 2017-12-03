@@ -7,8 +7,10 @@
     <link rel="icon" href="data:,">  <!-- Hack to stop favicon -->
     <link rel="stylesheet" href="public/css/style.css"/>
     <!-- Bootstrap core CSS -->
+
     <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
     <!-- Custom styles for this template -->
     <link href="public/bootstrap/css/justified-nav.css" rel="stylesheet">
   </head>
@@ -23,8 +25,21 @@
 
         <div class="btn-group">
         </div>
-        <a id="mainButton1" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('usa')" role="button">USA</a>
-        <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">World</a>
+        <a id="mainButton1" class="btn btn-lg btn-success mainButton yearCircle" onclick="mainButtonClicked('usa')" role="button">USA</a>
+        <a id="mainButton2" class="btn btn-lg btn-success mainButton yearCircle" onclick="mainButtonClicked('world')" role="button">World</a>
+        <a id="mainButton2" class="btn btn-lg btn-success mainButton" onclick="mainButtonClicked('world')" role="button">Aggregate</a>
+      </br>
+      </br>
+      </br>
+      </br>
+        <div id="metricDiv" class="chide cshow">
+            <label>Metric:</label>
+            <select id="metric" onchange="changeData(this);">
+                <option value="counts">Number of Attacks</option>
+                <option value="fatalities">Number of Fatalities</option>
+                <option value="injuries">Number of Injuries</option>
+            </select>
+        </div>
       </div>
 </div> <!-- /container -->
 <div id="year-chart" class="view">
@@ -32,23 +47,56 @@
 
 <div class="container-fluid">
     <div class="row">
-      <div id="mapDiv" width="800" height="600" class="col-md-6 one">
-        <svg id="mapSvg" width="800" height="600">
+      <div id="mapDiv" width="650" height="600" class="col-md-6 one">
+        <svg id="mapSvg">
             <g id="usmap"></g>
             <g id="worldmap"></g>
             <g id="circleGroup"></g>
         </svg>
       </div>
-
-      <div id="barchartdiv" class = "col-md-4 two">
-        <svg id = "barchart" width="700" height="600">
+      <div id="barchartdiv" width="600" height="600" class = "col-md-4 two">
+        <svg id = "barchart">
         	  <g id="xAxis"></g>
             <g id="yAxis"></g>
             <g id="bars"></g>
         </svg>
       </div>
     </div>
-</div>
+    <div class="row">
+      <div id="gradientDiv" width="1200" height="50">
+      </div>
+    </div>
+</div> <!-- fluid -->
+
+</br>
+</br>
+</br>
+</br>
+
+<div id="info-Panel" class="view chide cshow" class="container-fluid">
+    <div class="row">
+      <div id="line-chart" class="col view">
+          <svg width="500" height="500">
+              <g id="xAxis_L"></g>
+              <g id="yAxis_L"></g>
+              <g id="line"></g>
+          </svg>
+      </div>
+      <div id="word-cloud" class="col view">
+          <svg width="400" height="400">
+          </svg>
+      </div>
+      <div id="list-panel" class="col">
+          <h2 id="edition">Summary</h2>
+          <h4>Top Terrorist Groups</h4>
+          <span id="tgroups"></span>
+          <h4>Top Weapons</h4>
+          <span id="weapons"></span>
+          <h4>Top Targets</h4>
+          <span id="targets"></span>
+      </div>
+    </div>
+</div> <!-- fluid -->
 
 <!-- <div id="summaryDiv" width="400" height="400">
     <h3>Attack Summary: </h3>
@@ -56,21 +104,9 @@
   </span>
 </div> -->
 
-<h2>Countries with highest number of terrorist attacks</h2>
-<span>
-    <label>Metric:</label>
-    <select id="metric" onchange="changeData(this);">
-        <option value="counts">Number of Attacks</option>
-        <option value="fatalities">Number of Fatalities</option>
-        <option value="injuries">Number of Injuries</option>
-    </select>
-</span>
-
-
-
 <div class="view">
-    <h2 class="">Line Chart</h2>
-    <div id="country-selector">
+    <h2 class=""></h2>
+    <div id="country-selector" class="chide cshow">
         <label>Country:</label>
         <select id="country">
             <!--<option selected value="attendance">Attendance</option>-->
@@ -79,6 +115,7 @@
             <!--<option value="goals">Goals</option>-->
         </select>
     </div>
+
         <div id="line-chart" class="view">
             <svg width="1100" height="550">
                 <g id="xAxis_L"></g>
@@ -108,6 +145,7 @@
         <h4>Top Targets</h4>
         <ul class="list-group" id="targets"></ul>
     </div>
+
 
 </div>
 
