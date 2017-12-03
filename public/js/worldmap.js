@@ -25,7 +25,7 @@ class WorldMap {
 
   drawMap(world){
     let self = this;
-    self.createGradient();
+    //self.createGradient();
     let svg = d3.select("#mapSvg");
     let geodata = topojson.feature(world, world.objects.countries);
     let path = d3.geoPath().projection(self.projection);
