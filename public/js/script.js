@@ -23,6 +23,7 @@ barChartData = null;
 
 loadDataAsync();
 toggleCommonElements(0);
+d3.selectAll(".cheaders").classed("cshow", false).classed("chide", true);
 
 //#################################################################################
 // All Functions Below this line

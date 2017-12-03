@@ -106,11 +106,13 @@ class LineChart {
 
         var hover=line.selectAll('circle').on("click", function(){
           d3.csv("data/Country_grouped_data/" + sel_country + "/top_keywords.csv", function (error, keywords) {
-            self.infoPanel.WordCloud(keywords)
+            self.infoPanel.WordCloud(keywords);
+
           });
 
           d3.csv("data/Country_grouped_data/" + sel_country + "/top_year.csv", function (error, topYear) {
-            self.infoPanel.TopLists(topYear)
+            self.infoPanel.TopLists(topYear);
+            d3.selectAll(".cheaders").classed("cshow", true).classed("chide", false);
           });
         });
       });
