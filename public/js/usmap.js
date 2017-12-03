@@ -88,7 +88,8 @@ class USMap {
           return 0;
         }
       })
-      .style("fill", "red");
+      .style("fill", "black")
+      .style("stroke", "white")
       //for reference:https://github.com/Caged/d3-tip
       self.tip = d3.tip().attr('class', 'd3-tip').direction('se').offset(function() {
                   return [20,30];

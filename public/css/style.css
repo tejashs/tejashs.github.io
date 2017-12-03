@@ -22,7 +22,7 @@ path {
   line-height: 1;
   font-weight: bold;
   padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.6);
   color: #fff;
   border-radius: 2px;
 }
@@ -37,7 +37,7 @@ path {
 
 .yearCircle {
   /*fill: #08A723;*/
-  fill : steelblue;
+  fill : black;
 }
 
 .attackSelected {
@@ -46,8 +46,9 @@ path {
 }
 
 .yearSelected {
-  stroke: #FF5151;
-  stroke-width: 4px;
+  fill: #AA3939;
+  stroke: #AA3939;
+  stroke-width: 2px;
 }
 .countries {
   stroke: #f7f7f7;
