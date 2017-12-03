@@ -1,10 +1,10 @@
 let summary = new Summary();
 let usMap = new USMap(summary);
 let infoPanel = new InfoPanel();
-let linechart = new LineChart(infoPanel);
-let worldMap = new WorldMap(linechart);
-let yearchart = new YearChart(usMap);
 let barChart = new BarChart();
+let linechart = new LineChart(infoPanel);
+let yearchart = new YearChart(usMap);
+let worldMap = new WorldMap(linechart, barChart);
 
 selectedMainOption = null;
 

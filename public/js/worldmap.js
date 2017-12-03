@@ -1,6 +1,6 @@
 class WorldMap {
-  constructor(linechart){
-
+  constructor(linechart, barChart){
+    this.barChart = barChart;
     this.linechart=linechart;
     let margin = {left:50};
     let width = 650 - margin.left;
@@ -46,7 +46,6 @@ class WorldMap {
     .on("mouseover", function(d){
       let region = self.id_region_map[d.id];
       region = "." + region;
-      // svg.select("#worldmap").selectAll("path").style("fill", "#C0C0C0");
       svg.select("#worldmap").selectAll(region).classed("countries_hovered", true).style("fill", function(d){
         let attacks = self.id_counts_map[d.id];
         if (attacks != 0){
@@ -72,6 +71,7 @@ class WorldMap {
       setRegionSelected(region);
       let countries = self.region_countries_map[region];
       self.linechart.dropMenu(countries);
+      self.barChart.updateBarChart();
     });
     paths.classed("countries_hovered", false);
   }
@@ -117,5 +117,14 @@ class WorldMap {
     .attr('y', 0)
     .attr('width', width)
     .attr('height', height);
+  }
+
+  updateColors(){
+    let self = this;
+    d3.select("#worldmap").selectAll("path").style("fill", function(d){
+      let metric = getMetricsSelected();
+      let num = self.id_counts_map[metric];
+      return self.colorScale(num);
+    });
   }
 }
