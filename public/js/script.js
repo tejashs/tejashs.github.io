@@ -228,6 +228,7 @@ function loadDataAsync(){
 	q.defer(loadBarChartData);
 	q.awaitAll(function(error) {
 		if (error) throw error;
+		mainButtonClicked("world");
 		console.log("All Data Loaded!");
 	});
 }
