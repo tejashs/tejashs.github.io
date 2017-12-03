@@ -1,6 +1,6 @@
 class InfoPanel{
     constructor(){
-        
+
     }
 
     TopLists(data) {
@@ -67,19 +67,19 @@ class InfoPanel{
             return d["key"]
         });
     }
-    
+
     WordCloud(data){
         var word_count = {};
         data.forEach(function(d){
             word_count[d.keyword] = parseFloat(d.val);
       	})
 
-      	console.log(data)
-      	console.log(word_count)
+      	// console.log(data)
+      	// console.log(word_count)
 
 	    var svg_location = "#word-cloud"
-	    var width = 600
-	    var height = 800
+	    var width = 500
+	    var height = 600
 
 	    console.log(d3.max(Object.values(word_count)))
 
@@ -130,7 +130,7 @@ class InfoPanel{
 
 
        		// texts = textsEnter.merge(texts);
-	        
+
 	        texts
 	        // .transition()
 	        // .duration(1000)
@@ -145,5 +145,5 @@ class InfoPanel{
         }
 
 	      d3.layout.cloud().stop();
-	    }  
+	    }
 }
