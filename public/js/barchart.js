@@ -23,9 +23,18 @@ class BarChart {
 
         var data = self.getCountries(this.data, selectedRegion)
 
+        var sum = 0
+        data.forEach(function(d){
+            sum += parseInt(d[selectedDimension])
+        })
+       
+        data = data.filter(d => d[selectedDimension]*2 > sum/data.length);
+
+        data.sort(function(a, b){return a[selectedDimension] - b[selectedDimension]});
+
         var selectedData = []
         data.forEach(function(d){
-            selectedData.push(parseInt(d[selectedDimension]))
+            selectedData.push(parseInt(d[selectedDimension]));
         });
 
         var svg = d3.select("#barchart")
@@ -37,7 +46,7 @@ class BarChart {
         svg.attr("width", 600).attr("height", 600);
         d3.select("#metricDiv").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
         var x = d3.scaleLinear()
-                .domain([0, d3.max(selectedData)])
+        .domain([0, d3.max(selectedData)])
         .range([0, width]);
 
         // console.log(d3.max(selectedData))
@@ -49,6 +58,21 @@ class BarChart {
         let colorScale = d3.scaleLinear()
         .domain([0, d3.max(selectedData)])
         .range(["#D46A6A", "#550000"]);
+
+        svg.append("g")
+        .attr("class", "legendLinear")
+        .attr("transform", "translate(120, 10)")
+        .style("font-size","8px");
+
+        var legendLinear = d3.legendColor()
+        .shapeWidth(width/data.length)
+        .cells(data.length)
+        .orient('horizontal')
+        .labelAlign("start")
+        .scale(colorScale);
+
+        svg.select(".legendLinear")
+        .call(legendLinear);
 
         var g = svg.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
