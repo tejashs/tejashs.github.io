@@ -3,10 +3,10 @@ class USMap {
     constructor(summary){
       // this.summary = summary;
       let margin = {left:50};
-      let width = 650 - margin.left;
+      let width = 850 - margin.left;
       let height = 600;
       let svg = d3.select("#mapSvg").attr("y", margin.left).attr("width", width).attr("height", height);
-      this.projection = d3.geoAlbersUsa().translate([width/2, height /2]).scale([800]);
+      this.projection = d3.geoAlbersUsa().translate([width/2, height /2]).scale([1000]);
       this.path = d3.geoPath().projection(this.projection);
       this.aggData = null;
       this.colorScale = d3.scaleLinear()
