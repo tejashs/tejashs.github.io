@@ -1,10 +1,10 @@
 let summary = new Summary();
 let usMap = new USMap(summary);
 let infoPanel = new InfoPanel();
-let barChart = new BarChart();
 let linechart = new LineChart(infoPanel);
+let worldMap = new WorldMap(linechart);
 let yearchart = new YearChart(usMap);
-let worldMap = new WorldMap(linechart, barChart);
+let barChart = new BarChart();
 
 selectedMainOption = null;
 
@@ -228,6 +228,7 @@ function loadDataAsync(){
 	q.defer(loadBarChartData);
 	q.awaitAll(function(error) {
 		if (error) throw error;
+		mainButtonClicked("world");
 		console.log("All Data Loaded!");
 	});
 }

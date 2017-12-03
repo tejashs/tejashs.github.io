@@ -70,8 +70,22 @@
 
 </br>
 </br>
-</br>
-</br>
+
+<div id="fJumbo" class="jumbotron" width="1000" height="100" >
+  <div class="view">
+      <h2 class=""></h2>
+      <div id="country-selector" class="chide cshow">
+          <label>Country:</label>
+          <select id="country">
+              <!--<option selected value="attendance">Attendance</option>-->
+              <!--<option value="teams">Teams</option>-->
+              <!--<option value="matches">Matches</option>-->
+              <!--<option value="goals">Goals</option>-->
+          </select>
+      </div>
+  </div>
+</div>
+
 
 <div id="info-Panel" class="view chide cshow" class="container-fluid">
     <div class="row">
@@ -82,34 +96,24 @@
               <g id="line"></g>
           </svg>
       </div>
+      <h3>Global Terrorism</h3>
       <div id="word-cloud" class="col view">
           <svg width="400" height="400">
           </svg>
       </div>
-      <div id="list-panel" class="col">
-          <h2 id="edition">Summary</h2>
-          <h4>Top Terrorist Groups</h4>
-          <span id="tgroups"></span>
-          <h4>Top Weapons</h4>
-          <span id="weapons"></span>
-          <h4>Top Targets</h4>
-          <span id="targets"></span>
-      </div>
     </div>
 </div> <!-- fluid -->
 
-<div class="view">
-    <h2 class=""></h2>
-    <div id="country-selector" class="chide cshow">
-        <label>Country:</label>
-        <select id="country">
-            <!--<option selected value="attendance">Attendance</option>-->
-            <!--<option value="teams">Teams</option>-->
-            <!--<option value="matches">Matches</option>-->
-            <!--<option value="goals">Goals</option>-->
-        </select>
-    </div>
+<div id="list-panel">
+    <h2 id="edition">Summary</h2>
+    <h4>Top Terrorist Groups</h4>
+    <span id="tgroups"></span>
+    <h4>Top Weapons</h4>
+    <span id="weapons"></span>
+    <h4>Top Targets</h4>
+    <span id="targets"></span>
 </div>
+
 
 <!-- Ext Javascript Files -->
 <!-- <script type="application/javascript" src="bower_components/ext/d3.v4.js"></script> -->

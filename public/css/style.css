@@ -100,11 +100,11 @@ path {
 /*Boot strap tweaks*/
 
 li {
-  display: inline-block;
+  /*display: inline-block;*/
   list-style-type: none;
-  width: 500px;
+  width: 400px;
   overflow-x: auto; /* change to hidden if that's what you want */
-  float: left;
+  /*float: left;*/
   margin-right: 10px;
   margin-left: 10px;
 }
@@ -117,8 +117,8 @@ ul {
 }
 .list-group-item{
   font-size: 1.5rem;
-  justify-content: flex-start;
-  display: inline-block;
+  /*justify-content: flex-start;*/
+  /*display: inline-block;*/
 }
 #list-panel > h4{
   margin-left: 10px;
