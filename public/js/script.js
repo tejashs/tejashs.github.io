@@ -60,10 +60,12 @@ function toggleWorldElements(value){
 	if(value == 0){
 		d3.select("#worldmap").classed("cshow", false).classed("chide", true);
 		d3.select("#gradient").classed("cshow", false).classed("chide", true);
+		d3.select("#barchartdiv").classed("cshow", false).classed("chide", true);
 	}
 	else {
 		d3.select("#worldmap").classed("cshow", true).classed("chide", false);
 		d3.select("#gradient").classed("cshow", true).classed("chide", false);
+		d3.select("#barchartdiv").classed("cshow", false).classed("chide", false);
 	}
 }
 
