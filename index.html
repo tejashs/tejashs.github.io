@@ -32,18 +32,17 @@
       </br>
       </br>
       </br>
-        <div id="metricDiv" class="chide cshow">
-            <label>Metric:</label>
-            <select id="metric" onchange="changeData(this);">
-                <option value="counts">Number of Attacks</option>
-                <option value="fatalities">Number of Fatalities</option>
-                <option value="injuries">Number of Injuries</option>
-            </select>
-        </div>
       </div>
 </div> <!-- /container -->
 <div id="year-chart" class="view">
 </div>
+<!-- <div id="summaryDiv" width="400" height="400">
+    <h3>Brush selection is: </h3>
+    <span id="stateList">
+    <h3>Attack Summary: </h3>
+    <span id="summarytext">
+  </span>
+</div> -->
 
 <div class="container-fluid">
     <div class="row">
@@ -54,7 +53,15 @@
             <g id="circleGroup"></g>
         </svg>
       </div>
-      <div id="barchartdiv" width="600" height="600" class = "col-md-4 two">
+      <div id="barchartdiv" width="600" height="600" class = "col-md-4 two chide cshow">
+        <div id="metricDiv" class="chide cshow">
+            <label>Metric:</label>
+            <select id="metric" onchange="changeData(this);">
+                <option value="counts">Number of Attacks</option>
+                <option value="fatalities">Number of Fatalities</option>
+                <option value="injuries">Number of Injuries</option>
+            </select>
+        </div>
         <svg id = "barchart">
         	  <g id="xAxis"></g>
             <g id="yAxis"></g>
@@ -131,7 +138,7 @@
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/esm/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 <!-- Own Javascript Files -->
 <script type="application/javascript" src="public/js/util.js"></script>

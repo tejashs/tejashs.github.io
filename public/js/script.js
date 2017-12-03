@@ -71,15 +71,16 @@ function toggleWorldElements(value){
 Main Button Click on the page
 */
 function mainButtonClicked(value){
-	toggleCommonElements(1);
 	selectedMainOption = value;
 	if(selectedMainOption === "usa"){
+		toggleCommonElements(0);
 		toggleYearHeight(true);
 		toggleUSElements(1);
 		toggleWorldElements(0);
 		showUSA();
 	}
 	else{
+		toggleCommonElements(1);
 		toggleYearHeight(false);
 		toggleWorldElements(1);
 		toggleUSElements(0);

@@ -36,6 +36,7 @@ class BarChart {
         let width = 600 - margin.left - margin.right
         let height = 600 - margin.top - margin.bottom
         svg.attr("width", 600).attr("height", 600);
+        d3.select("#metricDiv").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
         var x = d3.scaleLinear()
                 .domain([0, d3.max(selectedData)])
         .range([0, width]);
